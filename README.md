@@ -1,2 +1,2 @@
 # ESPN-fantasy-football-2
-Iterating on previous approaches for accessing fantasy football analytics
+Previous I have attempted to collect historical data for fantasy football via ESPN's website directly. Here we will be taking a slighty different approach using fftoday.com
