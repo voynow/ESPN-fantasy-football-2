@@ -17,7 +17,7 @@ def create_driver(link):
 def exe():
 
     link = "https://fftoday.com/stats/playerstats.php?Season=2021&GameWeek=&PosID="
-    position_ids = [10, 20, 30, 40, 50]
+    position_ids = [10, 20, 30, 40]
     links = [link + str(position_id) for position_id in position_ids]
 
     for link in links:
