@@ -19,25 +19,28 @@ def create_driver(link=None):
     return driver
 
 
-def exe(links_loc="data/player_links.json", output_loc="data/raw.json"):
-
-    links = json.load(open(links_loc, 'rb'))
-    driver = create_driver()
+def collect_data(driver, links):
 
     data_collection = {}
     for i, (name, link) in enumerate(links.items()):
-        print(f"{name}: {link}")
         
         driver.get(link)
-        update_element = driver.find_element(By.CLASS_NAME, "update")
-        smallbody_element = driver.find_element(By.CLASS_NAME, "smallbody")
-        elements_combined_text = f'{update_element.text}\n{smallbody_element.text}'
+        page_element = driver.find_element(By.CLASS_NAME, "bodycontent")
 
         data_collection[name] = {
             "id": i,
             "link": link,
-            "data": elements_combined_text,
+            "data": page_element.text,
         }
+    
+    return data_collection
+
+
+def exe(links_loc="data/player_links.json", output_loc="data/raw.json"):
+
+    links = json.load(open(links_loc, 'rb'))
+    driver = create_driver()
+    data_collection = collect_data(driver, links)
 
     with open(output_loc, "w") as f:
         json.dump(data_collection, f, indent=4)
