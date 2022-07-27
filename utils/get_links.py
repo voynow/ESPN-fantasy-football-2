@@ -55,9 +55,9 @@ def collect_player_links(position_link):
     return player_links
 
 
-def exe():
+def exe(output_loc="data/player_links.json"):
 
-    output_loc = "data/player_links.json"
+    
     link = "https://fftoday.com/stats/playerstats.php?Season=2021&GameWeek=&PosID="
     link_suffix = "&LeagueID=17"
     position_ids = [10, 20, 30, 40, 80]
