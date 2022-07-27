@@ -1,0 +1,3307 @@
+{
+    "Josh Allen": {
+        "id": 0,
+        "link": "https://fftoday.com/stats/players/16228/Josh_Allen?LeagueID=17",
+        "data": "Quarterback, Buffalo Bills\nDraft: 2018 Round 1 (7)\nCollege: Wyoming\nHt: 6\u20195\u201d  Wt: 233 DOB: 1996-05-21 Age: 26"
+    },
+    "Tom Brady": {
+        "id": 1,
+        "link": "https://fftoday.com/stats/players/1812/Tom_Brady?LeagueID=17",
+        "data": "Quarterback, Tampa Bay Buccaneers\nDraft: 2000 Round 6 (33)\nCollege: Michigan\nHt: 6\u20194\u201d  Wt: 225 DOB: 1977-08-03 Age: 44"
+    },
+    "Justin Herbert": {
+        "id": 2,
+        "link": "https://fftoday.com/stats/players/17102/Justin_Herbert?LeagueID=17",
+        "data": "Quarterback, Los Angeles Chargers\nDraft: 2020 Round 1 (6)\nCollege: Oregon\nHt: 6\u20196\u201d  Wt: 236 DOB: 1998-03-10 Age: 24"
+    },
+    "Patrick Mahomes": {
+        "id": 3,
+        "link": "https://fftoday.com/stats/players/15946/Patrick_Mahomes?LeagueID=17",
+        "data": "Quarterback, Kansas City Chiefs\nDraft: 2017 Round 1 (10)\nCollege: Texas Tech\nHt: 6\u20192\u201d  Wt: 225 DOB: 1995-09-17 Age: 26"
+    },
+    "Matthew Stafford": {
+        "id": 4,
+        "link": "https://fftoday.com/stats/players/11001/Matthew_Stafford?LeagueID=17",
+        "data": "Quarterback, Los Angeles Rams\nDraft: 2009 Round 1 (1)\nCollege: Georgia\nHt: 6\u20192\u201d  Wt: 232 DOB: 1988-02-07 Age: 34"
+    },
+    "Aaron Rodgers": {
+        "id": 5,
+        "link": "https://fftoday.com/stats/players/2480/Aaron_Rodgers?LeagueID=17",
+        "data": "Quarterback, Green Bay Packers\nDraft: 2005 Round 1 (24)\nCollege: California\nHt: 6\u20192\u201d  Wt: 225 DOB: 1983-12-02 Age: 38"
+    },
+    "Joe Burrow": {
+        "id": 6,
+        "link": "https://fftoday.com/stats/players/17028/Joe_Burrow?LeagueID=17",
+        "data": "Quarterback, Cincinnati Bengals\nDraft: 2020 Round 1 (1)\nCollege: Louisiana State\nHt: 6\u20194\u201d  Wt: 221 DOB: 1996-12-10 Age: 25"
+    },
+    "Dak Prescott": {
+        "id": 7,
+        "link": "https://fftoday.com/stats/players/15681/Dak_Prescott?LeagueID=17",
+        "data": "Quarterback, Dallas Cowboys\nDraft: 2016 Round 4 (37)\nCollege: Mississippi State\nHt: 6\u20192\u201d  Wt: 226 DOB: 1993-07-29 Age: 28"
+    },
+    "Jalen Hurts": {
+        "id": 8,
+        "link": "https://fftoday.com/stats/players/17116/Jalen_Hurts?LeagueID=17",
+        "data": "Quarterback, Philadelphia Eagles\nDraft: 2020 Round 2 (21)\nCollege: Oklahoma\nHt: 6\u20191\u201d  Wt: 222 DOB: 1998-08-07 Age: 23"
+    },
+    "Kyler Murray": {
+        "id": 9,
+        "link": "https://fftoday.com/stats/players/16663/Kyler_Murray?LeagueID=17",
+        "data": "Quarterback, Arizona Cardinals\nDraft: 2019 Round 1 (1)\nCollege: Oklahoma\nHt: 5\u201910\u201d  Wt: 207 DOB: 1997-08-07 Age: 24"
+    },
+    "Kirk Cousins": {
+        "id": 10,
+        "link": "https://fftoday.com/stats/players/12376/Kirk_Cousins?LeagueID=17",
+        "data": "Quarterback, Minnesota Vikings\nDraft: 2012 Round 4 (7)\nCollege: Michigan State\nHt: 6\u20193\u201d  Wt: 214 DOB: 1988-08-19 Age: 33"
+    },
+    "Ryan Tannehill": {
+        "id": 11,
+        "link": "https://fftoday.com/stats/players/12283/Ryan_Tannehill?LeagueID=17",
+        "data": "Quarterback, Tennessee Titans\nDraft: 2012 Round 1 (8)\nCollege: Texas A&M\nHt: 6\u20194\u201d  Wt: 221 DOB: 1988-07-27 Age: 34"
+    },
+    "Derek Carr": {
+        "id": 12,
+        "link": "https://fftoday.com/stats/players/14145/Derek_Carr?LeagueID=17",
+        "data": "Quarterback, Las Vegas Raiders\nDraft: 2014 Round 2 (4)\nCollege: Fresno State\nHt: 6\u20192\u201d  Wt: 214 DOB: 1991-03-28 Age: 31"
+    },
+    "Carson Wentz": {
+        "id": 13,
+        "link": "https://fftoday.com/stats/players/15741/Carson_Wentz?LeagueID=17",
+        "data": "Quarterback, Washington Commanders\nDraft: 2016 Round 1 (2)\nCollege: North Dakota State\nHt: 6\u20195\u201d  Wt: 237 DOB: 1992-12-30 Age: 29"
+    },
+    "Lamar Jackson": {
+        "id": 14,
+        "link": "https://fftoday.com/stats/players/16255/Lamar_Jackson?LeagueID=17",
+        "data": "Quarterback, Baltimore Ravens\nDraft: 2018 Round 1 (32)\nCollege: Louisville\nHt: 6\u20193\u201d  Wt: 200 DOB: 1997-01-07 Age: 25"
+    },
+    "Russell Wilson": {
+        "id": 15,
+        "link": "https://fftoday.com/stats/players/12349/Russell_Wilson?LeagueID=17",
+        "data": "Quarterback, Denver Broncos\nDraft: 2012 Round 3 (12)\nCollege: Wisconsin\nHt: 5\u201911\u201d  Wt: 206 DOB: 1988-11-29 Age: 33"
+    },
+    "Jimmy Garoppolo": {
+        "id": 16,
+        "link": "https://fftoday.com/stats/players/14191/Jimmy_Garoppolo?LeagueID=17",
+        "data": "Quarterback, San Francisco 49ers\nDraft: 2014 Round 2 (30)\nCollege: Eastern Illinois\nHt: 6\u20192\u201d  Wt: 226 DOB: 1991-11-02 Age: 30"
+    },
+    "Taylor Heinicke": {
+        "id": 17,
+        "link": "https://fftoday.com/stats/players/15411/Taylor_Heinicke?LeagueID=17",
+        "data": "Quarterback, Washington Commanders\nCollege: Old Dominion\nHt: 6\u20191\u201d  Wt: 210 DOB: 1993-03-15 Age: 29"
+    },
+    "Mac Jones": {
+        "id": 18,
+        "link": "https://fftoday.com/stats/players/17617/Mac_Jones?LeagueID=17",
+        "data": "Quarterback, New England Patriots\nDraft: 2021 Round 1 (15)\nCollege: Alabama\nHt: 6\u20193\u201d  Wt: 214 DOB: 1998-09-05 Age: 23"
+    },
+    "Matt Ryan": {
+        "id": 19,
+        "link": "https://fftoday.com/stats/players/2955/Matt_Ryan?LeagueID=17",
+        "data": "Quarterback, Indianapolis Colts\nDraft: 2008 Round 1 (3)\nCollege: Boston College\nHt: 6\u20194\u201d  Wt: 220 DOB: 1985-05-17 Age: 37"
+    },
+    "Ben Roethlisberger": {
+        "id": 20,
+        "link": "https://fftoday.com/stats/players/3066/Ben_Roethlisberger?LeagueID=17",
+        "data": "Quarterback, Free Agent\nDraft: 2004 Round 1 (11)\nHt: 6\u20195\u201d  Wt: 241 DOB: 1982-03-02 Age: 40"
+    },
+    "Trevor Lawrence": {
+        "id": 21,
+        "link": "https://fftoday.com/stats/players/17624/Trevor_Lawrence?LeagueID=17",
+        "data": "Quarterback, Jacksonville Jaguars\nDraft: 2021 Round 1 (1)\nCollege: Clemson\nHt: 6\u20196\u201d  Wt: 220 DOB: 1999-10-06 Age: 22"
+    },
+    "Teddy Bridgewater": {
+        "id": 22,
+        "link": "https://fftoday.com/stats/players/14131/Teddy_Bridgewater?LeagueID=17",
+        "data": "Quarterback, Miami Dolphins\nDraft: 2014 Round 1 (32)\nCollege: Louisville\nHt: 6\u20192\u201d  Wt: 214 DOB: 1992-11-10 Age: 29"
+    },
+    "Jared Goff": {
+        "id": 23,
+        "link": "https://fftoday.com/stats/players/15589/Jared_Goff?LeagueID=17",
+        "data": "Quarterback, Detroit Lions\nDraft: 2016 Round 1 (1)\nCollege: California\nHt: 6\u20194\u201d  Wt: 215 DOB: 1994-10-14 Age: 27"
+    },
+    "Tua Tagovailoa": {
+        "id": 24,
+        "link": "https://fftoday.com/stats/players/17221/Tua_Tagovailoa?LeagueID=17",
+        "data": "Quarterback, Miami Dolphins\nDraft: 2020 Round 1 (5)\nCollege: Alabama\nDOB: 1998-03-02 Age: 24"
+    },
+    "Baker Mayfield": {
+        "id": 25,
+        "link": "https://fftoday.com/stats/players/16116/Baker_Mayfield?LeagueID=17",
+        "data": "Quarterback, Carolina Panthers\nDraft: 2018 Round 1 (1)\nCollege: Oklahoma\nHt: 6\u20191\u201d  Wt: 215 DOB: 1995-04-14 Age: 27"
+    },
+    "Sam Darnold": {
+        "id": 26,
+        "link": "https://fftoday.com/stats/players/16316/Sam_Darnold?LeagueID=17",
+        "data": "Quarterback, Carolina Panthers\nDraft: 2018 Round 1 (3)\nCollege: Southern California\nHt: 6\u20193\u201d  Wt: 221 DOB: 1997-06-05 Age: 25"
+    },
+    "Daniel Jones": {
+        "id": 27,
+        "link": "https://fftoday.com/stats/players/16624/Daniel_Jones?LeagueID=17",
+        "data": "Quarterback, New York Giants\nDraft: 2019 Round 1 (6)\nCollege: Duke\nHt: 6\u20195\u201d  Wt: 221 DOB: 1997-05-27 Age: 25"
+    },
+    "Davis Mills": {
+        "id": 28,
+        "link": "https://fftoday.com/stats/players/17646/Davis_Mills?LeagueID=17",
+        "data": "Quarterback, Houston Texans\nDraft: 2021 Round 3 (3)\nCollege: Stanford\nHt: 6\u20194\u201d  Wt: 212 DOB: 1998-10-21 Age: 23"
+    },
+    "Zach Wilson": {
+        "id": 29,
+        "link": "https://fftoday.com/stats/players/17756/Zach_Wilson?LeagueID=17",
+        "data": "Quarterback, New York Jets\nDraft: 2021 Round 1 (2)\nCollege: Brigham Young\nHt: 6\u20193\u201d  Wt: 210 DOB: 1999-08-03 Age: 22"
+    },
+    "Justin Fields": {
+        "id": 30,
+        "link": "https://fftoday.com/stats/players/17568/Justin_Fields?LeagueID=17",
+        "data": "Quarterback, Chicago Bears\nDraft: 2021 Round 1 (11)\nCollege: Ohio State\nHt: 6\u20193\u201d  Wt: 228 DOB: 1999-03-09 Age: 23"
+    },
+    "Jameis Winston": {
+        "id": 31,
+        "link": "https://fftoday.com/stats/players/15353/Jameis_Winston?LeagueID=17",
+        "data": "Quarterback, New Orleans Saints\nDraft: 2015 Round 1 (1)\nCollege: Florida State\nHt: 6\u20194\u201d  Wt: 231 DOB: 1994-01-06 Age: 28"
+    },
+    "Trevor Siemian": {
+        "id": 32,
+        "link": "https://fftoday.com/stats/players/15309/Trevor_Siemian?LeagueID=17",
+        "data": "Quarterback, Chicago Bears\nDraft: 2015 Round 7 (33)\nCollege: Northwestern\nHt: 6\u20193\u201d  Wt: 215 DOB: 1991-12-26 Age: 30"
+    },
+    "Cam Newton": {
+        "id": 33,
+        "link": "https://fftoday.com/stats/players/11855/Cam_Newton?LeagueID=17",
+        "data": "Quarterback, Free Agent\nDraft: 2011 Round 1 (1)\nCollege: Auburn\nHt: 6\u20195\u201d  Wt: 244 DOB: 1989-05-11 Age: 33"
+    },
+    "Andy Dalton": {
+        "id": 34,
+        "link": "https://fftoday.com/stats/players/11889/Andy_Dalton?LeagueID=17",
+        "data": "Quarterback, New Orleans Saints\nDraft: 2011 Round 2 (3)\nHt: 6\u20192\u201d  Wt: 220 DOB: 1987-10-29 Age: 34"
+    },
+    "Tyrod Taylor": {
+        "id": 35,
+        "link": "https://fftoday.com/stats/players/12034/Tyrod_Taylor?LeagueID=17",
+        "data": "Quarterback, New York Giants\nDraft: 2011 Round 6 (15)\nCollege: Virginia Tech\nHt: 6\u20191\u201d  Wt: 217 DOB: 1989-08-03 Age: 32"
+    },
+    "Tyler Huntley": {
+        "id": 36,
+        "link": "https://fftoday.com/stats/players/17392/Tyler_Huntley?LeagueID=17",
+        "data": "Quarterback, Baltimore Ravens\nCollege: Utah\nHt: 6\u20191\u201d  Wt: 205 DOB: 1998-02-03 Age: 24"
+    },
+    "Jacoby Brissett": {
+        "id": 37,
+        "link": "https://fftoday.com/stats/players/15522/Jacoby_Brissett?LeagueID=17",
+        "data": "Quarterback, Cleveland Browns\nDraft: 2016 Round 3 (29)\nCollege: North Carolina State\nHt: 6\u20194\u201d  Wt: 231 DOB: 1992-12-11 Age: 29"
+    },
+    "Trey Lance": {
+        "id": 38,
+        "link": "https://fftoday.com/stats/players/17623/Trey_Lance?LeagueID=17",
+        "data": "Quarterback, San Francisco 49ers\nDraft: 2021 Round 1 (3)\nCollege: North Dakota State\nHt: 6\u20194\u201d  Wt: 226 DOB: 2000-05-09 Age: 22"
+    },
+    "Geno Smith": {
+        "id": 39,
+        "link": "https://fftoday.com/stats/players/13362/Geno_Smith?LeagueID=17",
+        "data": "Quarterback, Seattle Seahawks\nDraft: 2013 Round 2 (8)\nCollege: West Virginia\nHt: 6\u20193\u201d  Wt: 220 DOB: 1990-10-10 Age: 31"
+    },
+    "Drew Lock": {
+        "id": 40,
+        "link": "https://fftoday.com/stats/players/16635/Drew_Lock?LeagueID=17",
+        "data": "Quarterback, Seattle Seahawks\nDraft: 2019 Round 2 (10)\nCollege: Missouri\nHt: 6\u20194\u201d  Wt: 228 DOB: 1996-00-00 Age: 26"
+    },
+    "Mike White": {
+        "id": 41,
+        "link": "https://fftoday.com/stats/players/16284/Mike_White?LeagueID=17",
+        "data": "Quarterback, New York Jets\nDraft: 2018 Round 5 (34)\nCollege: Western Kentucky\nHt: 6\u20194\u201d  Wt: 225 DOB: 1995-03-25 Age: 27"
+    },
+    "Josh Johnson": {
+        "id": 42,
+        "link": "https://fftoday.com/stats/players/2934/Josh_Johnson?LeagueID=17",
+        "data": "Quarterback, Denver Broncos\nDraft: 2008 Round 5 (25)\nCollege: San Diego\nHt: 6\u20193\u201d  Wt: 205 DOB: 1986-05-15 Age: 36"
+    },
+    "Colt McCoy": {
+        "id": 43,
+        "link": "https://fftoday.com/stats/players/11495/Colt_McCoy?LeagueID=17",
+        "data": "Quarterback, Arizona Cardinals\nDraft: 2010 Round 3 (21)\nCollege: Texas\nHt: 6\u20191\u201d  Wt: 216 DOB: 1986-09-05 Age: 35"
+    },
+    "Mike Glennon": {
+        "id": 44,
+        "link": "https://fftoday.com/stats/players/13129/Mike_Glennon?LeagueID=17",
+        "data": "Quarterback, Free Agent\nDraft: 2013 Round 3 (11)\nCollege: North Carolina State\nHt: 6\u20196\u201d  Wt: 225 DOB: 1989-12-12 Age: 32"
+    },
+    "Gardner Minshew": {
+        "id": 45,
+        "link": "https://fftoday.com/stats/players/16656/Gardner_Minshew?LeagueID=17",
+        "data": "Quarterback, Philadelphia Eagles\nDraft: 2019 Round 6 (5)\nCollege: Washington State\nHt: 6\u20191\u201d  Wt: 225 DOB: 1996-05-16 Age: 26"
+    },
+    "Case Keenum": {
+        "id": 46,
+        "link": "https://fftoday.com/stats/players/15042/Case_Keenum?LeagueID=17",
+        "data": "Quarterback, Buffalo Bills\nCollege: Houston\nHt: 6\u20191\u201d  Wt: 205 DOB: 1988-02-17 Age: 34"
+    },
+    "Tim Boyle": {
+        "id": 47,
+        "link": "https://fftoday.com/stats/players/16435/Tim_Boyle?LeagueID=17",
+        "data": "Quarterback, Detroit Lions\nCollege: Eastern Kentucky\nHt: 6\u20194\u201d  Wt: 232 DOB: 1994-10-03 Age: 27"
+    },
+    "Cooper Rush": {
+        "id": 48,
+        "link": "https://fftoday.com/stats/players/14996/Cooper_Rush?LeagueID=17",
+        "data": "Quarterback, Dallas Cowboys\nCollege: Central Michigan\nHt: 6\u20193\u201d  Wt: 225 DOB: 1993-11-21 Age: 28"
+    },
+    "Joe Flacco": {
+        "id": 49,
+        "link": "https://fftoday.com/stats/players/2913/Joe_Flacco?LeagueID=17",
+        "data": "Quarterback, New York Jets\nDraft: 2008 Round 1 (18)\nCollege: Delaware\nHt: 6\u20196\u201d  Wt: 238 DOB: 1985-01-16 Age: 37"
+    },
+    "Jordan Love": {
+        "id": 50,
+        "link": "https://fftoday.com/stats/players/17146/Jordan_Love?LeagueID=17",
+        "data": "Quarterback, Green Bay Packers\nDraft: 2020 Round 1 (26)\nCollege: Utah State\nHt: 6\u20194\u201d  Wt: 224 DOB: 1998-11-02 Age: 23"
+    },
+    "Mason Rudolph": {
+        "id": 51,
+        "link": "https://fftoday.com/stats/players/16274/Mason_Rudolph?LeagueID=17",
+        "data": "Quarterback, Pittsburgh Steelers\nDraft: 2018 Round 3 (12)\nCollege: Oklahoma State\nHt: 6\u20195\u201d  Wt: 235 DOB: 1995-07-17 Age: 27"
+    },
+    "Marcus Mariota": {
+        "id": 52,
+        "link": "https://fftoday.com/stats/players/15240/Marcus_Mariota?LeagueID=17",
+        "data": "Quarterback, Atlanta Falcons\nDraft: 2015 Round 1 (2)\nCollege: Oregon\nHt: 6\u20194\u201d  Wt: 222 DOB: 1993-10-30 Age: 28"
+    },
+    "Nick Foles": {
+        "id": 53,
+        "link": "https://fftoday.com/stats/players/12362/Nick_Foles?LeagueID=17",
+        "data": "Quarterback, Indianapolis Colts\nDraft: 2012 Round 3 (25)\nCollege: Arizona\nHt: 6\u20196\u201d  Wt: 243 DOB: 1989-01-20 Age: 33"
+    },
+    "P.J. Walker": {
+        "id": 54,
+        "link": "https://fftoday.com/stats/players/16925/P.J._Walker?LeagueID=17",
+        "data": "Quarterback, Carolina Panthers\nCollege: Temple\nHt: 5\u201911\u201d  Wt: 214 DOB: 1995-02-26 Age: 27"
+    },
+    "Jake Fromm": {
+        "id": 55,
+        "link": "https://fftoday.com/stats/players/17076/Jake_Fromm?LeagueID=17",
+        "data": "Quarterback, Free Agent\nDraft: 2020 Round 5 (22)\nCollege: Georgia\nHt: 6\u20192\u201d  Wt: 219 DOB: 1998-07-30 Age: 23"
+    },
+    "Brandon Allen": {
+        "id": 56,
+        "link": "https://fftoday.com/stats/players/15504/Brandon_Allen?LeagueID=17",
+        "data": "Quarterback, Cincinnati Bengals\nDraft: 2016 Round 6 (26)\nCollege: Arkansas\nHt: 6\u20191\u201d  Wt: 217 DOB: 1992-09-05 Age: 29"
+    },
+    "Sean Mannion": {
+        "id": 57,
+        "link": "https://fftoday.com/stats/players/15239/Sean_Mannion?LeagueID=17",
+        "data": "Quarterback, Minnesota Vikings\nDraft: 2015 Round 3 (25)\nCollege: Oregon State\nHt: 6\u20196\u201d  Wt: 229 DOB: 1992-04-23 Age: 30"
+    },
+    "Brian Hoyer": {
+        "id": 58,
+        "link": "https://fftoday.com/stats/players/11285/Brian_Hoyer?LeagueID=17",
+        "data": "Quarterback, New England Patriots\nCollege: Michigan State\nHt: 6\u20192\u201d  Wt: 215 DOB: 1985-10-13 Age: 36"
+    },
+    "Nick Mullens": {
+        "id": 59,
+        "link": "https://fftoday.com/stats/players/16427/Nick_Mullens?LeagueID=17",
+        "data": "Quarterback, Las Vegas Raiders\nCollege: Southern Mississippi\nHt: 6\u20191\u201d  Wt: 219 DOB: 1995-03-21 Age: 27"
+    },
+    "Mitchell Trubisky": {
+        "id": 60,
+        "link": "https://fftoday.com/stats/players/16022/Mitchell_Trubisky?LeagueID=17",
+        "data": "Quarterback, Pittsburgh Steelers\nDraft: 2017 Round 1 (2)\nCollege: North Carolina\nHt: 6\u20192\u201d  Wt: 222 DOB: 1994-08-20 Age: 27"
+    },
+    "Kyle Allen": {
+        "id": 61,
+        "link": "https://fftoday.com/stats/players/16473/Kyle_Allen?LeagueID=17",
+        "data": "Quarterback, Houston Texans\nCollege: Houston\nHt: 6\u20193\u201d  Wt: 210 DOB: 1996-03-08 Age: 26"
+    },
+    "Garrett Gilbert": {
+        "id": 62,
+        "link": "https://fftoday.com/stats/players/14194/Garrett_Gilbert?LeagueID=17",
+        "data": "Quarterback, Free Agent\nDraft: 2014 Round 6 (38)\nCollege: Southern Methodist\nHt: 6\u20194\u201d  Wt: 223 DOB: 1991-07-01 Age: 31"
+    },
+    "Ian Book": {
+        "id": 63,
+        "link": "https://fftoday.com/stats/players/17514/Ian_Book?LeagueID=17",
+        "data": "Quarterback, New Orleans Saints\nDraft: 2021 Round 4 (28)\nCollege: Notre Dame\nDOB: 1998-03-30 Age: 24"
+    },
+    "Chad Henne": {
+        "id": 64,
+        "link": "https://fftoday.com/stats/players/2923/Chad_Henne?LeagueID=17",
+        "data": "Quarterback, Kansas City Chiefs\nDraft: 2008 Round 2 (26)\nCollege: Michigan\nHt: 6\u20193\u201d  Wt: 230 DOB: 1985-07-02 Age: 37"
+    },
+    "Chris Streveler": {
+        "id": 65,
+        "link": "https://fftoday.com/stats/players/17268/Chris_Streveler?LeagueID=17",
+        "data": "Quarterback, New York Jets\nCollege: South Dakota\nHt: 6\u20191\u201d  Wt: 216 DOB: 1995-01-06 Age: 27"
+    },
+    "Blaine Gabbert": {
+        "id": 66,
+        "link": "https://fftoday.com/stats/players/11864/Blaine_Gabbert?LeagueID=17",
+        "data": "Quarterback, Tampa Bay Buccaneers\nDraft: 2011 Round 1 (10)\nCollege: Missouri\nHt: 6\u20195\u201d  Wt: 235 DOB: 1989-10-15 Age: 32"
+    },
+    "C.J. Beathard": {
+        "id": 67,
+        "link": "https://fftoday.com/stats/players/15817/C.J._Beathard?LeagueID=17",
+        "data": "Quarterback, Jacksonville Jaguars\nDraft: 2017 Round 3 (40)\nCollege: Iowa\nHt: 6\u20192\u201d  Wt: 219 DOB: 1993-11-16 Age: 28"
+    },
+    "Sam Ehlinger": {
+        "id": 68,
+        "link": "https://fftoday.com/stats/players/17558/Sam_Ehlinger?LeagueID=17",
+        "data": "Quarterback, Indianapolis Colts\nDraft: 2021 Round 6 (34)\nCollege: Texas\nHt: 6\u20193\u201d  Wt: 225 DOB: 1998-09-30 Age: 23"
+    },
+    "Ryan Fitzpatrick": {
+        "id": 69,
+        "link": "https://fftoday.com/stats/players/2548/Ryan_Fitzpatrick?LeagueID=17",
+        "data": "Quarterback, Free Agent\nDraft: 2005 Round 7 (36)\nCollege: Harvard\nHt: 6\u20192\u201d  Wt: 225 DOB: 1982-11-24 Age: 39"
+    },
+    "David Blough": {
+        "id": 70,
+        "link": "https://fftoday.com/stats/players/16880/David_Blough?LeagueID=17",
+        "data": "Quarterback, Detroit Lions\nCollege: Purdue\nHt: 6\u20191\u201d  Wt: 205 DOB: 1995-07-31 Age: 26"
+    },
+    "Kellen Mond": {
+        "id": 71,
+        "link": "https://fftoday.com/stats/players/17651/Kellen_Mond?LeagueID=17",
+        "data": "Quarterback, Minnesota Vikings\nDraft: 2021 Round 3 (2)\nCollege: Texas A&M\nHt: 6\u20193\u201d  Wt: 217 DOB: 1999-06-22 Age: 23"
+    },
+    "Nathan Peterman": {
+        "id": 72,
+        "link": "https://fftoday.com/stats/players/15977/Nathan_Peterman?LeagueID=17",
+        "data": "Quarterback, Chicago Bears\nDraft: 2017 Round 5 (28)\nCollege: Pittsburgh\nHt: 6\u20192\u201d  Wt: 226 DOB: 1994-05-04 Age: 28"
+    },
+    "Jacob Eason": {
+        "id": 73,
+        "link": "https://fftoday.com/stats/players/17068/Jacob_Eason?LeagueID=17",
+        "data": "Quarterback, Seattle Seahawks\nDraft: 2020 Round 4 (16)\nCollege: Washington\nHt: 6\u20196\u201d  Wt: 231 DOB: 1997-11-17 Age: 24"
+    },
+    "Brett Rypien": {
+        "id": 74,
+        "link": "https://fftoday.com/stats/players/17284/Brett_Rypien?LeagueID=17",
+        "data": "Quarterback, Denver Broncos\nCollege: Boise State\nHt: 6\u20192\u201d  Wt: 202 DOB: 1996-07-09 Age: 26"
+    },
+    "Kurt Benkert": {
+        "id": 75,
+        "link": "https://fftoday.com/stats/players/17883/Kurt_Benkert?LeagueID=17",
+        "data": "Quarterback, Free Agent\nCollege: Virginia\nHt: 6\u20193\u201d  Wt: 218 DOB: 1995-07-17 Age: 27"
+    },
+    "Chase Daniel": {
+        "id": 76,
+        "link": "https://fftoday.com/stats/players/11322/Chase_Daniel?LeagueID=17",
+        "data": "Quarterback, Los Angeles Chargers\nCollege: Missouri\nDOB: 1986-10-07 Age: 35"
+    },
+    "Davis Webb": {
+        "id": 77,
+        "link": "https://fftoday.com/stats/players/16033/Davis_Webb?LeagueID=17",
+        "data": "Quarterback, New York Giants\nDraft: 2017 Round 3 (23)\nCollege: California\nHt: 6\u20195\u201d  Wt: 229 DOB: 1995-01-22 Age: 27"
+    },
+    "Feleipe Franks": {
+        "id": 78,
+        "link": "https://fftoday.com/stats/players/17810/Feleipe_Franks?LeagueID=17",
+        "data": "Quarterback, Atlanta Falcons\nCollege: Arkansas\nHt: 6\u20196\u201d  Wt: 234 DOB: 1997-12-22 Age: 24"
+    },
+    "Logan Woodside": {
+        "id": 79,
+        "link": "https://fftoday.com/stats/players/16259/Logan_Woodside?LeagueID=17",
+        "data": "Quarterback, Tennessee Titans\nDraft: 2018 Round 7 (31)\nCollege: Toledo\nHt: 6\u20192\u201d  Wt: 201 DOB: 1995-01-27 Age: 27"
+    },
+    "John Wolford": {
+        "id": 80,
+        "link": "https://fftoday.com/stats/players/17261/John_Wolford?LeagueID=17",
+        "data": "Quarterback, Los Angeles Rams\nCollege: Wake Forest\nHt: 6\u20191\u201d  Wt: 199 DOB: 1995-10-16 Age: 26"
+    },
+    "Josh Rosen": {
+        "id": 81,
+        "link": "https://fftoday.com/stats/players/16229/Josh_Rosen?LeagueID=17",
+        "data": "Quarterback, Cleveland Browns\nDraft: 2018 Round 1 (10)\nCollege: UCLA\nHt: 6\u20194\u201d  Wt: 226 DOB: 1997-02-10 Age: 25"
+    },
+    "Jonathan Taylor": {
+        "id": 82,
+        "link": "https://fftoday.com/stats/players/17224/Jonathan_Taylor?LeagueID=17",
+        "data": "Running Back, Indianapolis Colts\nDraft: 2020 Round 2 (9)\nCollege: Wisconsin\nHt: 5\u201910\u201d  Wt: 226 DOB: 1999-01-19 Age: 23"
+    },
+    "Austin Ekeler": {
+        "id": 83,
+        "link": "https://fftoday.com/stats/players/14936/Austin_Ekeler?LeagueID=17",
+        "data": "Running Back, Los Angeles Chargers\nCollege: Western State, Colo.\nHt: 5\u201910\u201d  Wt: 200 DOB: 1995-05-17 Age: 27"
+    },
+    "Joe Mixon": {
+        "id": 84,
+        "link": "https://fftoday.com/stats/players/15961/Joe_Mixon?LeagueID=17",
+        "data": "Running Back, Cincinnati Bengals\nDraft: 2017 Round 2 (16)\nCollege: Oklahoma\nHt: 6\u20191\u201d  Wt: 226 DOB: 1996-07-24 Age: 26"
+    },
+    "Najee Harris": {
+        "id": 85,
+        "link": "https://fftoday.com/stats/players/17592/Najee_Harris?LeagueID=17",
+        "data": "Running Back, Pittsburgh Steelers\nDraft: 2021 Round 1 (24)\nCollege: Alabama\nHt: 6\u20192\u201d  Wt: 230 DOB: 1998-03-09 Age: 24"
+    },
+    "James Conner": {
+        "id": 86,
+        "link": "https://fftoday.com/stats/players/15840/James_Conner?LeagueID=17",
+        "data": "Running Back, Arizona Cardinals\nDraft: 2017 Round 3 (41)\nCollege: Pittsburgh\nHt: 6\u20191\u201d  Wt: 233 DOB: 1995-05-05 Age: 27"
+    },
+    "Ezekiel Elliott": {
+        "id": 87,
+        "link": "https://fftoday.com/stats/players/15575/Ezekiel_Elliott?LeagueID=17",
+        "data": "Running Back, Dallas Cowboys\nDraft: 2016 Round 1 (4)\nCollege: Ohio State\nDOB: 1995-07-22 Age: 27"
+    },
+    "Leonard Fournette": {
+        "id": 88,
+        "link": "https://fftoday.com/stats/players/15871/Leonard_Fournette?LeagueID=17",
+        "data": "Running Back, Tampa Bay Buccaneers\nDraft: 2017 Round 1 (4)\nCollege: Louisiana State\nDOB: 1995-01-18 Age: 27"
+    },
+    "Alvin Kamara": {
+        "id": 89,
+        "link": "https://fftoday.com/stats/players/15924/Alvin_Kamara?LeagueID=17",
+        "data": "Running Back, New Orleans Saints\nDraft: 2017 Round 3 (3)\nCollege: Tennessee\nHt: 5\u201910\u201d  Wt: 214 DOB: 1995-07-25 Age: 27"
+    },
+    "Cordarrelle Patterson": {
+        "id": 90,
+        "link": "https://fftoday.com/stats/players/13308/Cordarrelle_Patterson?LeagueID=17",
+        "data": "Running Back, Atlanta Falcons\nDraft: 2013 Round 1 (29)\nCollege: Tennessee\nHt: 6\u20193\u201d  Wt: 205 DOB: 1991-03-17 Age: 31"
+    },
+    "Antonio Gibson": {
+        "id": 91,
+        "link": "https://fftoday.com/stats/players/17083/Antonio_Gibson?LeagueID=17",
+        "data": "Running Back, Washington Commanders\nDraft: 2020 Round 3 (2)\nCollege: Memphis\nDOB: 1998-06-23 Age: 24"
+    },
+    "Nick Chubb": {
+        "id": 92,
+        "link": "https://fftoday.com/stats/players/16289/Nick_Chubb?LeagueID=17",
+        "data": "Running Back, Cleveland Browns\nDraft: 2018 Round 2 (3)\nCollege: Georgia\nHt: 5\u201911\u201d  Wt: 228 DOB: 1995-12-27 Age: 26"
+    },
+    "Aaron Jones": {
+        "id": 93,
+        "link": "https://fftoday.com/stats/players/15916/Aaron_Jones?LeagueID=17",
+        "data": "Running Back, Green Bay Packers\nDraft: 2017 Round 5 (39)\nCollege: Texas-El Paso\nHt: 5\u20199\u201d  Wt: 208 DOB: 1994-12-02 Age: 27"
+    },
+    "Damien Harris": {
+        "id": 94,
+        "link": "https://fftoday.com/stats/players/16591/Damien_Harris?LeagueID=17",
+        "data": "Running Back, New England Patriots\nDraft: 2019 Round 3 (24)\nCollege: Alabama\nHt: 5\u201910\u201d  Wt: 216 DOB: 1997-02-11 Age: 25"
+    },
+    "Josh Jacobs": {
+        "id": 95,
+        "link": "https://fftoday.com/stats/players/16611/Josh_Jacobs?LeagueID=17",
+        "data": "Running Back, Las Vegas Raiders\nDraft: 2019 Round 1 (24)\nCollege: Alabama\nHt: 5\u201910\u201d  Wt: 220 DOB: 1998-02-11 Age: 24"
+    },
+    "Dalvin Cook": {
+        "id": 96,
+        "link": "https://fftoday.com/stats/players/15841/Dalvin_Cook?LeagueID=17",
+        "data": "Running Back, Minnesota Vikings\nDraft: 2017 Round 2 (9)\nCollege: Florida State\nHt: 5\u201910\u201d  Wt: 210 DOB: 1995-08-10 Age: 26"
+    },
+    "Javonte Williams": {
+        "id": 97,
+        "link": "https://fftoday.com/stats/players/17753/Javonte_Williams?LeagueID=17",
+        "data": "Running Back, Denver Broncos\nDraft: 2021 Round 2 (3)\nCollege: North Carolina\nHt: 5\u201910\u201d  Wt: 220 DOB: 2000-04-25 Age: 22"
+    },
+    "Melvin Gordon": {
+        "id": 98,
+        "link": "https://fftoday.com/stats/players/15187/Melvin_Gordon?LeagueID=17",
+        "data": "Running Back, Denver Broncos\nDraft: 2015 Round 1 (15)\nCollege: Wisconsin\nHt: 6\u20191\u201d  Wt: 215 DOB: 1993-04-13 Age: 29"
+    },
+    "Derrick Henry": {
+        "id": 99,
+        "link": "https://fftoday.com/stats/players/15602/Derrick_Henry?LeagueID=17",
+        "data": "Running Back, Tennessee Titans\nDraft: 2016 Round 2 (14)\nCollege: Alabama\nHt: 6\u20193\u201d  Wt: 247 DOB: 1994-07-17 Age: 28"
+    },
+    "D'Andre Swift": {
+        "id": 100,
+        "link": "https://fftoday.com/stats/players/17220/D'Andre_Swift?LeagueID=17",
+        "data": "Running Back, Detroit Lions\nDraft: 2020 Round 2 (3)\nCollege: Georgia\nHt: 5\u20198\u201d  Wt: 212 DOB: 1999-01-14 Age: 23"
+    },
+    "Devin Singletary": {
+        "id": 101,
+        "link": "https://fftoday.com/stats/players/16699/Devin_Singletary?LeagueID=17",
+        "data": "Running Back, Buffalo Bills\nDraft: 2019 Round 3 (11)\nCollege: Florida Atlantic\nHt: 5\u20197\u201d  Wt: 203 DOB: 1997-09-03 Age: 24"
+    },
+    "David Montgomery": {
+        "id": 102,
+        "link": "https://fftoday.com/stats/players/16658/David_Montgomery?LeagueID=17",
+        "data": "Running Back, Chicago Bears\nDraft: 2019 Round 3 (10)\nCollege: Iowa State\nHt: 5\u201910\u201d  Wt: 222 DOB: 1997-07-06 Age: 25"
+    },
+    "Darrel Williams": {
+        "id": 103,
+        "link": "https://fftoday.com/stats/players/16382/Darrel_Williams?LeagueID=17",
+        "data": "Running Back, Arizona Cardinals\nCollege: Louisiana State\nHt: 5\u201911\u201d  Wt: 224 DOB: 1995-04-15 Age: 27"
+    },
+    "AJ Dillon": {
+        "id": 104,
+        "link": "https://fftoday.com/stats/players/17060/AJ_Dillon?LeagueID=17",
+        "data": "Running Back, Green Bay Packers\nDraft: 2020 Round 2 (30)\nCollege: Boston College\nDOB: 1998-05-02 Age: 24"
+    },
+    "James Robinson": {
+        "id": 105,
+        "link": "https://fftoday.com/stats/players/17257/James_Robinson?LeagueID=17",
+        "data": "Running Back, Jacksonville Jaguars\nCollege: Illinois State\nHt: 5\u201910\u201d  Wt: 220 DOB: 1998-08-09 Age: 23"
+    },
+    "Elijah Mitchell": {
+        "id": 106,
+        "link": "https://fftoday.com/stats/players/17648/Elijah_Mitchell?LeagueID=17",
+        "data": "Running Back, San Francisco 49ers\nDraft: 2021 Round 6 (10)\nCollege: Louisiana\nHt: 5\u201911\u201d  Wt: 218 DOB: 1998-05-02 Age: 24"
+    },
+    "Myles Gaskin": {
+        "id": 107,
+        "link": "https://fftoday.com/stats/players/16577/Myles_Gaskin?LeagueID=17",
+        "data": "Running Back, Miami Dolphins\nDraft: 2019 Round 7 (20)\nCollege: Washington\nHt: 5\u20199\u201d  Wt: 205 DOB: 1997-02-15 Age: 25"
+    },
+    "Darrell Henderson": {
+        "id": 108,
+        "link": "https://fftoday.com/stats/players/16597/Darrell_Henderson?LeagueID=17",
+        "data": "Running Back, Los Angeles Rams\nDraft: 2019 Round 3 (6)\nCollege: Memphis\nHt: 5\u20198\u201d  Wt: 208 DOB: 1997-08-19 Age: 24"
+    },
+    "Tony Pollard": {
+        "id": 109,
+        "link": "https://fftoday.com/stats/players/16676/Tony_Pollard?LeagueID=17",
+        "data": "Running Back, Dallas Cowboys\nDraft: 2019 Round 4 (26)\nCollege: Memphis\nDOB: 1996-00-00 Age: 26"
+    },
+    "Michael Carter": {
+        "id": 110,
+        "link": "https://fftoday.com/stats/players/17531/Michael_Carter?LeagueID=17",
+        "data": "Running Back, New York Jets\nDraft: 2021 Round 4 (2)\nCollege: North Carolina\nHt: 5\u20198\u201d  Wt: 199 DOB: 1999-05-07 Age: 23"
+    },
+    "Sony Michel": {
+        "id": 111,
+        "link": "https://fftoday.com/stats/players/16326/Sony_Michel?LeagueID=17",
+        "data": "Running Back, Miami Dolphins\nDraft: 2018 Round 1 (31)\nCollege: Georgia\nHt: 5\u201911\u201d  Wt: 220 DOB: 1995-02-17 Age: 27"
+    },
+    "Devonta Freeman": {
+        "id": 112,
+        "link": "https://fftoday.com/stats/players/14182/Devonta_Freeman?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2014 Round 4 (3)\nCollege: Florida State\nHt: 5\u20198\u201d  Wt: 206 DOB: 1992-03-15 Age: 30"
+    },
+    "Saquon Barkley": {
+        "id": 113,
+        "link": "https://fftoday.com/stats/players/16319/Saquon_Barkley?LeagueID=17",
+        "data": "Running Back, New York Giants\nDraft: 2018 Round 1 (2)\nCollege: Penn State\nDOB: 1997-02-07 Age: 25"
+    },
+    "Chuba Hubbard": {
+        "id": 114,
+        "link": "https://fftoday.com/stats/players/17603/Chuba_Hubbard?LeagueID=17",
+        "data": "Running Back, Carolina Panthers\nDraft: 2021 Round 4 (21)\nCollege: Oklahoma State\nDOB: 1999-06-11 Age: 23"
+    },
+    "Devontae Booker": {
+        "id": 115,
+        "link": "https://fftoday.com/stats/players/15517/Devontae_Booker?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2016 Round 4 (38)\nCollege: Utah\nHt: 5\u201911\u201d  Wt: 219 DOB: 1992-05-27 Age: 30"
+    },
+    "Chase Edmonds": {
+        "id": 116,
+        "link": "https://fftoday.com/stats/players/16133/Chase_Edmonds?LeagueID=17",
+        "data": "Running Back, Miami Dolphins\nDraft: 2018 Round 4 (34)\nCollege: Fordham\nHt: 5\u20199\u201d  Wt: 205 DOB: 1996-04-13 Age: 26"
+    },
+    "Rashaad Penny": {
+        "id": 117,
+        "link": "https://fftoday.com/stats/players/16300/Rashaad_Penny?LeagueID=17",
+        "data": "Running Back, Seattle Seahawks\nDraft: 2018 Round 1 (27)\nCollege: San Diego State\nHt: 5\u201911\u201d  Wt: 220 DOB: 1996-02-02 Age: 26"
+    },
+    "Mike Davis": {
+        "id": 118,
+        "link": "https://fftoday.com/stats/players/15147/Mike_Davis?LeagueID=17",
+        "data": "Running Back, Baltimore Ravens\nDraft: 2015 Round 4 (27)\nCollege: South Carolina\nHt: 5\u20199\u201d  Wt: 217 DOB: 1993-02-19 Age: 29"
+    },
+    "Alexander Mattison": {
+        "id": 119,
+        "link": "https://fftoday.com/stats/players/16644/Alexander_Mattison?LeagueID=17",
+        "data": "Running Back, Minnesota Vikings\nDraft: 2019 Round 3 (39)\nCollege: Boise State\nHt: 5\u201911\u201d  Wt: 221 DOB: 1998-06-19 Age: 24"
+    },
+    "Christian McCaffrey": {
+        "id": 120,
+        "link": "https://fftoday.com/stats/players/15950/Christian_McCaffrey?LeagueID=17",
+        "data": "Running Back, Carolina Panthers\nDraft: 2017 Round 1 (8)\nCollege: Stanford\nHt: 5\u201911\u201d  Wt: 202 DOB: 1996-06-07 Age: 26"
+    },
+    "Rhamondre Stevenson": {
+        "id": 121,
+        "link": "https://fftoday.com/stats/players/17716/Rhamondre_Stevenson?LeagueID=17",
+        "data": "Running Back, New England Patriots\nDraft: 2021 Round 4 (15)\nCollege: Oklahoma\nDOB: 1998-02-23 Age: 24"
+    },
+    "Jamaal Williams": {
+        "id": 122,
+        "link": "https://fftoday.com/stats/players/16038/Jamaal_Williams?LeagueID=17",
+        "data": "Running Back, Detroit Lions\nDraft: 2017 Round 4 (28)\nCollege: Brigham Young\nDOB: 1995-04-03 Age: 27"
+    },
+    "J.D. McKissic": {
+        "id": 123,
+        "link": "https://fftoday.com/stats/players/14901/J.D._McKissic?LeagueID=17",
+        "data": "Running Back, Washington Commanders\nCollege: Arkansas State\nHt: 5\u201910\u201d  Wt: 187 DOB: 1993-08-15 Age: 28"
+    },
+    "Clyde Edwards-Helaire": {
+        "id": 124,
+        "link": "https://fftoday.com/stats/players/17070/Clyde_Edwards-Helaire?LeagueID=17",
+        "data": "Running Back, Kansas City Chiefs\nDraft: 2020 Round 1 (32)\nCollege: Louisiana State\nHt: 5\u20197\u201d  Wt: 207 DOB: 1999-04-11 Age: 23"
+    },
+    "Kenneth Gainwell": {
+        "id": 125,
+        "link": "https://fftoday.com/stats/players/17578/Kenneth_Gainwell?LeagueID=17",
+        "data": "Running Back, Philadelphia Eagles\nDraft: 2021 Round 5 (6)\nCollege: Memphis\nHt: 5\u201911\u201d  Wt: 195 DOB: 1999-03-14 Age: 23"
+    },
+    "Miles Sanders": {
+        "id": 126,
+        "link": "https://fftoday.com/stats/players/16689/Miles_Sanders?LeagueID=17",
+        "data": "Running Back, Philadelphia Eagles\nDraft: 2019 Round 2 (21)\nCollege: Penn State\nHt: 5\u201911\u201d  Wt: 211 DOB: 1997-05-01 Age: 25"
+    },
+    "Brandon Bolden": {
+        "id": 127,
+        "link": "https://fftoday.com/stats/players/12841/Brandon_Bolden?LeagueID=17",
+        "data": "Running Back, Las Vegas Raiders\nCollege: Mississippi\nHt: 5\u201911\u201d  Wt: 220 DOB: 1990-01-26 Age: 32"
+    },
+    "Ty Johnson": {
+        "id": 128,
+        "link": "https://fftoday.com/stats/players/16623/Ty_Johnson?LeagueID=17",
+        "data": "Running Back, New York Jets\nDraft: 2019 Round 6 (13)\nCollege: Maryland\nHt: 5\u201910\u201d  Wt: 208 DOB: 1996-00-00 Age: 26"
+    },
+    "Latavius Murray": {
+        "id": 129,
+        "link": "https://fftoday.com/stats/players/13295/Latavius_Murray?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2013 Round 6 (13)\nCollege: Central Florida\nHt: 6\u20192\u201d  Wt: 223 DOB: 1990-01-18 Age: 32"
+    },
+    "Kareem Hunt": {
+        "id": 130,
+        "link": "https://fftoday.com/stats/players/15906/Kareem_Hunt?LeagueID=17",
+        "data": "Running Back, Cleveland Browns\nDraft: 2017 Round 3 (22)\nCollege: Toledo\nHt: 5\u201910\u201d  Wt: 216 DOB: 1995-08-06 Age: 26"
+    },
+    "Mark Ingram": {
+        "id": 131,
+        "link": "https://fftoday.com/stats/players/11882/Mark_Ingram?LeagueID=17",
+        "data": "Running Back, New Orleans Saints\nDraft: 2011 Round 1 (28)\nCollege: Alabama\nHt: 5\u20199\u201d  Wt: 215 DOB: 1989-12-21 Age: 32"
+    },
+    "D'Ernest Johnson": {
+        "id": 132,
+        "link": "https://fftoday.com/stats/players/16771/D'Ernest_Johnson?LeagueID=17",
+        "data": "Running Back, Cleveland Browns\nCollege: South Florida\nHt: 5\u201910\u201d  Wt: 208 DOB: 1996-02-27 Age: 26"
+    },
+    "Zack Moss": {
+        "id": 133,
+        "link": "https://fftoday.com/stats/players/17161/Zack_Moss?LeagueID=17",
+        "data": "Running Back, Buffalo Bills\nDraft: 2020 Round 3 (22)\nCollege: Utah\nHt: 5\u20199\u201d  Wt: 223 DOB: 1997-12-15 Age: 24"
+    },
+    "Nyheim Hines": {
+        "id": 134,
+        "link": "https://fftoday.com/stats/players/16291/Nyheim_Hines?LeagueID=17",
+        "data": "Running Back, Indianapolis Colts\nDraft: 2018 Round 4 (4)\nCollege: North Carolina State\nHt: 5\u20198\u201d  Wt: 197 DOB: 1996-11-12 Age: 25"
+    },
+    "Boston Scott": {
+        "id": 135,
+        "link": "https://fftoday.com/stats/players/16120/Boston_Scott?LeagueID=17",
+        "data": "Running Back, Philadelphia Eagles\nDraft: 2018 Round 6 (27)\nCollege: Louisiana Tech\nHt: 5\u20196\u201d  Wt: 199 DOB: 1995-04-27 Age: 27"
+    },
+    "Rex Burkhead": {
+        "id": 136,
+        "link": "https://fftoday.com/stats/players/13054/Rex_Burkhead?LeagueID=17",
+        "data": "Running Back, Houston Texans\nDraft: 2013 Round 6 (22)\nCollege: Nebraska\nHt: 5\u201911\u201d  Wt: 210 DOB: 1991-11-22 Age: 30"
+    },
+    "D'Onta Foreman": {
+        "id": 137,
+        "link": "https://fftoday.com/stats/players/15869/D'Onta_Foreman?LeagueID=17",
+        "data": "Running Back, Carolina Panthers\nDraft: 2017 Round 3 (25)\nCollege: Texas\nDOB: 1996-04-24 Age: 26"
+    },
+    "Kenyan Drake": {
+        "id": 138,
+        "link": "https://fftoday.com/stats/players/15569/Kenyan_Drake?LeagueID=17",
+        "data": "Running Back, Las Vegas Raiders\nDraft: 2016 Round 3 (10)\nCollege: Alabama\nHt: 6\u20191\u201d  Wt: 210 DOB: 1994-01-26 Age: 28"
+    },
+    "Justin Jackson": {
+        "id": 139,
+        "link": "https://fftoday.com/stats/players/16234/Justin_Jackson?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2018 Round 7 (33)\nCollege: Northwestern\nHt: 5\u201911\u201d  Wt: 193 DOB: 1996-04-22 Age: 26"
+    },
+    "Ronald Jones": {
+        "id": 140,
+        "link": "https://fftoday.com/stats/players/16310/Ronald_Jones?LeagueID=17",
+        "data": "Running Back, Kansas City Chiefs\nDraft: 2018 Round 2 (6)\nCollege: Southern California\nHt: 5\u201911\u201d  Wt: 200 DOB: 1997-08-03 Age: 24"
+    },
+    "Khalil Herbert": {
+        "id": 141,
+        "link": "https://fftoday.com/stats/players/17596/Khalil_Herbert?LeagueID=17",
+        "data": "Running Back, Chicago Bears\nDraft: 2021 Round 6 (33)\nCollege: Virginia Tech\nHt: 5\u20199\u201d  Wt: 212 DOB: 1998-04-21 Age: 24"
+    },
+    "Ameer Abdullah": {
+        "id": 142,
+        "link": "https://fftoday.com/stats/players/15100/Ameer_Abdullah?LeagueID=17",
+        "data": "Running Back, Las Vegas Raiders\nDraft: 2015 Round 2 (22)\nCollege: Nebraska\nHt: 5\u20199\u201d  Wt: 205 DOB: 1993-06-13 Age: 29"
+    },
+    "Samaje Perine": {
+        "id": 143,
+        "link": "https://fftoday.com/stats/players/15976/Samaje_Perine?LeagueID=17",
+        "data": "Running Back, Cincinnati Bengals\nDraft: 2017 Round 4 (7)\nCollege: Oklahoma\nHt: 5\u201911\u201d  Wt: 233 DOB: 1995-09-16 Age: 26"
+    },
+    "David Johnson": {
+        "id": 144,
+        "link": "https://fftoday.com/stats/players/15223/David_Johnson?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2015 Round 3 (22)\nCollege: Northern Iowa\nHt: 6\u20191\u201d  Wt: 224 DOB: 1991-12-16 Age: 30"
+    },
+    "Alex Collins": {
+        "id": 145,
+        "link": "https://fftoday.com/stats/players/15546/Alex_Collins?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2016 Round 5 (34)\nCollege: Arkansas\nHt: 5\u201910\u201d  Wt: 217 DOB: 1994-08-26 Age: 27"
+    },
+    "Dontrell Hilliard": {
+        "id": 146,
+        "link": "https://fftoday.com/stats/players/16424/Dontrell_Hilliard?LeagueID=17",
+        "data": "Running Back, Tennessee Titans\nCollege: Tulane\nHt: 5\u201911\u201d  Wt: 202 DOB: 1995-02-26 Age: 27"
+    },
+    "Jordan Howard": {
+        "id": 147,
+        "link": "https://fftoday.com/stats/players/15612/Jordan_Howard?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2016 Round 5 (11)\nCollege: Indiana\nDOB: 1994-11-02 Age: 27"
+    },
+    "Jeremy McNichols": {
+        "id": 148,
+        "link": "https://fftoday.com/stats/players/15957/Jeremy_McNichols?LeagueID=17",
+        "data": "Running Back, Pittsburgh Steelers\nDraft: 2017 Round 5 (18)\nCollege: Boise State\nHt: 5\u20199\u201d  Wt: 214 DOB: 1995-12-26 Age: 26"
+    },
+    "Kyle Juszczyk": {
+        "id": 149,
+        "link": "https://fftoday.com/stats/players/13213/Kyle_Juszczyk?LeagueID=17",
+        "data": "Running Back, San Francisco 49ers\nDraft: 2013 Round 4 (33)\nCollege: Harvard\nHt: 6\u20191\u201d  Wt: 248 DOB: 1991-04-23 Age: 31"
+    },
+    "Duke Johnson": {
+        "id": 150,
+        "link": "https://fftoday.com/stats/players/15221/Duke_Johnson?LeagueID=17",
+        "data": "Running Back, Buffalo Bills\nDraft: 2015 Round 3 (13)\nCollege: Miami\nHt: 5\u20199\u201d  Wt: 207 DOB: 1993-09-23 Age: 28"
+    },
+    "Damien Williams": {
+        "id": 151,
+        "link": "https://fftoday.com/stats/players/14447/Damien_Williams?LeagueID=17",
+        "data": "Running Back, Atlanta Falcons\nCollege: Oklahoma\nHt: 5\u201911\u201d  Wt: 221 DOB: 1992-04-03 Age: 30"
+    },
+    "Derrick Gore": {
+        "id": 152,
+        "link": "https://fftoday.com/stats/players/17826/Derrick_Gore?LeagueID=17",
+        "data": "Running Back, Kansas City Chiefs\nCollege: Louisiana-Monroe\nHt: 5\u201910\u201d  Wt: 207 DOB: 1994-12-13 Age: 27"
+    },
+    "Jaret Patterson": {
+        "id": 153,
+        "link": "https://fftoday.com/stats/players/17762/Jaret_Patterson?LeagueID=17",
+        "data": "Running Back, Washington Commanders\nCollege: Buffalo\nHt: 5\u20199\u201d  Wt: 195 DOB: 1999-12-23 Age: 22"
+    },
+    "DeeJay Dallas": {
+        "id": 154,
+        "link": "https://fftoday.com/stats/players/17046/DeeJay_Dallas?LeagueID=17",
+        "data": "Running Back, Seattle Seahawks\nDraft: 2020 Round 4 (38)\nCollege: Miami\nHt: 5\u201910\u201d  Wt: 217 DOB: 1998-09-16 Age: 23"
+    },
+    "Jeff Wilson": {
+        "id": 155,
+        "link": "https://fftoday.com/stats/players/16456/Jeff_Wilson?LeagueID=17",
+        "data": "Running Back, San Francisco 49ers\nCollege: North Texas\nDOB: 1995-11-16 Age: 26"
+    },
+    "Travis Homer": {
+        "id": 156,
+        "link": "https://fftoday.com/stats/players/16604/Travis_Homer?LeagueID=17",
+        "data": "Running Back, Seattle Seahawks\nDraft: 2019 Round 6 (32)\nCollege: Miami\nHt: 5\u201910\u201d  Wt: 201 DOB: 1998-08-07 Age: 23"
+    },
+    "Giovani Bernard": {
+        "id": 157,
+        "link": "https://fftoday.com/stats/players/13031/Giovani_Bernard?LeagueID=17",
+        "data": "Running Back, Tampa Bay Buccaneers\nDraft: 2013 Round 2 (5)\nCollege: North Carolina\nHt: 5\u201910\u201d  Wt: 205 DOB: 1991-11-22 Age: 30"
+    },
+    "Tevin Coleman": {
+        "id": 158,
+        "link": "https://fftoday.com/stats/players/15138/Tevin_Coleman?LeagueID=17",
+        "data": "Running Back, New York Jets\nDraft: 2015 Round 3 (9)\nCollege: Indiana\nHt: 5\u201911\u201d  Wt: 206 DOB: 1993-04-16 Age: 29"
+    },
+    "Chris Carson": {
+        "id": 159,
+        "link": "https://fftoday.com/stats/players/15831/Chris_Carson?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2017 Round 7 (31)\nCollege: Oklahoma State\nDOB: 1994-09-16 Age: 27"
+    },
+    "Peyton Barber": {
+        "id": 160,
+        "link": "https://fftoday.com/stats/players/14807/Peyton_Barber?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Auburn\nHt: 5\u201911\u201d  Wt: 225 DOB: 1994-06-27 Age: 28"
+    },
+    "Dare Ogunbowale": {
+        "id": 161,
+        "link": "https://fftoday.com/stats/players/16446/Dare_Ogunbowale?LeagueID=17",
+        "data": "Running Back, Houston Texans\nCollege: Wisconsin\nHt: 5\u201910\u201d  Wt: 205 DOB: 1994-05-04 Age: 28"
+    },
+    "Phillip Lindsay": {
+        "id": 162,
+        "link": "https://fftoday.com/stats/players/16381/Phillip_Lindsay?LeagueID=17",
+        "data": "Running Back, Indianapolis Colts\nCollege: Colorado\nHt: 5\u20198\u201d  Wt: 190 DOB: 1994-07-24 Age: 28"
+    },
+    "Chris Evans": {
+        "id": 163,
+        "link": "https://fftoday.com/stats/players/17562/Chris_Evans?LeagueID=17",
+        "data": "Running Back, Cincinnati Bengals\nDraft: 2021 Round 6 (18)\nCollege: Michigan\nHt: 5\u201911\u201d  Wt: 216 DOB: 1997-10-05 Age: 24"
+    },
+    "Demetric Felton": {
+        "id": 164,
+        "link": "https://fftoday.com/stats/players/17567/Demetric_Felton?LeagueID=17",
+        "data": "Running Back, Cleveland Browns\nDraft: 2021 Round 6 (27)\nCollege: UCLA\nHt: 5\u20199\u201d  Wt: 186 DOB: 1998-07-16 Age: 24"
+    },
+    "Carlos Hyde": {
+        "id": 165,
+        "link": "https://fftoday.com/stats/players/14212/Carlos_Hyde?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2014 Round 2 (25)\nCollege: Ohio State\nHt: 5\u201911\u201d  Wt: 230 DOB: 1991-09-21 Age: 30"
+    },
+    "Matt Breida": {
+        "id": 166,
+        "link": "https://fftoday.com/stats/players/14903/Matt_Breida?LeagueID=17",
+        "data": "Running Back, New York Giants\nCollege: Georgia Southern\nHt: 5\u201911\u201d  Wt: 190 DOB: 1995-02-28 Age: 27"
+    },
+    "JaMycal Hasty": {
+        "id": 167,
+        "link": "https://fftoday.com/stats/players/17255/JaMycal_Hasty?LeagueID=17",
+        "data": "Running Back, San Francisco 49ers\nCollege: Baylor\nHt: 5\u20198\u201d  Wt: 205 DOB: 1996-09-12 Age: 25"
+    },
+    "Ty'Son Williams": {
+        "id": 168,
+        "link": "https://fftoday.com/stats/players/17769/Ty'Son_Williams?LeagueID=17",
+        "data": "Running Back, Indianapolis Colts\nCollege: Brigham Young\nDOB: 1996-09-04 Age: 25"
+    },
+    "Ke'Shawn Vaughn": {
+        "id": 169,
+        "link": "https://fftoday.com/stats/players/17234/Ke'Shawn_Vaughn?LeagueID=17",
+        "data": "Running Back, Tampa Bay Buccaneers\nDraft: 2020 Round 3 (12)\nCollege: Vanderbilt\nHt: 5\u201910\u201d  Wt: 214 DOB: 1997-05-04 Age: 25"
+    },
+    "Le'Veon Bell": {
+        "id": 170,
+        "link": "https://fftoday.com/stats/players/13029/Le'Veon_Bell?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2013 Round 2 (18)\nCollege: Michigan State\nHt: 6\u20191\u201d  Wt: 244 DOB: 1992-02-18 Age: 30"
+    },
+    "Salvon Ahmed": {
+        "id": 171,
+        "link": "https://fftoday.com/stats/players/17343/Salvon_Ahmed?LeagueID=17",
+        "data": "Running Back, Miami Dolphins\nCollege: Washington\nHt: 5\u201911\u201d  Wt: 196 DOB: 1998-12-29 Age: 23"
+    },
+    "Craig Reynolds": {
+        "id": 172,
+        "link": "https://fftoday.com/stats/players/17396/Craig_Reynolds?LeagueID=17",
+        "data": "Running Back, Detroit Lions\nCollege: None\nHt: 5\u201911\u201d  Wt: 225 DOB: 1996-06-15 Age: 26"
+    },
+    "Royce Freeman": {
+        "id": 173,
+        "link": "https://fftoday.com/stats/players/16313/Royce_Freeman?LeagueID=17",
+        "data": "Running Back, Houston Texans\nDraft: 2018 Round 3 (7)\nCollege: Oregon\nHt: 5\u201911\u201d  Wt: 234 DOB: 1996-02-24 Age: 26"
+    },
+    "Jerick McKinnon": {
+        "id": 174,
+        "link": "https://fftoday.com/stats/players/14260/Jerick_McKinnon?LeagueID=17",
+        "data": "Running Back, Kansas City Chiefs\nDraft: 2014 Round 3 (32)\nCollege: Georgia Southern\nHt: 5\u20199\u201d  Wt: 209 DOB: 1992-05-03 Age: 30"
+    },
+    "Elijhaa Penny": {
+        "id": 175,
+        "link": "https://fftoday.com/stats/players/14911/Elijhaa_Penny?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Idaho\nHt: 6\u20192\u201d  Wt: 234 DOB: 1993-08-17 Age: 28"
+    },
+    "Trey Sermon": {
+        "id": 176,
+        "link": "https://fftoday.com/stats/players/17697/Trey_Sermon?LeagueID=17",
+        "data": "Running Back, San Francisco 49ers\nDraft: 2021 Round 3 (25)\nCollege: Ohio State\nHt: 6\u20191\u201d  Wt: 215 DOB: 1999-01-30 Age: 23"
+    },
+    "Corey Clement": {
+        "id": 177,
+        "link": "https://fftoday.com/stats/players/14927/Corey_Clement?LeagueID=17",
+        "data": "Running Back, Baltimore Ravens\nCollege: Wisconsin\nHt: 5\u201910\u201d  Wt: 220 DOB: 1994-11-02 Age: 27"
+    },
+    "James White": {
+        "id": 178,
+        "link": "https://fftoday.com/stats/players/14358/James_White?LeagueID=17",
+        "data": "Running Back, New England Patriots\nDraft: 2014 Round 4 (30)\nCollege: Wisconsin\nHt: 5\u20199\u201d  Wt: 204 DOB: 1992-02-03 Age: 30"
+    },
+    "Eno Benjamin": {
+        "id": 179,
+        "link": "https://fftoday.com/stats/players/17013/Eno_Benjamin?LeagueID=17",
+        "data": "Running Back, Arizona Cardinals\nDraft: 2020 Round 7 (8)\nCollege: Arizona State\nHt: 5\u20199\u201d  Wt: 207 DOB: 1999-04-13 Age: 23"
+    },
+    "Adrian Peterson": {
+        "id": 180,
+        "link": "https://fftoday.com/stats/players/2754/Adrian_Peterson?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2007 Round 1 (7)\nCollege: Oklahoma\nHt: 6\u20191\u201d  Wt: 217 DOB: 1985-03-21 Age: 37"
+    },
+    "C.J. Ham": {
+        "id": 181,
+        "link": "https://fftoday.com/stats/players/14934/C.J._Ham?LeagueID=17",
+        "data": "Running Back, Minnesota Vikings\nCollege: Augustana, S.D.\nHt: 5\u201911\u201d  Wt: 235 DOB: 1993-07-22 Age: 29"
+    },
+    "Jermar Jefferson": {
+        "id": 182,
+        "link": "https://fftoday.com/stats/players/17611/Jermar_Jefferson?LeagueID=17",
+        "data": "Running Back, Detroit Lions\nDraft: 2021 Round 7 (30)\nCollege: Oregon State\nHt: 5\u201910\u201d  Wt: 217 DOB: 2000-04-15 Age: 22"
+    },
+    "Godwin Igwebuike": {
+        "id": 183,
+        "link": "https://fftoday.com/stats/players/16447/Godwin_Igwebuike?LeagueID=17",
+        "data": "Running Back, Detroit Lions\nCollege: Northwestern\nDOB: 1994-09-10 Age: 27"
+    },
+    "Ty Montgomery": {
+        "id": 184,
+        "link": "https://fftoday.com/stats/players/15253/Ty_Montgomery?LeagueID=17",
+        "data": "Running Back, New England Patriots\nDraft: 2015 Round 3 (30)\nCollege: Stanford\nDOB: 1993-01-22 Age: 29"
+    },
+    "Malcolm Brown": {
+        "id": 185,
+        "link": "https://fftoday.com/stats/players/14730/Malcolm_Brown?LeagueID=17",
+        "data": "Running Back, New Orleans Saints\nCollege: Texas\nHt: 5\u201911\u201d  Wt: 224 DOB: 1993-05-15 Age: 29"
+    },
+    "Alec Ingold": {
+        "id": 186,
+        "link": "https://fftoday.com/stats/players/16810/Alec_Ingold?LeagueID=17",
+        "data": "Running Back, Miami Dolphins\nCollege: Wisconsin\nHt: 6\u20191\u201d  Wt: 240 DOB: 1996-07-09 Age: 26"
+    },
+    "Tony Jones": {
+        "id": 187,
+        "link": "https://fftoday.com/stats/players/17413/Tony_Jones?LeagueID=17",
+        "data": "Running Back, New Orleans Saints\nCollege: Notre Dame\nHt: 5\u201911\u201d  Wt: 224 DOB: 1997-11-24 Age: 24"
+    },
+    "Jonathan Williams": {
+        "id": 188,
+        "link": "https://fftoday.com/stats/players/15747/Jonathan_Williams?LeagueID=17",
+        "data": "Running Back, Washington Commanders\nDraft: 2016 Round 5 (18)\nCollege: Arkansas\nHt: 5\u201911\u201d  Wt: 220 DOB: 1994-02-02 Age: 28"
+    },
+    "Austin Walter": {
+        "id": 189,
+        "link": "https://fftoday.com/stats/players/17352/Austin_Walter?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Rice\nHt: 5\u20198\u201d  Wt: 202 DOB: 1996-08-17 Age: 25"
+    },
+    "Qadree Ollison": {
+        "id": 190,
+        "link": "https://fftoday.com/stats/players/16669/Qadree_Ollison?LeagueID=17",
+        "data": "Running Back, Atlanta Falcons\nDraft: 2019 Round 5 (14)\nCollege: Pittsburgh\nHt: 6\u20191\u201d  Wt: 228 DOB: 1996-09-08 Age: 25"
+    },
+    "Jalen Richard": {
+        "id": 191,
+        "link": "https://fftoday.com/stats/players/14746/Jalen_Richard?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Southern Mississippi\nHt: 5\u20198\u201d  Wt: 207 DOB: 1993-10-15 Age: 28"
+    },
+    "Patrick Ricard": {
+        "id": 192,
+        "link": "https://fftoday.com/stats/players/14914/Patrick_Ricard?LeagueID=17",
+        "data": "Running Back, Baltimore Ravens\nCollege: Maine\nHt: 6\u20193\u201d  Wt: 304 DOB: 1994-05-27 Age: 28"
+    },
+    "J.J. Taylor": {
+        "id": 193,
+        "link": "https://fftoday.com/stats/players/17264/J.J._Taylor?LeagueID=17",
+        "data": "Running Back, New England Patriots\nCollege: Arizona\nHt: 5\u20196\u201d  Wt: 185 DOB: 1998-01-04 Age: 24"
+    },
+    "Patrick Taylor": {
+        "id": 194,
+        "link": "https://fftoday.com/stats/players/17845/Patrick_Taylor?LeagueID=17",
+        "data": "Running Back, Green Bay Packers\nCollege: Memphis\nHt: 6\u20192\u201d  Wt: 217 DOB: 1998-04-29 Age: 24"
+    },
+    "Larry Rountree III": {
+        "id": 195,
+        "link": "https://fftoday.com/stats/players/17691/Larry_Rountree_III?LeagueID=17",
+        "data": "Running Back, Los Angeles Chargers\nDraft: 2021 Round 6 (14)\nCollege: Missouri\nHt: 5\u201910\u201d  Wt: 210 DOB: 1997-00-00 Age: 25"
+    },
+    "Joshua Kelley": {
+        "id": 196,
+        "link": "https://fftoday.com/stats/players/17136/Joshua_Kelley?LeagueID=17",
+        "data": "Running Back, Los Angeles Chargers\nDraft: 2020 Round 4 (6)\nCollege: UCLA\nHt: 5\u201911\u201d  Wt: 212 DOB: 1997-11-20 Age: 24"
+    },
+    "Michael Burton": {
+        "id": 197,
+        "link": "https://fftoday.com/stats/players/15125/Michael_Burton?LeagueID=17",
+        "data": "Running Back, Kansas City Chiefs\nDraft: 2015 Round 5 (32)\nCollege: Rutgers\nHt: 5\u201911\u201d  Wt: 242 DOB: 1992-02-01 Age: 30"
+    },
+    "Keith Smith": {
+        "id": 198,
+        "link": "https://fftoday.com/stats/players/14526/Keith_Smith?LeagueID=17",
+        "data": "Running Back, Atlanta Falcons\nCollege: San Jose State\nDOB: 1992-04-08 Age: 30"
+    },
+    "Wayne Gallman": {
+        "id": 199,
+        "link": "https://fftoday.com/stats/players/15873/Wayne_Gallman?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2017 Round 4 (34)\nCollege: Clemson\nDOB: 1994-10-01 Age: 27"
+    },
+    "Benny Snell": {
+        "id": 200,
+        "link": "https://fftoday.com/stats/players/16707/Benny_Snell?LeagueID=17",
+        "data": "Running Back, Pittsburgh Steelers\nDraft: 2019 Round 4 (20)\nCollege: Kentucky\nHt: 5\u201910\u201d  Wt: 224 DOB: 1998-02-27 Age: 24"
+    },
+    "Jason Cabinda": {
+        "id": 201,
+        "link": "https://fftoday.com/stats/players/16430/Jason_Cabinda?LeagueID=17",
+        "data": "Running Back, Detroit Lions\nCollege: Penn State\nHt: 6\u20191\u201d  Wt: 243 DOB: 1996-03-17 Age: 26"
+    },
+    "Marlon Mack": {
+        "id": 202,
+        "link": "https://fftoday.com/stats/players/15945/Marlon_Mack?LeagueID=17",
+        "data": "Running Back, Houston Texans\nDraft: 2017 Round 4 (37)\nCollege: South Florida\nHt: 5\u201911\u201d  Wt: 213 DOB: 1996-03-07 Age: 26"
+    },
+    "Ryquell Armstead": {
+        "id": 203,
+        "link": "https://fftoday.com/stats/players/16509/Ryquell_Armstead?LeagueID=17",
+        "data": "Running Back, Jacksonville Jaguars\nDraft: 2019 Round 5 (2)\nCollege: Temple\nHt: 5\u201911\u201d  Wt: 220 DOB: 1996-00-00 Age: 26"
+    },
+    "Deon Jackson": {
+        "id": 204,
+        "link": "https://fftoday.com/stats/players/17848/Deon_Jackson?LeagueID=17",
+        "data": "Running Back, Indianapolis Colts\nCollege: Duke\nDOB: 1999-02-18 Age: 23"
+    },
+    "Kene Nwangwu": {
+        "id": 205,
+        "link": "https://fftoday.com/stats/players/17667/Kene_Nwangwu?LeagueID=17",
+        "data": "Running Back, Minnesota Vikings\nDraft: 2021 Round 4 (14)\nCollege: Iowa State\nHt: 6\u20191\u201d  Wt: 210 DOB: 1998-02-09 Age: 24"
+    },
+    "JaQuan Hardy": {
+        "id": 206,
+        "link": "https://fftoday.com/stats/players/17875/JaQuan_Hardy?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Tiffin\nHt: 5\u201910\u201d  Wt: 225 DOB: 1997-12-31 Age: 24"
+    },
+    "Alex Armah": {
+        "id": 207,
+        "link": "https://fftoday.com/stats/players/15810/Alex_Armah?LeagueID=17",
+        "data": "Running Back, Washington Commanders\nDraft: 2017 Round 6 (8)\nCollege: West Georgia\nHt: 6\u20192\u201d  Wt: 253 DOB: 1994-05-17 Age: 28"
+    },
+    "Andy Janovich": {
+        "id": 208,
+        "link": "https://fftoday.com/stats/players/15622/Andy_Janovich?LeagueID=17",
+        "data": "Running Back, Houston Texans\nDraft: 2016 Round 6 (1)\nCollege: Nebraska\nHt: 6\u20191\u201d  Wt: 238 DOB: 1993-05-23 Age: 29"
+    },
+    "Johnny Stanton": {
+        "id": 209,
+        "link": "https://fftoday.com/stats/players/17816/Johnny_Stanton?LeagueID=17",
+        "data": "Running Back, Cleveland Browns\nCollege: Nevada-Las Vegas\nHt: 6\u20192\u201d  Wt: 240 DOB: 1994-09-07 Age: 27"
+    },
+    "Jonathan Ward": {
+        "id": 210,
+        "link": "https://fftoday.com/stats/players/17345/Jonathan_Ward?LeagueID=17",
+        "data": "Running Back, Arizona Cardinals\nCollege: Central Michigan\nDOB: 1997-09-30 Age: 24"
+    },
+    "Rodney Smith": {
+        "id": 211,
+        "link": "https://fftoday.com/stats/players/17350/Rodney_Smith?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Minnesota\nHt: 5\u201911\u201d  Wt: 210 DOB: 1996-02-28 Age: 26"
+    },
+    "Mike Boone": {
+        "id": 212,
+        "link": "https://fftoday.com/stats/players/16085/Mike_Boone?LeagueID=17",
+        "data": "Running Back, Denver Broncos\nCollege: Cincinnati\nHt: 5\u201910\u201d  Wt: 206 DOB: 1995-06-30 Age: 27"
+    },
+    "Wendell Smallwood": {
+        "id": 213,
+        "link": "https://fftoday.com/stats/players/15709/Wendell_Smallwood?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2016 Round 5 (14)\nCollege: West Virginia\nHt: 5\u201910\u201d  Wt: 208 DOB: 1994-01-29 Age: 28"
+    },
+    "Ito Smith": {
+        "id": 214,
+        "link": "https://fftoday.com/stats/players/16195/Ito_Smith?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2018 Round 4 (26)\nCollege: Southern Mississippi\nHt: 5\u20199\u201d  Wt: 195 DOB: 1995-09-11 Age: 26"
+    },
+    "Jakob Johnson": {
+        "id": 215,
+        "link": "https://fftoday.com/stats/players/16832/Jakob_Johnson?LeagueID=17",
+        "data": "Running Back, Las Vegas Raiders\nCollege: Tennessee\nHt: 6\u20193\u201d  Wt: 255 DOB: 1994-12-15 Age: 27"
+    },
+    "Trayveon Williams": {
+        "id": 216,
+        "link": "https://fftoday.com/stats/players/16743/Trayveon_Williams?LeagueID=17",
+        "data": "Running Back, Cincinnati Bengals\nDraft: 2019 Round 6 (9)\nCollege: Texas A&M\nHt: 5\u20198\u201d  Wt: 206 DOB: 1997-10-18 Age: 24"
+    },
+    "Kalen Ballage": {
+        "id": 217,
+        "link": "https://fftoday.com/stats/players/16239/Kalen_Ballage?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2018 Round 4 (31)\nCollege: Arizona State\nHt: 6\u20191\u201d  Wt: 227 DOB: 1995-12-22 Age: 26"
+    },
+    "Jason Huntley": {
+        "id": 218,
+        "link": "https://fftoday.com/stats/players/17115/Jason_Huntley?LeagueID=17",
+        "data": "Running Back, Philadelphia Eagles\nDraft: 2020 Round 5 (27)\nCollege: New Mexico State\nHt: 5\u20199\u201d  Wt: 193 DOB: 1998-04-20 Age: 24"
+    },
+    "Gabe Nabers": {
+        "id": 219,
+        "link": "https://fftoday.com/stats/players/17297/Gabe_Nabers?LeagueID=17",
+        "data": "Running Back, Los Angeles Chargers\nCollege: Florida State\nHt: 6\u20193\u201d  Wt: 235 DOB: 1997-11-05 Age: 24"
+    },
+    "Jaylen Samuels": {
+        "id": 220,
+        "link": "https://fftoday.com/stats/players/16210/Jaylen_Samuels?LeagueID=17",
+        "data": "Running Back, Free Agent\nDraft: 2018 Round 5 (28)\nCollege: North Carolina State\nHt: 5\u201911\u201d  Wt: 223 DOB: 1996-07-20 Age: 26"
+    },
+    "Dwayne Washington": {
+        "id": 221,
+        "link": "https://fftoday.com/stats/players/15738/Dwayne_Washington?LeagueID=17",
+        "data": "Running Back, New Orleans Saints\nDraft: 2016 Round 7 (15)\nCollege: Washington\nHt: 6\u20192\u201d  Wt: 226 DOB: 1994-04-24 Age: 28"
+    },
+    "Patrick Laird": {
+        "id": 222,
+        "link": "https://fftoday.com/stats/players/16815/Patrick_Laird?LeagueID=17",
+        "data": "Running Back, Miami Dolphins\nCollege: California\nDOB: 1995-08-17 Age: 26"
+    },
+    "Adam Prentice": {
+        "id": 223,
+        "link": "https://fftoday.com/stats/players/17859/Adam_Prentice?LeagueID=17",
+        "data": "Running Back, New Orleans Saints\nCollege: South Carolina\nDOB: 1997-01-16 Age: 25"
+    },
+    "Kylin Hill": {
+        "id": 224,
+        "link": "https://fftoday.com/stats/players/17598/Kylin_Hill?LeagueID=17",
+        "data": "Running Back, Green Bay Packers\nDraft: 2021 Round 7 (29)\nCollege: Mississippi State\nHt: 5\u201911\u201d  Wt: 210 DOB: 1998-08-18 Age: 23"
+    },
+    "Scottie Phillips": {
+        "id": 225,
+        "link": "https://fftoday.com/stats/players/17390/Scottie_Phillips?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Mississippi\nHt: 5\u20198\u201d  Wt: 209 DOB: 1997-10-06 Age: 24"
+    },
+    "La'Mical Perine": {
+        "id": 226,
+        "link": "https://fftoday.com/stats/players/17178/La'Mical_Perine?LeagueID=17",
+        "data": "Running Back, New York Jets\nDraft: 2020 Round 4 (14)\nCollege: Florida\nHt: 5\u201911\u201d  Wt: 216 DOB: 1998-01-30 Age: 24"
+    },
+    "Derek Watt": {
+        "id": 227,
+        "link": "https://fftoday.com/stats/players/15739/Derek_Watt?LeagueID=17",
+        "data": "Running Back, Pittsburgh Steelers\nDraft: 2016 Round 6 (23)\nCollege: Wisconsin\nHt: 6\u20192\u201d  Wt: 236 DOB: 1992-11-07 Age: 29"
+    },
+    "Cam Akers": {
+        "id": 228,
+        "link": "https://fftoday.com/stats/players/17003/Cam_Akers?LeagueID=17",
+        "data": "Running Back, Los Angeles Rams\nDraft: 2020 Round 2 (20)\nCollege: Florida State\nHt: 5\u201910\u201d  Wt: 217 DOB: 1999-06-22 Age: 23"
+    },
+    "Darrynton Evans": {
+        "id": 229,
+        "link": "https://fftoday.com/stats/players/17073/Darrynton_Evans?LeagueID=17",
+        "data": "Running Back, Chicago Bears\nDraft: 2020 Round 3 (29)\nCollege: Appalachian State\nHt: 5\u201910\u201d  Wt: 203 DOB: 1998-07-09 Age: 24"
+    },
+    "Reggie Bonnafon": {
+        "id": 230,
+        "link": "https://fftoday.com/stats/players/16765/Reggie_Bonnafon?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Louisville\nDOB: 1996-01-04 Age: 26"
+    },
+    "Nick Bawden": {
+        "id": 231,
+        "link": "https://fftoday.com/stats/players/16288/Nick_Bawden?LeagueID=17",
+        "data": "Running Back, New York Jets\nDraft: 2018 Round 7 (19)\nCollege: San Diego State\nHt: 6\u20193\u201d  Wt: 245 DOB: 1996-06-22 Age: 26"
+    },
+    "Trey Ragas": {
+        "id": 232,
+        "link": "https://fftoday.com/stats/players/17878/Trey_Ragas?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Louisiana\nHt: 5\u201910\u201d  Wt: 214 DOB: 1996-11-07 Age: 25"
+    },
+    "Raheem Mostert": {
+        "id": 233,
+        "link": "https://fftoday.com/stats/players/14679/Raheem_Mostert?LeagueID=17",
+        "data": "Running Back, Miami Dolphins\nCollege: Purdue\nHt: 5\u201910\u201d  Wt: 195 DOB: 1992-04-09 Age: 30"
+    },
+    "Anthony McFarland Jr.": {
+        "id": 234,
+        "link": "https://fftoday.com/stats/players/17154/Anthony_McFarland_Jr?LeagueID=17",
+        "data": "Running Back, Pittsburgh Steelers\nDraft: 2020 Round 4 (18)\nCollege: Maryland\nHt: 5\u20198\u201d  Wt: 208 DOB: 1999-03-04 Age: 23"
+    },
+    "Gary Brightwell": {
+        "id": 235,
+        "link": "https://fftoday.com/stats/players/17518/Gary_Brightwell?LeagueID=17",
+        "data": "Running Back, New York Giants\nDraft: 2021 Round 6 (12)\nCollege: Arizona\nHt: 6\u20191\u201d  Wt: 218 DOB: 1999-02-28 Age: 23"
+    },
+    "John Kelly": {
+        "id": 236,
+        "link": "https://fftoday.com/stats/players/16218/John_Kelly?LeagueID=17",
+        "data": "Running Back, Cleveland Browns\nDraft: 2018 Round 6 (2)\nCollege: Tennessee\nHt: 5\u20199\u201d  Wt: 205 DOB: 1996-10-04 Age: 25"
+    },
+    "Ryan Nall": {
+        "id": 237,
+        "link": "https://fftoday.com/stats/players/16888/Ryan_Nall?LeagueID=17",
+        "data": "Running Back, Dallas Cowboys\nCollege: Oregon State\nHt: 6\u20192\u201d  Wt: 239 DOB: 1995-12-27 Age: 26"
+    },
+    "Jacques Patrick": {
+        "id": 238,
+        "link": "https://fftoday.com/stats/players/17808/Jacques_Patrick?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Florida State\nHt: 6\u20192\u201d  Wt: 231 DOB: 1997-01-07 Age: 25"
+    },
+    "Buddy Howell": {
+        "id": 239,
+        "link": "https://fftoday.com/stats/players/16092/Buddy_Howell?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Florida Atlantic\nHt: 6\u20191\u201d  Wt: 225 DOB: 1996-03-27 Age: 26"
+    },
+    "Mekhi Sargent": {
+        "id": 240,
+        "link": "https://fftoday.com/stats/players/17771/Mekhi_Sargent?LeagueID=17",
+        "data": "Running Back, Jacksonville Jaguars\nCollege: Iowa\nHt: 5\u20198\u201d  Wt: 208 DOB: 1997-10-08 Age: 24"
+    },
+    "Nick Bellore": {
+        "id": 241,
+        "link": "https://fftoday.com/stats/players/12169/Nick_Bellore?LeagueID=17",
+        "data": "Running Back, Seattle Seahawks\nCollege: Central Michigan\nHt: 6\u20191\u201d  Wt: 250 DOB: 1989-05-12 Age: 33"
+    },
+    "Devine Ozigbo": {
+        "id": 242,
+        "link": "https://fftoday.com/stats/players/16755/Devine_Ozigbo?LeagueID=17",
+        "data": "Running Back, New Orleans Saints\nCollege: Nebraska\nDOB: 1996-10-02 Age: 25"
+    },
+    "Damarea Crockett": {
+        "id": 243,
+        "link": "https://fftoday.com/stats/players/16759/Damarea_Crockett?LeagueID=17",
+        "data": "Running Back, Denver Broncos\nCollege: Missouri\nHt: 5\u201911\u201d  Wt: 225 DOB: 1997-12-22 Age: 24"
+    },
+    "Jake Funk": {
+        "id": 244,
+        "link": "https://fftoday.com/stats/players/17576/Jake_Funk?LeagueID=17",
+        "data": "Running Back, Los Angeles Rams\nDraft: 2021 Round 7 (5)\nCollege: Maryland\nHt: 5\u201910\u201d  Wt: 203 DOB: 1998-01-11 Age: 24"
+    },
+    "Nathan Cottrell": {
+        "id": 245,
+        "link": "https://fftoday.com/stats/players/17358/Nathan_Cottrell?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Georgia Tech\nHt: 5\u201911\u201d  Wt: 193 DOB: 1996-08-02 Age: 25"
+    },
+    "Kenjon Barner": {
+        "id": 246,
+        "link": "https://fftoday.com/stats/players/13023/Kenjon_Barner?LeagueID=17",
+        "data": "Running Back, Tampa Bay Buccaneers\nDraft: 2013 Round 6 (14)\nCollege: Oregon\nHt: 5\u20199\u201d  Wt: 188 DOB: 1989-04-28 Age: 33"
+    },
+    "Khari Blasingame": {
+        "id": 247,
+        "link": "https://fftoday.com/stats/players/16874/Khari_Blasingame?LeagueID=17",
+        "data": "Running Back, Chicago Bears\nCollege: Vanderbilt\nDOB: 1996-07-01 Age: 26"
+    },
+    "Darius Bradwell": {
+        "id": 248,
+        "link": "https://fftoday.com/stats/players/17866/Darius_Bradwell?LeagueID=17",
+        "data": "Running Back, Free Agent\nCollege: Tulane\nDOB: 1997-05-15 Age: 25"
+    },
+    "Tory Carter": {
+        "id": 249,
+        "link": "https://fftoday.com/stats/players/17832/Tory_Carter?LeagueID=17",
+        "data": "Running Back, Tennessee Titans\nCollege: Louisiana State\nDOB: 1999-03-16 Age: 23"
+    },
+    "Giovanni Ricci": {
+        "id": 250,
+        "link": "https://fftoday.com/stats/players/17784/Giovanni_Ricci?LeagueID=17",
+        "data": "Running Back, Carolina Panthers\nCollege: Western Michigan\nHt: 6\u20193\u201d  Wt: 240 DOB: 1996-10-16 Age: 25"
+    },
+    "Nate McCrary": {
+        "id": 251,
+        "link": "https://fftoday.com/stats/players/17870/Nate_McCrary?LeagueID=17",
+        "data": "Running Back, Baltimore Ravens\nCollege: Saginaw Valley\nDOB: 1999-04-09 Age: 23"
+    },
+    "Trenton Cannon": {
+        "id": 252,
+        "link": "https://fftoday.com/stats/players/16339/Trenton_Cannon?LeagueID=17",
+        "data": "Running Back, Tennessee Titans\nDraft: 2018 Round 6 (30)\nCollege: Virginia State\nHt: 5\u201911\u201d  Wt: 185 DOB: 1994-07-23 Age: 28"
+    },
+    "Cooper Kupp": {
+        "id": 253,
+        "link": "https://fftoday.com/stats/players/15932/Cooper_Kupp?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Rams\nDraft: 2017 Round 3 (5)\nCollege: Eastern Washington\nHt: 6\u20192\u201d  Wt: 204 DOB: 1993-06-15 Age: 29"
+    },
+    "Deebo Samuel": {
+        "id": 254,
+        "link": "https://fftoday.com/stats/players/16688/Deebo_Samuel?LeagueID=17",
+        "data": "Wide Receiver, San Francisco 49ers\nDraft: 2019 Round 2 (4)\nCollege: South Carolina\nHt: 5\u201911\u201d  Wt: 214 DOB: 1996-01-15 Age: 26"
+    },
+    "Davante Adams": {
+        "id": 255,
+        "link": "https://fftoday.com/stats/players/14102/Davante_Adams?LeagueID=17",
+        "data": "Wide Receiver, Las Vegas Raiders\nDraft: 2014 Round 2 (21)\nCollege: Fresno State\nHt: 6\u20191\u201d  Wt: 212 DOB: 1992-12-24 Age: 29"
+    },
+    "Justin Jefferson": {
+        "id": 256,
+        "link": "https://fftoday.com/stats/players/17123/Justin_Jefferson?LeagueID=17",
+        "data": "Wide Receiver, Minnesota Vikings\nDraft: 2020 Round 1 (22)\nCollege: Louisiana State\nHt: 6\u20191\u201d  Wt: 202 DOB: 1999-01-16 Age: 23"
+    },
+    "Ja'Marr Chase": {
+        "id": 257,
+        "link": "https://fftoday.com/stats/players/17533/Ja'Marr_Chase?LeagueID=17",
+        "data": "Wide Receiver, Cincinnati Bengals\nDraft: 2021 Round 1 (5)\nCollege: Louisiana State\nDOB: 2000-03-01 Age: 22"
+    },
+    "Tyreek Hill": {
+        "id": 258,
+        "link": "https://fftoday.com/stats/players/15607/Tyreek_Hill?LeagueID=17",
+        "data": "Wide Receiver, Miami Dolphins\nDraft: 2016 Round 5 (28)\nCollege: West Alabama\nHt: 5\u201910\u201d  Wt: 185 DOB: 1994-03-01 Age: 28"
+    },
+    "Stefon Diggs": {
+        "id": 259,
+        "link": "https://fftoday.com/stats/players/15156/Stefon_Diggs?LeagueID=17",
+        "data": "Wide Receiver, Buffalo Bills\nDraft: 2015 Round 5 (10)\nCollege: Maryland\nDOB: 1993-11-29 Age: 28"
+    },
+    "Mike Evans": {
+        "id": 260,
+        "link": "https://fftoday.com/stats/players/14172/Mike_Evans?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nDraft: 2014 Round 1 (7)\nCollege: Texas A&M\nHt: 6\u20194\u201d  Wt: 231 DOB: 1993-08-21 Age: 28"
+    },
+    "Diontae Johnson": {
+        "id": 261,
+        "link": "https://fftoday.com/stats/players/16616/Diontae_Johnson?LeagueID=17",
+        "data": "Wide Receiver, Pittsburgh Steelers\nDraft: 2019 Round 3 (2)\nCollege: Toledo\nHt: 5\u201910\u201d  Wt: 183 DOB: 1996-07-05 Age: 26"
+    },
+    "Hunter Renfrow": {
+        "id": 262,
+        "link": "https://fftoday.com/stats/players/16682/Hunter_Renfrow?LeagueID=17",
+        "data": "Wide Receiver, Las Vegas Raiders\nDraft: 2019 Round 5 (11)\nCollege: Clemson\nHt: 5\u201910\u201d  Wt: 184 DOB: 1995-12-21 Age: 26"
+    },
+    "DK Metcalf": {
+        "id": 263,
+        "link": "https://fftoday.com/stats/players/16650/DK_Metcalf?LeagueID=17",
+        "data": "Wide Receiver, Seattle Seahawks\nDraft: 2019 Round 2 (32)\nCollege: Mississippi\nHt: 6\u20193\u201d  Wt: 228 DOB: 1997-12-14 Age: 24"
+    },
+    "Mike Williams": {
+        "id": 264,
+        "link": "https://fftoday.com/stats/players/16042/Mike_Williams?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Chargers\nDraft: 2017 Round 1 (7)\nCollege: Clemson\nHt: 6\u20194\u201d  Wt: 218 DOB: 1994-10-04 Age: 27"
+    },
+    "Tyler Lockett": {
+        "id": 265,
+        "link": "https://fftoday.com/stats/players/15237/Tyler_Lockett?LeagueID=17",
+        "data": "Wide Receiver, Seattle Seahawks\nDraft: 2015 Round 3 (5)\nCollege: Kansas State\nHt: 5\u201910\u201d  Wt: 182 DOB: 1992-09-28 Age: 29"
+    },
+    "Keenan Allen": {
+        "id": 266,
+        "link": "https://fftoday.com/stats/players/13003/Keenan_Allen?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Chargers\nDraft: 2013 Round 3 (14)\nCollege: California\nHt: 6\u20193\u201d  Wt: 210 DOB: 1992-04-27 Age: 30"
+    },
+    "Jaylen Waddle": {
+        "id": 267,
+        "link": "https://fftoday.com/stats/players/17740/Jaylen_Waddle?LeagueID=17",
+        "data": "Wide Receiver, Miami Dolphins\nDraft: 2021 Round 1 (6)\nCollege: Alabama\nHt: 5\u201910\u201d  Wt: 182 DOB: 1998-11-25 Age: 23"
+    },
+    "Chris Godwin": {
+        "id": 268,
+        "link": "https://fftoday.com/stats/players/15881/Chris_Godwin?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nDraft: 2017 Round 3 (20)\nCollege: Penn State\nHt: 6\u20191\u201d  Wt: 209 DOB: 1996-02-27 Age: 26"
+    },
+    "CeeDee Lamb": {
+        "id": 269,
+        "link": "https://fftoday.com/stats/players/17141/CeeDee_Lamb?LeagueID=17",
+        "data": "Wide Receiver, Dallas Cowboys\nDraft: 2020 Round 1 (17)\nCollege: Oklahoma\nHt: 6\u20192\u201d  Wt: 198 DOB: 1999-04-08 Age: 23"
+    },
+    "Michael Pittman Jr.": {
+        "id": 270,
+        "link": "https://fftoday.com/stats/players/17183/Michael_Pittman_Jr?LeagueID=17",
+        "data": "Wide Receiver, Indianapolis Colts\nDraft: 2020 Round 2 (2)\nCollege: Southern California\nHt: 6\u20194\u201d  Wt: 223 DOB: 1997-10-05 Age: 24"
+    },
+    "D.J. Moore": {
+        "id": 271,
+        "link": "https://fftoday.com/stats/players/16146/D.J._Moore?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nDraft: 2018 Round 1 (24)\nCollege: Maryland\nDOB: 1997-04-14 Age: 25"
+    },
+    "Brandin Cooks": {
+        "id": 272,
+        "link": "https://fftoday.com/stats/players/14153/Brandin_Cooks?LeagueID=17",
+        "data": "Wide Receiver, Houston Texans\nDraft: 2014 Round 1 (20)\nCollege: Oregon State\nHt: 5\u20199\u201d  Wt: 189 DOB: 1993-09-25 Age: 28"
+    },
+    "Marquise Brown": {
+        "id": 273,
+        "link": "https://fftoday.com/stats/players/16529/Marquise_Brown?LeagueID=17",
+        "data": "Wide Receiver, Arizona Cardinals\nDraft: 2019 Round 1 (25)\nCollege: Oklahoma\nHt: 5\u20199\u201d  Wt: 166 DOB: 1997-06-04 Age: 25"
+    },
+    "Tee Higgins": {
+        "id": 274,
+        "link": "https://fftoday.com/stats/players/17104/Tee_Higgins?LeagueID=17",
+        "data": "Wide Receiver, Cincinnati Bengals\nDraft: 2020 Round 2 (1)\nCollege: Clemson\nHt: 6\u20194\u201d  Wt: 216 DOB: 1999-01-18 Age: 23"
+    },
+    "Darnell Mooney": {
+        "id": 275,
+        "link": "https://fftoday.com/stats/players/17159/Darnell_Mooney?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2020 Round 5 (28)\nCollege: Tulane\nHt: 5\u201910\u201d  Wt: 176 DOB: 1997-10-29 Age: 24"
+    },
+    "Amon-Ra St. Brown": {
+        "id": 276,
+        "link": "https://fftoday.com/stats/players/17712/Amon-Ra_St._Brown?LeagueID=17",
+        "data": "Wide Receiver, Detroit Lions\nDraft: 2021 Round 4 (7)\nCollege: Southern California\nHt: 6\u20191\u201d  Wt: 195 DOB: 1999-10-24 Age: 22"
+    },
+    "Terry McLaurin": {
+        "id": 277,
+        "link": "https://fftoday.com/stats/players/16648/Terry_McLaurin?LeagueID=17",
+        "data": "Wide Receiver, Washington Commanders\nDraft: 2019 Round 3 (13)\nCollege: Ohio State\nDOB: 1996-00-00 Age: 26"
+    },
+    "Amari Cooper": {
+        "id": 278,
+        "link": "https://fftoday.com/stats/players/15143/Amari_Cooper?LeagueID=17",
+        "data": "Wide Receiver, Cleveland Browns\nDraft: 2015 Round 1 (4)\nCollege: Alabama\nHt: 6\u20191\u201d  Wt: 211 DOB: 1994-06-18 Age: 28"
+    },
+    "Christian Kirk": {
+        "id": 279,
+        "link": "https://fftoday.com/stats/players/16136/Christian_Kirk?LeagueID=17",
+        "data": "Wide Receiver, Jacksonville Jaguars\nDraft: 2018 Round 2 (15)\nCollege: Texas A&M\nHt: 5\u201910\u201d  Wt: 200 DOB: 1996-11-18 Age: 25"
+    },
+    "Adam Thielen": {
+        "id": 280,
+        "link": "https://fftoday.com/stats/players/14449/Adam_Thielen?LeagueID=17",
+        "data": "Wide Receiver, Minnesota Vikings\nCollege: None\nHt: 6\u20192\u201d  Wt: 195 DOB: 1990-08-22 Age: 31"
+    },
+    "DeVonta Smith": {
+        "id": 281,
+        "link": "https://fftoday.com/stats/players/17708/DeVonta_Smith?LeagueID=17",
+        "data": "Wide Receiver, Philadelphia Eagles\nDraft: 2021 Round 1 (10)\nCollege: Alabama\nHt: 6\u20191\u201d  Wt: 175 DOB: 1998-11-14 Age: 23"
+    },
+    "A.J. Brown": {
+        "id": 282,
+        "link": "https://fftoday.com/stats/players/16527/A.J._Brown?LeagueID=17",
+        "data": "Wide Receiver, Philadelphia Eagles\nDraft: 2019 Round 2 (19)\nCollege: Mississippi\nDOB: 1997-06-30 Age: 25"
+    },
+    "Tyler Boyd": {
+        "id": 283,
+        "link": "https://fftoday.com/stats/players/15519/Tyler_Boyd?LeagueID=17",
+        "data": "Wide Receiver, Cincinnati Bengals\nDraft: 2016 Round 2 (24)\nCollege: Pittsburgh\nHt: 6\u20191\u201d  Wt: 197 DOB: 1994-11-15 Age: 27"
+    },
+    "Kendrick Bourne": {
+        "id": 284,
+        "link": "https://fftoday.com/stats/players/14994/Kendrick_Bourne?LeagueID=17",
+        "data": "Wide Receiver, New England Patriots\nCollege: Eastern Washington\nHt: 6\u20191\u201d  Wt: 203 DOB: 1995-08-04 Age: 26"
+    },
+    "Marvin Jones": {
+        "id": 285,
+        "link": "https://fftoday.com/stats/players/12440/Marvin_Jones?LeagueID=17",
+        "data": "Wide Receiver, Jacksonville Jaguars\nDraft: 2012 Round 5 (31)\nCollege: California\nHt: 6\u20192\u201d  Wt: 200 DOB: 1990-03-12 Age: 32"
+    },
+    "Van Jefferson": {
+        "id": 286,
+        "link": "https://fftoday.com/stats/players/17124/Van_Jefferson?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Rams\nDraft: 2020 Round 2 (25)\nCollege: Florida\nHt: 6\u20192\u201d  Wt: 200 DOB: 1996-07-26 Age: 26"
+    },
+    "Brandon Aiyuk": {
+        "id": 287,
+        "link": "https://fftoday.com/stats/players/17002/Brandon_Aiyuk?LeagueID=17",
+        "data": "Wide Receiver, San Francisco 49ers\nDraft: 2020 Round 1 (25)\nCollege: Arizona State\nDOB: 1998-03-17 Age: 24"
+    },
+    "Jakobi Meyers": {
+        "id": 288,
+        "link": "https://fftoday.com/stats/players/16762/Jakobi_Meyers?LeagueID=17",
+        "data": "Wide Receiver, New England Patriots\nCollege: North Carolina State\nHt: 6\u20192\u201d  Wt: 200 DOB: 1996-11-09 Age: 25"
+    },
+    "Chase Claypool": {
+        "id": 289,
+        "link": "https://fftoday.com/stats/players/17036/Chase_Claypool?LeagueID=17",
+        "data": "Wide Receiver, Pittsburgh Steelers\nDraft: 2020 Round 2 (17)\nCollege: Notre Dame\nHt: 6\u20194\u201d  Wt: 238 DOB: 1998-07-07 Age: 24"
+    },
+    "K.J. Osborn": {
+        "id": 290,
+        "link": "https://fftoday.com/stats/players/17172/K.J._Osborn?LeagueID=17",
+        "data": "Wide Receiver, Minnesota Vikings\nDraft: 2020 Round 5 (31)\nCollege: Miami\nDOB: 1997-06-10 Age: 25"
+    },
+    "Russell Gage": {
+        "id": 291,
+        "link": "https://fftoday.com/stats/players/16314/Russell_Gage?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nDraft: 2018 Round 6 (20)\nCollege: Louisiana State\nDOB: 1996-01-22 Age: 26"
+    },
+    "Tim Patrick": {
+        "id": 292,
+        "link": "https://fftoday.com/stats/players/16072/Tim_Patrick?LeagueID=17",
+        "data": "Wide Receiver, Denver Broncos\nCollege: Utah\nHt: 6\u20194\u201d  Wt: 212 DOB: 1993-11-23 Age: 28"
+    },
+    "A.J. Green": {
+        "id": 293,
+        "link": "https://fftoday.com/stats/players/11858/A.J._Green?LeagueID=17",
+        "data": "Wide Receiver, Arizona Cardinals\nDraft: 2011 Round 1 (4)\nCollege: Georgia\nHt: 6\u20194\u201d  Wt: 207 DOB: 1988-07-31 Age: 33"
+    },
+    "Marquez Callaway": {
+        "id": 294,
+        "link": "https://fftoday.com/stats/players/17300/Marquez_Callaway?LeagueID=17",
+        "data": "Wide Receiver, New Orleans Saints\nCollege: Tennessee\nHt: 6\u20192\u201d  Wt: 204 DOB: 1996-00-00 Age: 26"
+    },
+    "DeAndre Hopkins": {
+        "id": 295,
+        "link": "https://fftoday.com/stats/players/13167/DeAndre_Hopkins?LeagueID=17",
+        "data": "Wide Receiver, Arizona Cardinals\nDraft: 2013 Round 1 (27)\nCollege: Clemson\nHt: 6\u20191\u201d  Wt: 205 DOB: 1992-06-06 Age: 30"
+    },
+    "Allen Lazard": {
+        "id": 296,
+        "link": "https://fftoday.com/stats/players/16357/Allen_Lazard?LeagueID=17",
+        "data": "Wide Receiver, Green Bay Packers\nCollege: Iowa State\nHt: 6\u20194\u201d  Wt: 227 DOB: 1995-12-11 Age: 26"
+    },
+    "Cedrick Wilson": {
+        "id": 297,
+        "link": "https://fftoday.com/stats/players/16131/Cedrick_Wilson?LeagueID=17",
+        "data": "Wide Receiver, Miami Dolphins\nDraft: 2018 Round 6 (34)\nCollege: Boise State\nHt: 6\u20193\u201d  Wt: 188 DOB: 1995-11-20 Age: 26"
+    },
+    "Courtland Sutton": {
+        "id": 298,
+        "link": "https://fftoday.com/stats/players/16144/Courtland_Sutton?LeagueID=17",
+        "data": "Wide Receiver, Denver Broncos\nDraft: 2018 Round 2 (8)\nCollege: Southern Methodist\nHt: 6\u20193\u201d  Wt: 218 DOB: 1995-10-10 Age: 26"
+    },
+    "Elijah Moore": {
+        "id": 299,
+        "link": "https://fftoday.com/stats/players/17653/Elijah_Moore?LeagueID=17",
+        "data": "Wide Receiver, New York Jets\nDraft: 2021 Round 2 (2)\nCollege: Mississippi\nHt: 5\u20199\u201d  Wt: 185 DOB: 2000-03-27 Age: 22"
+    },
+    "Cole Beasley": {
+        "id": 300,
+        "link": "https://fftoday.com/stats/players/12699/Cole_Beasley?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Southern Methodist\nHt: 5\u20198\u201d  Wt: 177 DOB: 1989-04-26 Age: 33"
+    },
+    "Robert Woods": {
+        "id": 301,
+        "link": "https://fftoday.com/stats/players/13459/Robert_Woods?LeagueID=17",
+        "data": "Wide Receiver, Tennessee Titans\nDraft: 2013 Round 2 (10)\nHt: 6\u20192\u201d  Wt: 190 DOB: 1992-04-10 Age: 30"
+    },
+    "Robby Anderson": {
+        "id": 302,
+        "link": "https://fftoday.com/stats/players/14796/Robby_Anderson?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nCollege: Temple\nHt: 6\u20193\u201d  Wt: 190 DOB: 1993-05-09 Age: 29"
+    },
+    "Mecole Hardman": {
+        "id": 303,
+        "link": "https://fftoday.com/stats/players/16589/Mecole_Hardman?LeagueID=17",
+        "data": "Wide Receiver, Kansas City Chiefs\nDraft: 2019 Round 2 (24)\nCollege: Georgia\nHt: 5\u201910\u201d  Wt: 187 DOB: 1998-03-12 Age: 24"
+    },
+    "Emmanuel Sanders": {
+        "id": 304,
+        "link": "https://fftoday.com/stats/players/11492/Emmanuel_Sanders?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2010 Round 3 (18)\nHt: 5\u201911\u201d  Wt: 180 DOB: 1987-03-17 Age: 35"
+    },
+    "Gabriel Davis": {
+        "id": 305,
+        "link": "https://fftoday.com/stats/players/17052/Gabriel_Davis?LeagueID=17",
+        "data": "Wide Receiver, Buffalo Bills\nDraft: 2020 Round 4 (22)\nCollege: Central Florida\nHt: 6\u20192\u201d  Wt: 216 DOB: 1999-04-01 Age: 23"
+    },
+    "Kalif Raymond": {
+        "id": 306,
+        "link": "https://fftoday.com/stats/players/14879/Kalif_Raymond?LeagueID=17",
+        "data": "Wide Receiver, Detroit Lions\nCollege: None\nHt: 5\u20199\u201d  Wt: 160 DOB: 1994-08-08 Age: 27"
+    },
+    "Odell Beckham Jr.": {
+        "id": 307,
+        "link": "https://fftoday.com/stats/players/14114/Odell_Beckham_Jr?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2014 Round 1 (12)\nCollege: Louisiana State\nHt: 5\u201911\u201d  Wt: 198 DOB: 1992-11-05 Age: 29"
+    },
+    "Jarvis Landry": {
+        "id": 308,
+        "link": "https://fftoday.com/stats/players/14232/Jarvis_Landry?LeagueID=17",
+        "data": "Wide Receiver, New Orleans Saints\nDraft: 2014 Round 2 (31)\nCollege: Louisiana State\nHt: 6\u20191\u201d  Wt: 195 DOB: 1992-11-28 Age: 29"
+    },
+    "Byron Pringle": {
+        "id": 309,
+        "link": "https://fftoday.com/stats/players/16754/Byron_Pringle?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nCollege: Kansas State\nHt: 6\u20191\u201d  Wt: 203 DOB: 1993-11-17 Age: 28"
+    },
+    "Antonio Brown": {
+        "id": 310,
+        "link": "https://fftoday.com/stats/players/11605/Antonio_Brown?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2010 Round 6 (26)\nCollege: Central Michigan\nHt: 5\u201910\u201d  Wt: 186 DOB: 1988-07-10 Age: 34"
+    },
+    "Laviska Shenault": {
+        "id": 311,
+        "link": "https://fftoday.com/stats/players/17204/Laviska_Shenault?LeagueID=17",
+        "data": "Wide Receiver, Jacksonville Jaguars\nDraft: 2020 Round 2 (10)\nCollege: Colorado\nHt: 6\u20191\u201d  Wt: 227 DOB: 1998-10-05 Age: 23"
+    },
+    "Deonte Harty": {
+        "id": 312,
+        "link": "https://fftoday.com/stats/players/16793/Deonte_Harty?LeagueID=17",
+        "data": "Wide Receiver, New Orleans Saints\nCollege: Assumption\nHt: 5\u20196\u201d  Wt: 170 DOB: 1997-12-04 Age: 24"
+    },
+    "Donovan Peoples-Jones": {
+        "id": 313,
+        "link": "https://fftoday.com/stats/players/17177/Donovan_Peoples-Jones?LeagueID=17",
+        "data": "Wide Receiver, Cleveland Browns\nDraft: 2020 Round 6 (8)\nCollege: Michigan\nHt: 6\u20192\u201d  Wt: 212 DOB: 1999-02-19 Age: 23"
+    },
+    "Quez Watkins": {
+        "id": 314,
+        "link": "https://fftoday.com/stats/players/17239/Quez_Watkins?LeagueID=17",
+        "data": "Wide Receiver, Philadelphia Eagles\nDraft: 2020 Round 6 (21)\nCollege: Southern Mississippi\nDOB: 1998-06-09 Age: 24"
+    },
+    "Braxton Berrios": {
+        "id": 315,
+        "link": "https://fftoday.com/stats/players/16125/Braxton_Berrios?LeagueID=17",
+        "data": "Wide Receiver, New York Jets\nDraft: 2018 Round 6 (36)\nCollege: Miami\nHt: 5\u20199\u201d  Wt: 186 DOB: 1995-10-06 Age: 26"
+    },
+    "Bryan Edwards": {
+        "id": 316,
+        "link": "https://fftoday.com/stats/players/17069/Bryan_Edwards?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nDraft: 2020 Round 3 (17)\nCollege: South Carolina\nHt: 6\u20193\u201d  Wt: 212 DOB: 1998-11-13 Age: 23"
+    },
+    "Nick Westbrook-Ikhine": {
+        "id": 317,
+        "link": "https://fftoday.com/stats/players/17281/Nick_Westbrook-Ikhine?LeagueID=17",
+        "data": "Wide Receiver, Tennessee Titans\nCollege: Indiana\nHt: 6\u20192\u201d  Wt: 211 DOB: 1997-03-21 Age: 25"
+    },
+    "Corey Davis": {
+        "id": 318,
+        "link": "https://fftoday.com/stats/players/15845/Corey_Davis?LeagueID=17",
+        "data": "Wide Receiver, New York Jets\nDraft: 2017 Round 1 (5)\nCollege: Western Michigan\nHt: 6\u20193\u201d  Wt: 209 DOB: 1995-01-11 Age: 27"
+    },
+    "Nelson Agholor": {
+        "id": 319,
+        "link": "https://fftoday.com/stats/players/15101/Nelson_Agholor?LeagueID=17",
+        "data": "Wide Receiver, New England Patriots\nDraft: 2015 Round 1 (20)\nCollege: Southern California\nDOB: 1993-05-24 Age: 29"
+    },
+    "DeVante Parker": {
+        "id": 320,
+        "link": "https://fftoday.com/stats/players/15271/DeVante_Parker?LeagueID=17",
+        "data": "Wide Receiver, New England Patriots\nDraft: 2015 Round 1 (14)\nCollege: Louisville\nHt: 6\u20193\u201d  Wt: 209 DOB: 1993-01-20 Age: 29"
+    },
+    "Zay Jones": {
+        "id": 321,
+        "link": "https://fftoday.com/stats/players/15922/Zay_Jones?LeagueID=17",
+        "data": "Wide Receiver, Jacksonville Jaguars\nDraft: 2017 Round 2 (5)\nCollege: East Carolina\nHt: 6\u20192\u201d  Wt: 201 DOB: 1995-03-30 Age: 27"
+    },
+    "Rondale Moore": {
+        "id": 322,
+        "link": "https://fftoday.com/stats/players/17654/Rondale_Moore?LeagueID=17",
+        "data": "Wide Receiver, Arizona Cardinals\nDraft: 2021 Round 2 (17)\nCollege: Purdue\nHt: 5\u20199\u201d  Wt: 180 DOB: 2000-06-09 Age: 22"
+    },
+    "Jalen Guyton": {
+        "id": 323,
+        "link": "https://fftoday.com/stats/players/16892/Jalen_Guyton?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Chargers\nCollege: North Texas\nHt: 6\u20191\u201d  Wt: 202 DOB: 1997-06-07 Age: 25"
+    },
+    "Rashod Bateman": {
+        "id": 324,
+        "link": "https://fftoday.com/stats/players/17509/Rashod_Bateman?LeagueID=17",
+        "data": "Wide Receiver, Baltimore Ravens\nDraft: 2021 Round 1 (27)\nCollege: Minnesota\nHt: 6\u20192\u201d  Wt: 210 DOB: 1999-11-29 Age: 22"
+    },
+    "Jamison Crowder": {
+        "id": 325,
+        "link": "https://fftoday.com/stats/players/15145/Jamison_Crowder?LeagueID=17",
+        "data": "Wide Receiver, Buffalo Bills\nDraft: 2015 Round 4 (6)\nCollege: Duke\nHt: 5\u20198\u201d  Wt: 185 DOB: 1993-06-17 Age: 29"
+    },
+    "Randall Cobb": {
+        "id": 326,
+        "link": "https://fftoday.com/stats/players/11918/Randall_Cobb?LeagueID=17",
+        "data": "Wide Receiver, Green Bay Packers\nDraft: 2011 Round 2 (32)\nCollege: Kentucky\nHt: 5\u201910\u201d  Wt: 192 DOB: 1990-08-22 Age: 31"
+    },
+    "Josh Palmer": {
+        "id": 327,
+        "link": "https://fftoday.com/stats/players/17676/Josh_Palmer?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Chargers\nDraft: 2021 Round 3 (14)\nCollege: Tennessee\nHt: 6\u20192\u201d  Wt: 210 DOB: 1999-09-22 Age: 22"
+    },
+    "Zach Pascal": {
+        "id": 328,
+        "link": "https://fftoday.com/stats/players/16067/Zach_Pascal?LeagueID=17",
+        "data": "Wide Receiver, Philadelphia Eagles\nCollege: Old Dominion\nHt: 6\u20192\u201d  Wt: 219 DOB: 1994-12-18 Age: 27"
+    },
+    "Olamide Zaccheaus": {
+        "id": 329,
+        "link": "https://fftoday.com/stats/players/16859/Olamide_Zaccheaus?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nCollege: Virginia\nHt: 5\u20198\u201d  Wt: 193 DOB: 1997-07-23 Age: 25"
+    },
+    "Michael Gallup": {
+        "id": 330,
+        "link": "https://fftoday.com/stats/players/16280/Michael_Gallup?LeagueID=17",
+        "data": "Wide Receiver, Dallas Cowboys\nDraft: 2018 Round 3 (17)\nCollege: Colorado State\nHt: 6\u20191\u201d  Wt: 205 DOB: 1996-03-04 Age: 26"
+    },
+    "Freddie Swain": {
+        "id": 331,
+        "link": "https://fftoday.com/stats/players/17219/Freddie_Swain?LeagueID=17",
+        "data": "Wide Receiver, Seattle Seahawks\nDraft: 2020 Round 6 (35)\nCollege: Florida\nDOB: 1998-08-04 Age: 23"
+    },
+    "Marquez Valdes-Scantling": {
+        "id": 332,
+        "link": "https://fftoday.com/stats/players/16270/Marquez_Valdes-Scantling?LeagueID=17",
+        "data": "Wide Receiver, Kansas City Chiefs\nDraft: 2018 Round 5 (37)\nCollege: South Florida\nHt: 6\u20195\u201d  Wt: 205 DOB: 1994-10-10 Age: 27"
+    },
+    "Henry Ruggs III": {
+        "id": 333,
+        "link": "https://fftoday.com/stats/players/17198/Henry_Ruggs_III?LeagueID=17",
+        "data": "Wide Receiver\nDraft: 2020 Round 1 (12)\nCollege: Alabama\nHt: 5\u201911\u201d  Wt: 188 DOB: 1999-01-24 Age: 23"
+    },
+    "Tre'Quan Smith": {
+        "id": 334,
+        "link": "https://fftoday.com/stats/players/16336/Tre'Quan_Smith?LeagueID=17",
+        "data": "Wide Receiver, New Orleans Saints\nDraft: 2018 Round 3 (27)\nCollege: Central Florida\nHt: 6\u20191\u201d  Wt: 210 DOB: 1996-01-07 Age: 26"
+    },
+    "Kenny Golladay": {
+        "id": 335,
+        "link": "https://fftoday.com/stats/players/15882/Kenny_Golladay?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nDraft: 2017 Round 3 (32)\nCollege: Northern Illinois\nHt: 6\u20194\u201d  Wt: 218 DOB: 1993-11-03 Age: 28"
+    },
+    "Jauan Jennings": {
+        "id": 336,
+        "link": "https://fftoday.com/stats/players/17126/Jauan_Jennings?LeagueID=17",
+        "data": "Wide Receiver, San Francisco 49ers\nDraft: 2020 Round 7 (3)\nCollege: Tennessee\nHt: 6\u20193\u201d  Wt: 215 DOB: 1997-07-10 Age: 25"
+    },
+    "DeAndre Carter": {
+        "id": 337,
+        "link": "https://fftoday.com/stats/players/16060/DeAndre_Carter?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Chargers\nCollege: Sacramento State\nHt: 5\u20198\u201d  Wt: 190 DOB: 1993-04-10 Age: 29"
+    },
+    "Nico Collins": {
+        "id": 338,
+        "link": "https://fftoday.com/stats/players/17540/Nico_Collins?LeagueID=17",
+        "data": "Wide Receiver, Houston Texans\nDraft: 2021 Round 3 (26)\nCollege: Michigan\nHt: 6\u20194\u201d  Wt: 215 DOB: 1999-03-19 Age: 23"
+    },
+    "Josh Reynolds": {
+        "id": 339,
+        "link": "https://fftoday.com/stats/players/15985/Josh_Reynolds?LeagueID=17",
+        "data": "Wide Receiver, Detroit Lions\nDraft: 2017 Round 4 (10)\nCollege: Texas A&M\nHt: 6\u20193\u201d  Wt: 194 DOB: 1995-02-16 Age: 27"
+    },
+    "Jerry Jeudy": {
+        "id": 340,
+        "link": "https://fftoday.com/stats/players/17127/Jerry_Jeudy?LeagueID=17",
+        "data": "Wide Receiver, Denver Broncos\nDraft: 2020 Round 1 (15)\nCollege: Alabama\nHt: 6\u20191\u201d  Wt: 193 DOB: 1999-04-24 Age: 23"
+    },
+    "Allen Robinson": {
+        "id": 341,
+        "link": "https://fftoday.com/stats/players/14298/Allen_Robinson?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Rams\nDraft: 2014 Round 2 (29)\nCollege: Penn State\nHt: 6\u20193\u201d  Wt: 210 DOB: 1993-08-24 Age: 28"
+    },
+    "Laquon Treadwell": {
+        "id": 342,
+        "link": "https://fftoday.com/stats/players/15724/Laquon_Treadwell?LeagueID=17",
+        "data": "Wide Receiver, Jacksonville Jaguars\nDraft: 2016 Round 1 (23)\nCollege: Mississippi\nHt: 6\u20192\u201d  Wt: 221 DOB: 1995-06-14 Age: 27"
+    },
+    "DeSean Jackson": {
+        "id": 343,
+        "link": "https://fftoday.com/stats/players/2930/DeSean_Jackson?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2008 Round 2 (18)\nCollege: California\nHt: 5\u201910\u201d  Wt: 175 DOB: 1986-12-01 Age: 35"
+    },
+    "Keelan Cole": {
+        "id": 344,
+        "link": "https://fftoday.com/stats/players/14918/Keelan_Cole?LeagueID=17",
+        "data": "Wide Receiver, Las Vegas Raiders\nCollege: Kentucky Wesleyan\nHt: 6\u20191\u201d  Wt: 194 DOB: 1993-04-20 Age: 29"
+    },
+    "Julio Jones": {
+        "id": 345,
+        "link": "https://fftoday.com/stats/players/11860/Julio_Jones?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2011 Round 1 (6)\nCollege: Alabama\nHt: 6\u20193\u201d  Wt: 220 DOB: 1989-02-03 Age: 33"
+    },
+    "T.Y. Hilton": {
+        "id": 346,
+        "link": "https://fftoday.com/stats/players/12366/T.Y._Hilton?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2012 Round 3 (29)\nCollege: Florida International\nHt: 5\u201910\u201d  Wt: 183 DOB: 1989-11-14 Age: 32"
+    },
+    "Kadarius Toney": {
+        "id": 347,
+        "link": "https://fftoday.com/stats/players/17728/Kadarius_Toney?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nDraft: 2021 Round 1 (20)\nCollege: Florida\nDOB: 1999-01-27 Age: 23"
+    },
+    "Jalen Reagor": {
+        "id": 348,
+        "link": "https://fftoday.com/stats/players/17188/Jalen_Reagor?LeagueID=17",
+        "data": "Wide Receiver, Philadelphia Eagles\nDraft: 2020 Round 1 (21)\nCollege: Texas Christian\nHt: 5\u201911\u201d  Wt: 206 DOB: 1999-01-01 Age: 23"
+    },
+    "Devin Duvernay": {
+        "id": 349,
+        "link": "https://fftoday.com/stats/players/17066/Devin_Duvernay?LeagueID=17",
+        "data": "Wide Receiver, Baltimore Ravens\nDraft: 2020 Round 3 (28)\nCollege: Texas\nHt: 5\u201911\u201d  Wt: 200 DOB: 1997-09-12 Age: 24"
+    },
+    "Sterling Shepard": {
+        "id": 350,
+        "link": "https://fftoday.com/stats/players/15706/Sterling_Shepard?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nDraft: 2016 Round 2 (9)\nCollege: Oklahoma\nHt: 5\u201910\u201d  Wt: 194 DOB: 1994-02-10 Age: 28"
+    },
+    "Adam Humphries": {
+        "id": 351,
+        "link": "https://fftoday.com/stats/players/14608/Adam_Humphries?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Clemson\nHt: 5\u201911\u201d  Wt: 195 DOB: 1993-06-24 Age: 29"
+    },
+    "Jamal Agnew": {
+        "id": 352,
+        "link": "https://fftoday.com/stats/players/15804/Jamal_Agnew?LeagueID=17",
+        "data": "Wide Receiver, Jacksonville Jaguars\nDraft: 2017 Round 5 (21)\nCollege: San Diego\nHt: 5\u201910\u201d  Wt: 185 DOB: 1995-04-03 Age: 27"
+    },
+    "Demarcus Robinson": {
+        "id": 353,
+        "link": "https://fftoday.com/stats/players/15694/Demarcus_Robinson?LeagueID=17",
+        "data": "Wide Receiver, Las Vegas Raiders\nDraft: 2016 Round 4 (28)\nCollege: Florida\nHt: 6\u20191\u201d  Wt: 203 DOB: 1994-09-21 Age: 27"
+    },
+    "Sammy Watkins": {
+        "id": 354,
+        "link": "https://fftoday.com/stats/players/14350/Sammy_Watkins?LeagueID=17",
+        "data": "Wide Receiver, Green Bay Packers\nDraft: 2014 Round 1 (4)\nCollege: Clemson\nHt: 6\u20191\u201d  Wt: 205 DOB: 1993-06-14 Age: 29"
+    },
+    "Calvin Ridley": {
+        "id": 355,
+        "link": "https://fftoday.com/stats/players/16129/Calvin_Ridley?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nDraft: 2018 Round 1 (26)\nCollege: Alabama\nDOB: 1994-12-20 Age: 27"
+    },
+    "Darius Slayton": {
+        "id": 356,
+        "link": "https://fftoday.com/stats/players/16702/Darius_Slayton?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nDraft: 2019 Round 5 (33)\nCollege: Auburn\nHt: 6\u20191\u201d  Wt: 190 DOB: 1996-00-00 Age: 26"
+    },
+    "Danny Amendola": {
+        "id": 357,
+        "link": "https://fftoday.com/stats/players/11321/Danny_Amendola?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Texas Tech\nHt: 5\u201911\u201d  Wt: 188 DOB: 1985-11-02 Age: 36"
+    },
+    "Tyler Johnson": {
+        "id": 358,
+        "link": "https://fftoday.com/stats/players/17130/Tyler_Johnson?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nDraft: 2020 Round 5 (16)\nCollege: Minnesota\nHt: 6\u20191\u201d  Wt: 206 DOB: 1998-08-25 Age: 23"
+    },
+    "James Washington": {
+        "id": 359,
+        "link": "https://fftoday.com/stats/players/16206/James_Washington?LeagueID=17",
+        "data": "Wide Receiver, Dallas Cowboys\nDraft: 2018 Round 2 (28)\nCollege: Oklahoma State\nHt: 5\u201911\u201d  Wt: 213 DOB: 1996-04-02 Age: 26"
+    },
+    "Chris Conley": {
+        "id": 360,
+        "link": "https://fftoday.com/stats/players/15141/Chris_Conley?LeagueID=17",
+        "data": "Wide Receiver, Houston Texans\nDraft: 2015 Round 3 (12)\nCollege: Georgia\nHt: 6\u20192\u201d  Wt: 213 DOB: 1992-10-25 Age: 29"
+    },
+    "Mack Hollins": {
+        "id": 361,
+        "link": "https://fftoday.com/stats/players/15900/Mack_Hollins?LeagueID=17",
+        "data": "Wide Receiver, Las Vegas Raiders\nDraft: 2017 Round 4 (12)\nCollege: North Carolina\nHt: 6\u20194\u201d  Wt: 221 DOB: 1993-09-16 Age: 28"
+    },
+    "Chester Rogers": {
+        "id": 362,
+        "link": "https://fftoday.com/stats/players/14777/Chester_Rogers?LeagueID=17",
+        "data": "Wide Receiver, Tennessee Titans\nCollege: Grambling\nHt: 6\u20191\u201d  Wt: 180 DOB: 1994-01-12 Age: 28"
+    },
+    "Damiere Byrd": {
+        "id": 363,
+        "link": "https://fftoday.com/stats/players/14890/Damiere_Byrd?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nCollege: South Carolina\nHt: 5\u20199\u201d  Wt: 180 DOB: 1993-01-27 Age: 29"
+    },
+    "Antoine Wesley": {
+        "id": 364,
+        "link": "https://fftoday.com/stats/players/17830/Antoine_Wesley?LeagueID=17",
+        "data": "Wide Receiver, Arizona Cardinals\nCollege: Texas Tech\nHt: 6\u20194\u201d  Wt: 206 DOB: 1997-10-22 Age: 24"
+    },
+    "Marquise Goodwin": {
+        "id": 365,
+        "link": "https://fftoday.com/stats/players/13135/Marquise_Goodwin?LeagueID=17",
+        "data": "Wide Receiver, Seattle Seahawks\nDraft: 2013 Round 3 (16)\nCollege: Texas\nHt: 5\u20198\u201d  Wt: 179 DOB: 1990-11-19 Age: 31"
+    },
+    "Ray-Ray McCloud": {
+        "id": 366,
+        "link": "https://fftoday.com/stats/players/16304/Ray-Ray_McCloud?LeagueID=17",
+        "data": "Wide Receiver, San Francisco 49ers\nDraft: 2018 Round 6 (13)\nCollege: Clemson\nHt: 5\u201910\u201d  Wt: 180 DOB: 1996-10-15 Age: 25"
+    },
+    "Rashard Higgins": {
+        "id": 367,
+        "link": "https://fftoday.com/stats/players/15606/Rashard_Higgins?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nDraft: 2016 Round 5 (35)\nCollege: Colorado State\nHt: 6\u20191\u201d  Wt: 196 DOB: 1994-10-07 Age: 27"
+    },
+    "Chris Moore": {
+        "id": 368,
+        "link": "https://fftoday.com/stats/players/15663/Chris_Moore?LeagueID=17",
+        "data": "Wide Receiver, Houston Texans\nDraft: 2016 Round 4 (9)\nCollege: Cincinnati\nHt: 6\u20191\u201d  Wt: 206 DOB: 1993-06-16 Age: 29"
+    },
+    "Lil'Jordan Humphrey": {
+        "id": 369,
+        "link": "https://fftoday.com/stats/players/16823/Lil'Jordan_Humphrey?LeagueID=17",
+        "data": "Wide Receiver, New England Patriots\nCollege: Texas\nHt: 6\u20194\u201d  Wt: 225 DOB: 1998-04-19 Age: 24"
+    },
+    "Isaiah McKenzie": {
+        "id": 370,
+        "link": "https://fftoday.com/stats/players/15954/Isaiah_McKenzie?LeagueID=17",
+        "data": "Wide Receiver, Buffalo Bills\nDraft: 2017 Round 5 (29)\nCollege: Georgia\nHt: 5\u20197\u201d  Wt: 173 DOB: 1995-04-09 Age: 27"
+    },
+    "Cam Sims": {
+        "id": 371,
+        "link": "https://fftoday.com/stats/players/16869/Cam_Sims?LeagueID=17",
+        "data": "Wide Receiver, Washington Commanders\nCollege: Alabama\nHt: 6\u20195\u201d  Wt: 220 DOB: 1996-01-06 Age: 26"
+    },
+    "Brandon Zylstra": {
+        "id": 372,
+        "link": "https://fftoday.com/stats/players/16374/Brandon_Zylstra?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nCollege: None\nHt: 6\u20192\u201d  Wt: 215 DOB: 1993-03-25 Age: 29"
+    },
+    "Quintez Cephus": {
+        "id": 373,
+        "link": "https://fftoday.com/stats/players/17030/Quintez_Cephus?LeagueID=17",
+        "data": "Wide Receiver, Detroit Lions\nDraft: 2020 Round 5 (21)\nCollege: Wisconsin\nHt: 6\u20191\u201d  Wt: 202 DOB: 1998-04-01 Age: 24"
+    },
+    "Cyril Grayson": {
+        "id": 374,
+        "link": "https://fftoday.com/stats/players/16919/Cyril_Grayson?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nCollege: Louisiana State\nHt: 5\u20199\u201d  Wt: 183 DOB: 1993-12-05 Age: 28"
+    },
+    "Tavon Austin": {
+        "id": 375,
+        "link": "https://fftoday.com/stats/players/13014/Tavon_Austin?LeagueID=17",
+        "data": "Wide Receiver, Buffalo Bills\nDraft: 2013 Round 1 (8)\nCollege: West Virginia\nHt: 5\u20199\u201d  Wt: 171 DOB: 1991-03-15 Age: 31"
+    },
+    "Ashton Dulin": {
+        "id": 376,
+        "link": "https://fftoday.com/stats/players/16812/Ashton_Dulin?LeagueID=17",
+        "data": "Wide Receiver, Indianapolis Colts\nCollege: None\nHt: 6\u20191\u201d  Wt: 215 DOB: 1997-05-15 Age: 25"
+    },
+    "Malik Turner": {
+        "id": 377,
+        "link": "https://fftoday.com/stats/players/16452/Malik_Turner?LeagueID=17",
+        "data": "Wide Receiver, San Francisco 49ers\nCollege: Illinois\nHt: 6\u20192\u201d  Wt: 202 DOB: 1996-01-30 Age: 26"
+    },
+    "John Ross": {
+        "id": 378,
+        "link": "https://fftoday.com/stats/players/15992/John_Ross?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2017 Round 1 (9)\nCollege: Washington\nHt: 5\u201911\u201d  Wt: 188 DOB: 1994-11-27 Age: 27"
+    },
+    "Tajae Sharpe": {
+        "id": 379,
+        "link": "https://fftoday.com/stats/players/15704/Tajae_Sharpe?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2016 Round 5 (1)\nCollege: Massachusetts\nHt: 6\u20192\u201d  Wt: 194 DOB: 1994-12-23 Age: 27"
+    },
+    "Albert Wilson": {
+        "id": 380,
+        "link": "https://fftoday.com/stats/players/14507/Albert_Wilson?LeagueID=17",
+        "data": "Wide Receiver, Minnesota Vikings\nCollege: Georgia State\nHt: 5\u20199\u201d  Wt: 200 DOB: 1992-07-12 Age: 30"
+    },
+    "Isaiah Ford": {
+        "id": 381,
+        "link": "https://fftoday.com/stats/players/15867/Isaiah_Ford?LeagueID=17",
+        "data": "Wide Receiver, Indianapolis Colts\nDraft: 2017 Round 7 (19)\nCollege: Virginia Tech\nHt: 6\u20191\u201d  Wt: 194 DOB: 1996-02-09 Age: 26"
+    },
+    "Kendall Hinton": {
+        "id": 382,
+        "link": "https://fftoday.com/stats/players/17363/Kendall_Hinton?LeagueID=17",
+        "data": "Wide Receiver, Denver Broncos\nCollege: Wake Forest\nDOB: 1997-02-19 Age: 25"
+    },
+    "Greg Ward": {
+        "id": 383,
+        "link": "https://fftoday.com/stats/players/16879/Greg_Ward?LeagueID=17",
+        "data": "Wide Receiver, Philadelphia Eagles\nCollege: Houston\nHt: 5\u201911\u201d  Wt: 190 DOB: 1995-07-12 Age: 27"
+    },
+    "D.J. Chark": {
+        "id": 384,
+        "link": "https://fftoday.com/stats/players/16145/D.J._Chark?LeagueID=17",
+        "data": "Wide Receiver, Detroit Lions\nDraft: 2018 Round 2 (29)\nCollege: Louisiana State\nHt: 6\u20193\u201d  Wt: 199 DOB: 1996-09-23 Age: 25"
+    },
+    "Anthony Schwartz": {
+        "id": 385,
+        "link": "https://fftoday.com/stats/players/17696/Anthony_Schwartz?LeagueID=17",
+        "data": "Wide Receiver, Cleveland Browns\nDraft: 2021 Round 3 (28)\nCollege: Auburn\nDOB: 2000-09-05 Age: 21"
+    },
+    "James Proche": {
+        "id": 386,
+        "link": "https://fftoday.com/stats/players/17185/James_Proche?LeagueID=17",
+        "data": "Wide Receiver, Baltimore Ravens\nDraft: 2020 Round 6 (22)\nCollege: Southern Methodist\nHt: 5\u201911\u201d  Wt: 201 DOB: 1996-09-21 Age: 25"
+    },
+    "Jakeem Grant": {
+        "id": 387,
+        "link": "https://fftoday.com/stats/players/15592/Jakeem_Grant?LeagueID=17",
+        "data": "Wide Receiver, Cleveland Browns\nDraft: 2016 Round 6 (11)\nCollege: Texas Tech\nHt: 5\u20196\u201d  Wt: 165 DOB: 1992-10-30 Age: 29"
+    },
+    "Breshad Perriman": {
+        "id": 388,
+        "link": "https://fftoday.com/stats/players/15274/Breshad_Perriman?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nDraft: 2015 Round 1 (26)\nCollege: Central Florida\nHt: 6\u20192\u201d  Wt: 212 DOB: 1993-09-10 Age: 28"
+    },
+    "JuJu Smith-Schuster": {
+        "id": 389,
+        "link": "https://fftoday.com/stats/players/16004/JuJu_Smith-Schuster?LeagueID=17",
+        "data": "Wide Receiver, Kansas City Chiefs\nDraft: 2017 Round 2 (30)\nCollege: Southern California\nHt: 6\u20191\u201d  Wt: 215 DOB: 1996-11-22 Age: 25"
+    },
+    "Parris Campbell": {
+        "id": 390,
+        "link": "https://fftoday.com/stats/players/16538/Parris_Campbell?LeagueID=17",
+        "data": "Wide Receiver, Indianapolis Colts\nDraft: 2019 Round 2 (27)\nCollege: Ohio State\nDOB: 1996-00-00 Age: 26"
+    },
+    "Noah Brown": {
+        "id": 391,
+        "link": "https://fftoday.com/stats/players/15826/Noah_Brown?LeagueID=17",
+        "data": "Wide Receiver, Dallas Cowboys\nDraft: 2017 Round 7 (21)\nCollege: Ohio State\nHt: 6\u20192\u201d  Wt: 222 DOB: 1997-07-19 Age: 25"
+    },
+    "Ihmir Smith-Marsette": {
+        "id": 392,
+        "link": "https://fftoday.com/stats/players/17710/Ihmir_Smith-Marsette?LeagueID=17",
+        "data": "Wide Receiver, Minnesota Vikings\nDraft: 2021 Round 5 (13)\nCollege: Iowa\nHt: 6\u20191\u201d  Wt: 179 DOB: 1999-08-29 Age: 22"
+    },
+    "Mohamed Sanu": {
+        "id": 393,
+        "link": "https://fftoday.com/stats/players/12357/Mohamed_Sanu?LeagueID=17",
+        "data": "Wide Receiver, Miami Dolphins\nDraft: 2012 Round 3 (20)\nCollege: Rutgers\nHt: 6\u20192\u201d  Wt: 210 DOB: 1989-08-22 Age: 32"
+    },
+    "Dee Eskridge": {
+        "id": 394,
+        "link": "https://fftoday.com/stats/players/17560/Dee_Eskridge?LeagueID=17",
+        "data": "Wide Receiver, Seattle Seahawks\nDraft: 2021 Round 2 (24)\nCollege: Western Michigan\nHt: 5\u20199\u201d  Wt: 190 DOB: 1997-03-23 Age: 25"
+    },
+    "N'Keal Harry": {
+        "id": 395,
+        "link": "https://fftoday.com/stats/players/16594/N'Keal_Harry?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2019 Round 1 (32)\nCollege: Arizona State\nHt: 6\u20192\u201d  Wt: 228 DOB: 1997-12-17 Age: 24"
+    },
+    "Terrace Marshall Jr.": {
+        "id": 396,
+        "link": "https://fftoday.com/stats/players/17633/Terrace_Marshall_Jr?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nDraft: 2021 Round 2 (27)\nCollege: Louisiana State\nHt: 6\u20193\u201d  Wt: 200 DOB: 2000-06-09 Age: 22"
+    },
+    "KhaDarel Hodge": {
+        "id": 397,
+        "link": "https://fftoday.com/stats/players/16089/KhaDarel_Hodge?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nCollege: None\nHt: 5\u201911\u201d  Wt: 183 DOB: 1995-01-03 Age: 27"
+    },
+    "Dyami Brown": {
+        "id": 398,
+        "link": "https://fftoday.com/stats/players/17523/Dyami_Brown?LeagueID=17",
+        "data": "Wide Receiver, Washington Commanders\nDraft: 2021 Round 3 (19)\nCollege: North Carolina\nDOB: 1999-11-01 Age: 22"
+    },
+    "Marcus Johnson": {
+        "id": 399,
+        "link": "https://fftoday.com/stats/players/14980/Marcus_Johnson?LeagueID=17",
+        "data": "Wide Receiver, San Francisco 49ers\nCollege: Texas\nHt: 6\u20191\u201d  Wt: 204 DOB: 1994-08-05 Age: 27"
+    },
+    "Dante Pettis": {
+        "id": 400,
+        "link": "https://fftoday.com/stats/players/16157/Dante_Pettis?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2018 Round 2 (12)\nCollege: Washington\nHt: 6\u20191\u201d  Wt: 192 DOB: 1995-10-23 Age: 26"
+    },
+    "Trent Sherfield": {
+        "id": 401,
+        "link": "https://fftoday.com/stats/players/16056/Trent_Sherfield?LeagueID=17",
+        "data": "Wide Receiver, Miami Dolphins\nCollege: Vanderbilt\nHt: 6\u20191\u201d  Wt: 205 DOB: 1996-02-26 Age: 26"
+    },
+    "Ben Skowronek": {
+        "id": 402,
+        "link": "https://fftoday.com/stats/players/17702/Ben_Skowronek?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Rams\nDraft: 2021 Round 7 (22)\nCollege: Notre Dame\nHt: 6\u20193\u201d  Wt: 224 DOB: 1997-06-27 Age: 25"
+    },
+    "Kristian Wilkerson": {
+        "id": 403,
+        "link": "https://fftoday.com/stats/players/17904/Kristian_Wilkerson?LeagueID=17",
+        "data": "Wide Receiver, New England Patriots\nCollege: S.E. Missouri\nHt: 6\u20191\u201d  Wt: 214 DOB: 1997-01-10 Age: 25"
+    },
+    "Denzel Mims": {
+        "id": 404,
+        "link": "https://fftoday.com/stats/players/17158/Denzel_Mims?LeagueID=17",
+        "data": "Wide Receiver, New York Jets\nDraft: 2020 Round 2 (27)\nCollege: Baylor\nHt: 6\u20193\u201d  Wt: 207 DOB: 1997-10-10 Age: 24"
+    },
+    "Scotty Miller": {
+        "id": 405,
+        "link": "https://fftoday.com/stats/players/16822/Scotty_Miller?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nDraft: 2019 Round 6 (36)\nCollege: Bowling Green\nHt: 5\u20199\u201d  Wt: 174 DOB: 1997-07-31 Age: 24"
+    },
+    "Collin Johnson": {
+        "id": 406,
+        "link": "https://fftoday.com/stats/players/17128/Collin_Johnson?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nDraft: 2020 Round 5 (20)\nCollege: Texas\nHt: 6\u20196\u201d  Wt: 222 DOB: 1997-09-23 Age: 24"
+    },
+    "Kenny Stills": {
+        "id": 407,
+        "link": "https://fftoday.com/stats/players/13379/Kenny_Stills?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2013 Round 5 (11)\nCollege: Oklahoma\nDOB: 1992-04-22 Age: 30"
+    },
+    "Equanimeous St. Brown": {
+        "id": 408,
+        "link": "https://fftoday.com/stats/players/16178/Equanimeous_St._Brown?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2018 Round 6 (33)\nCollege: Notre Dame\nHt: 6\u20195\u201d  Wt: 214 DOB: 1996-09-30 Age: 25"
+    },
+    "Trinity Benson": {
+        "id": 409,
+        "link": "https://fftoday.com/stats/players/17773/Trinity_Benson?LeagueID=17",
+        "data": "Wide Receiver, Detroit Lions\nCollege: None\nDOB: 1997-01-16 Age: 25"
+    },
+    "Jeff Smith": {
+        "id": 410,
+        "link": "https://fftoday.com/stats/players/16898/Jeff_Smith?LeagueID=17",
+        "data": "Wide Receiver, New York Jets\nCollege: Boston College\nHt: 6\u20191\u201d  Wt: 195 DOB: 1997-04-21 Age: 25"
+    },
+    "Phillip Dorsett": {
+        "id": 411,
+        "link": "https://fftoday.com/stats/players/15158/Phillip_Dorsett?LeagueID=17",
+        "data": "Wide Receiver, Houston Texans\nDraft: 2015 Round 1 (29)\nCollege: Miami\nHt: 5\u201910\u201d  Wt: 185 DOB: 1993-01-05 Age: 29"
+    },
+    "Dez Fitzpatrick": {
+        "id": 412,
+        "link": "https://fftoday.com/stats/players/17570/Dez_Fitzpatrick?LeagueID=17",
+        "data": "Wide Receiver, Tennessee Titans\nDraft: 2021 Round 4 (4)\nCollege: Louisville\nHt: 6\u20192\u201d  Wt: 210 DOB: 1997-12-17 Age: 24"
+    },
+    "Shi Smith": {
+        "id": 413,
+        "link": "https://fftoday.com/stats/players/17709/Shi_Smith?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nDraft: 2021 Round 6 (20)\nCollege: South Carolina\nHt: 5\u201910\u201d  Wt: 190 DOB: 1998-10-26 Age: 23"
+    },
+    "Chris Hogan": {
+        "id": 414,
+        "link": "https://fftoday.com/stats/players/14388/Chris_Hogan?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Monmouth\nHt: 6\u20191\u201d  Wt: 220 DOB: 1988-10-24 Age: 33"
+    },
+    "Dede Westbrook": {
+        "id": 415,
+        "link": "https://fftoday.com/stats/players/16034/Dede_Westbrook?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2017 Round 4 (3)\nCollege: Oklahoma\nDOB: 1993-11-21 Age: 28"
+    },
+    "Josh Gordon": {
+        "id": 416,
+        "link": "https://fftoday.com/stats/players/12692/Josh_Gordon?LeagueID=17",
+        "data": "Wide Receiver, Kansas City Chiefs\nCollege: Baylor\nHt: 6\u20193\u201d  Wt: 225 DOB: 1991-04-13 Age: 31"
+    },
+    "Anthony Miller": {
+        "id": 417,
+        "link": "https://fftoday.com/stats/players/16106/Anthony_Miller?LeagueID=17",
+        "data": "Wide Receiver, Pittsburgh Steelers\nDraft: 2018 Round 2 (19)\nCollege: Memphis\nHt: 5\u201911\u201d  Wt: 190 DOB: 1994-10-09 Age: 27"
+    },
+    "Auden Tate": {
+        "id": 418,
+        "link": "https://fftoday.com/stats/players/16110/Auden_Tate?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nDraft: 2018 Round 7 (35)\nCollege: Florida State\nHt: 6\u20195\u201d  Wt: 225 DOB: 1997-02-03 Age: 25"
+    },
+    "Dax Milne": {
+        "id": 419,
+        "link": "https://fftoday.com/stats/players/17647/Dax_Milne?LeagueID=17",
+        "data": "Wide Receiver, Washington Commanders\nDraft: 2021 Round 7 (31)\nCollege: Brigham Young\nHt: 6\u20191\u201d  Wt: 190 DOB: 1999-06-23 Age: 23"
+    },
+    "Preston Williams": {
+        "id": 420,
+        "link": "https://fftoday.com/stats/players/16757/Preston_Williams?LeagueID=17",
+        "data": "Wide Receiver, Miami Dolphins\nCollege: Colorado State\nHt: 6\u20194\u201d  Wt: 210 DOB: 1996-00-00 Age: 26"
+    },
+    "Cameron Batson": {
+        "id": 421,
+        "link": "https://fftoday.com/stats/players/16416/Cameron_Batson?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nCollege: Texas Tech\nHt: 5\u20198\u201d  Wt: 175 DOB: 1995-12-20 Age: 26"
+    },
+    "KJ Hamler": {
+        "id": 422,
+        "link": "https://fftoday.com/stats/players/17093/KJ_Hamler?LeagueID=17",
+        "data": "Wide Receiver, Denver Broncos\nDraft: 2020 Round 2 (14)\nCollege: Penn State\nHt: 5\u20199\u201d  Wt: 178 DOB: 1999-07-08 Age: 23"
+    },
+    "Penny Hart": {
+        "id": 423,
+        "link": "https://fftoday.com/stats/players/16758/Penny_Hart?LeagueID=17",
+        "data": "Wide Receiver, Seattle Seahawks\nCollege: Georgia State\nHt: 5\u20198\u201d  Wt: 180 DOB: 1996-07-05 Age: 26"
+    },
+    "Dezmon Patmon": {
+        "id": 424,
+        "link": "https://fftoday.com/stats/players/17174/Dezmon_Patmon?LeagueID=17",
+        "data": "Wide Receiver, Indianapolis Colts\nDraft: 2020 Round 6 (33)\nCollege: Washington State\nHt: 6\u20194\u201d  Wt: 225 DOB: 1998-08-06 Age: 23"
+    },
+    "Ja'Marcus Bradley": {
+        "id": 425,
+        "link": "https://fftoday.com/stats/players/17399/Ja'Marcus_Bradley?LeagueID=17",
+        "data": "Wide Receiver, Cleveland Browns\nCollege: Louisiana\nDOB: 1996-12-11 Age: 25"
+    },
+    "Jaelon Darden": {
+        "id": 426,
+        "link": "https://fftoday.com/stats/players/17546/Jaelon_Darden?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nDraft: 2021 Round 4 (24)\nCollege: North Texas\nHt: 5\u20199\u201d  Wt: 174 DOB: 1997-00-00 Age: 25"
+    },
+    "Tom Kennedy": {
+        "id": 427,
+        "link": "https://fftoday.com/stats/players/17817/Tom_Kennedy?LeagueID=17",
+        "data": "Wide Receiver, Detroit Lions\nCollege: None\nHt: 5\u201910\u201d  Wt: 195 DOB: 1996-07-29 Age: 25"
+    },
+    "Juwann Winfree": {
+        "id": 428,
+        "link": "https://fftoday.com/stats/players/16748/Juwann_Winfree?LeagueID=17",
+        "data": "Wide Receiver, Green Bay Packers\nDraft: 2019 Round 6 (15)\nCollege: Colorado\nHt: 6\u20191\u201d  Wt: 210 DOB: 1996-00-00 Age: 26"
+    },
+    "C.J. Board": {
+        "id": 429,
+        "link": "https://fftoday.com/stats/players/16854/C.J._Board?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nCollege: Tenn.-Chattanooga\nHt: 6\u20191\u201d  Wt: 181 DOB: 1993-12-12 Age: 28"
+    },
+    "Mike Thomas": {
+        "id": 430,
+        "link": "https://fftoday.com/stats/players/15720/Mike_Thomas?LeagueID=17",
+        "data": "Wide Receiver, Cincinnati Bengals\nDraft: 2016 Round 6 (31)\nCollege: Southern Mississippi\nHt: 6\u20191\u201d  Wt: 200 DOB: 1994-08-16 Age: 27"
+    },
+    "Amari Rodgers": {
+        "id": 431,
+        "link": "https://fftoday.com/stats/players/17690/Amari_Rodgers?LeagueID=17",
+        "data": "Wide Receiver, Green Bay Packers\nDraft: 2021 Round 3 (22)\nCollege: Clemson\nHt: 5\u201910\u201d  Wt: 210 DOB: 1999-09-23 Age: 22"
+    },
+    "Jason Moore": {
+        "id": 432,
+        "link": "https://fftoday.com/stats/players/16842/Jason_Moore?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Chargers\nCollege: Findlay\nHt: 6\u20192\u201d  Wt: 213 DOB: 1995-06-23 Age: 27"
+    },
+    "Alex Erickson": {
+        "id": 433,
+        "link": "https://fftoday.com/stats/players/14742/Alex_Erickson?LeagueID=17",
+        "data": "Wide Receiver, Washington Commanders\nCollege: Wisconsin\nDOB: 1992-11-06 Age: 29"
+    },
+    "Curtis Samuel": {
+        "id": 434,
+        "link": "https://fftoday.com/stats/players/15994/Curtis_Samuel?LeagueID=17",
+        "data": "Wide Receiver, Washington Commanders\nDraft: 2017 Round 2 (8)\nCollege: Ohio State\nHt: 5\u201911\u201d  Wt: 196 DOB: 1996-08-11 Age: 25"
+    },
+    "Willie Snead": {
+        "id": 435,
+        "link": "https://fftoday.com/stats/players/14602/Willie_Snead?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Ball State\nHt: 5\u201911\u201d  Wt: 195 DOB: 1992-10-17 Age: 29"
+    },
+    "Cody White": {
+        "id": 436,
+        "link": "https://fftoday.com/stats/players/17797/Cody_White?LeagueID=17",
+        "data": "Wide Receiver, Pittsburgh Steelers\nCollege: Michigan State\nHt: 6\u20193\u201d  Wt: 215 DOB: 1998-11-28 Age: 23"
+    },
+    "Pharoh Cooper": {
+        "id": 437,
+        "link": "https://fftoday.com/stats/players/15551/Pharoh_Cooper?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2016 Round 4 (19)\nCollege: South Carolina\nHt: 5\u201911\u201d  Wt: 203 DOB: 1995-03-07 Age: 27"
+    },
+    "Greg Dortch": {
+        "id": 438,
+        "link": "https://fftoday.com/stats/players/16889/Greg_Dortch?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Wake Forest\nHt: 5\u20197\u201d  Wt: 175 DOB: 1998-05-29 Age: 24"
+    },
+    "Cody Hollister": {
+        "id": 439,
+        "link": "https://fftoday.com/stats/players/16886/Cody_Hollister?LeagueID=17",
+        "data": "Wide Receiver, Tennessee Titans\nCollege: Arkansas\nHt: 6\u20194\u201d  Wt: 209 DOB: 1993-11-18 Age: 28"
+    },
+    "D.J. Montgomery": {
+        "id": 440,
+        "link": "https://fftoday.com/stats/players/17879/D.J._Montgomery?LeagueID=17",
+        "data": "Wide Receiver, New York Jets\nCollege: Austin Peay\nHt: 6\u20191\u201d  Wt: 201 DOB: 1996-11-17 Age: 25"
+    },
+    "Trent Taylor": {
+        "id": 441,
+        "link": "https://fftoday.com/stats/players/16015/Trent_Taylor?LeagueID=17",
+        "data": "Wide Receiver, Cincinnati Bengals\nDraft: 2017 Round 5 (34)\nCollege: Louisiana Tech\nHt: 5\u20198\u201d  Wt: 181 DOB: 1994-04-30 Age: 28"
+    },
+    "Gunner Olszewski": {
+        "id": 442,
+        "link": "https://fftoday.com/stats/players/16801/Gunner_Olszewski?LeagueID=17",
+        "data": "Wide Receiver, Pittsburgh Steelers\nCollege: None\nDOB: 1996-00-00 Age: 26"
+    },
+    "JJ Arcega-Whiteside": {
+        "id": 443,
+        "link": "https://fftoday.com/stats/players/16508/JJ_Arcega-Whiteside?LeagueID=17",
+        "data": "Wide Receiver, Philadelphia Eagles\nDraft: 2019 Round 2 (25)\nCollege: Stanford\nHt: 6\u20192\u201d  Wt: 225 DOB: 1996-00-00 Age: 26"
+    },
+    "Will Fuller": {
+        "id": 444,
+        "link": "https://fftoday.com/stats/players/15585/Will_Fuller?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2016 Round 1 (21)\nCollege: Notre Dame\nDOB: 1994-04-16 Age: 28"
+    },
+    "Christian Blake": {
+        "id": 445,
+        "link": "https://fftoday.com/stats/players/16858/Christian_Blake?LeagueID=17",
+        "data": "Wide Receiver, Arizona Cardinals\nCollege: Northern Illinois\nHt: 6\u20191\u201d  Wt: 181 DOB: 1996-06-08 Age: 26"
+    },
+    "K.J. Hill": {
+        "id": 446,
+        "link": "https://fftoday.com/stats/players/17107/K.J._Hill?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2020 Round 7 (6)\nCollege: Ohio State\nDOB: 1997-09-15 Age: 24"
+    },
+    "Trenton Irwin": {
+        "id": 447,
+        "link": "https://fftoday.com/stats/players/17397/Trenton_Irwin?LeagueID=17",
+        "data": "Wide Receiver, Cincinnati Bengals\nCollege: Stanford\nHt: 6\u20192\u201d  Wt: 207 DOB: 1995-12-10 Age: 26"
+    },
+    "Kevin White": {
+        "id": 448,
+        "link": "https://fftoday.com/stats/players/15344/Kevin_White?LeagueID=17",
+        "data": "Wide Receiver, New Orleans Saints\nDraft: 2015 Round 1 (7)\nCollege: West Virginia\nHt: 6\u20193\u201d  Wt: 215 DOB: 1992-06-25 Age: 30"
+    },
+    "Seth Williams": {
+        "id": 449,
+        "link": "https://fftoday.com/stats/players/17754/Seth_Williams?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2021 Round 6 (35)\nCollege: Auburn\nHt: 6\u20193\u201d  Wt: 211 DOB: 2000-04-10 Age: 22"
+    },
+    "Jake Kumerow": {
+        "id": 450,
+        "link": "https://fftoday.com/stats/players/16359/Jake_Kumerow?LeagueID=17",
+        "data": "Wide Receiver, Buffalo Bills\nHt: 6\u20194\u201d  Wt: 209 DOB: 1992-02-17 Age: 30"
+    },
+    "Mike Strachan": {
+        "id": 451,
+        "link": "https://fftoday.com/stats/players/17720/Mike_Strachan?LeagueID=17",
+        "data": "Wide Receiver, Indianapolis Colts\nDraft: 2021 Round 7 (1)\nCollege: Charleston Southern\nHt: 6\u20195\u201d  Wt: 225 DOB: 1997-00-00 Age: 25"
+    },
+    "Marcus Kemp": {
+        "id": 452,
+        "link": "https://fftoday.com/stats/players/15426/Marcus_Kemp?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nCollege: Hawaii\nHt: 6\u20194\u201d  Wt: 210 DOB: 1995-08-14 Age: 26"
+    },
+    "Dazz Newsome": {
+        "id": 453,
+        "link": "https://fftoday.com/stats/players/17661/Dazz_Newsome?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2021 Round 6 (37)\nCollege: North Carolina\nHt: 5\u201911\u201d  Wt: 190 DOB: 1999-05-15 Age: 23"
+    },
+    "Tylan Wallace": {
+        "id": 454,
+        "link": "https://fftoday.com/stats/players/17742/Tylan_Wallace?LeagueID=17",
+        "data": "Wide Receiver, Baltimore Ravens\nDraft: 2021 Round 4 (26)\nCollege: Oklahoma State\nDOB: 1999-05-13 Age: 23"
+    },
+    "Keith Kirkwood": {
+        "id": 455,
+        "link": "https://fftoday.com/stats/players/16437/Keith_Kirkwood?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nCollege: Temple\nHt: 6\u20193\u201d  Wt: 210 DOB: 1993-12-26 Age: 28"
+    },
+    "David Sills": {
+        "id": 456,
+        "link": "https://fftoday.com/stats/players/17824/David_Sills?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nCollege: West Virginia\nHt: 6\u20193\u201d  Wt: 211 DOB: 1996-05-29 Age: 26"
+    },
+    "Tyron Johnson": {
+        "id": 457,
+        "link": "https://fftoday.com/stats/players/17295/Tyron_Johnson?LeagueID=17",
+        "data": "Wide Receiver, Las Vegas Raiders\nCollege: Oklahoma State\nHt: 6\u20191\u201d  Wt: 193 DOB: 1996-01-08 Age: 26"
+    },
+    "Stanley Morgan Jr.": {
+        "id": 458,
+        "link": "https://fftoday.com/stats/players/16756/Stanley_Morgan_Jr?LeagueID=17",
+        "data": "Wide Receiver, Cincinnati Bengals\nCollege: Nebraska\nHt: 6\u20191\u201d  Wt: 200 DOB: 1996-00-00 Age: 26"
+    },
+    "Tyrell Williams": {
+        "id": 459,
+        "link": "https://fftoday.com/stats/players/14684/Tyrell_Williams?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Western Oregon\nHt: 6\u20194\u201d  Wt: 205 DOB: 1992-02-12 Age: 30"
+    },
+    "Davion Davis": {
+        "id": 460,
+        "link": "https://fftoday.com/stats/players/17871/Davion_Davis?LeagueID=17",
+        "data": "Wide Receiver, Houston Texans\nCollege: Sam Houston State\nHt: 5\u201911\u201d  Wt: 190 DOB: 1996-10-23 Age: 25"
+    },
+    "C.J. Saunders": {
+        "id": 461,
+        "link": "https://fftoday.com/stats/players/17910/C.J._Saunders?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nCollege: Ohio State\nHt: 5\u201910\u201d  Wt: 190 DOB: 1996-09-15 Age: 25"
+    },
+    "Jaydon Mickens": {
+        "id": 462,
+        "link": "https://fftoday.com/stats/players/15062/Jaydon_Mickens?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Washington\nHt: 5\u201910\u201d  Wt: 175 DOB: 1994-04-21 Age: 28"
+    },
+    "Frank Darby": {
+        "id": 463,
+        "link": "https://fftoday.com/stats/players/17545/Frank_Darby?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nDraft: 2021 Round 6 (3)\nCollege: Arizona State\nHt: 6\u20191\u201d  Wt: 200 DOB: 1997-00-00 Age: 25"
+    },
+    "Andre Roberts": {
+        "id": 464,
+        "link": "https://fftoday.com/stats/players/11498/Andre_Roberts?LeagueID=17",
+        "data": "Wide Receiver, Carolina Panthers\nDraft: 2010 Round 3 (24)\nHt: 5\u201911\u201d  Wt: 195 DOB: 1988-01-09 Age: 34"
+    },
+    "Andy Isabella": {
+        "id": 465,
+        "link": "https://fftoday.com/stats/players/16608/Andy_Isabella?LeagueID=17",
+        "data": "Wide Receiver, Arizona Cardinals\nDraft: 2019 Round 2 (30)\nCollege: Massachusetts\nHt: 5\u20199\u201d  Wt: 188 DOB: 1996-00-00 Age: 26"
+    },
+    "Kirk Merritt": {
+        "id": 466,
+        "link": "https://fftoday.com/stats/players/17838/Kirk_Merritt?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Arkansas State\nHt: 6\u20191\u201d  Wt: 214 DOB: 1997-01-05 Age: 25"
+    },
+    "Tarik Black": {
+        "id": 467,
+        "link": "https://fftoday.com/stats/players/17912/Tarik_Black?LeagueID=17",
+        "data": "Wide Receiver, New York Jets\nCollege: Texas\nHt: 6\u20193\u201d  Wt: 213 DOB: 1998-02-10 Age: 24"
+    },
+    "Marvin Hall": {
+        "id": 468,
+        "link": "https://fftoday.com/stats/players/14987/Marvin_Hall?LeagueID=17",
+        "data": "Wide Receiver, Jacksonville Jaguars\nCollege: Washington\nHt: 5\u201910\u201d  Wt: 190 DOB: 1993-04-10 Age: 29"
+    },
+    "Tommylee Lewis": {
+        "id": 469,
+        "link": "https://fftoday.com/stats/players/14783/Tommylee_Lewis?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: Northern Illinois\nHt: 5\u20197\u201d  Wt: 168 DOB: 1992-10-24 Age: 29"
+    },
+    "Miles Boykin": {
+        "id": 470,
+        "link": "https://fftoday.com/stats/players/16523/Miles_Boykin?LeagueID=17",
+        "data": "Wide Receiver, Pittsburgh Steelers\nDraft: 2019 Round 3 (30)\nCollege: Notre Dame\nHt: 6\u20194\u201d  Wt: 220 DOB: 1996-00-00 Age: 26"
+    },
+    "Keke Coutee": {
+        "id": 471,
+        "link": "https://fftoday.com/stats/players/16243/Keke_Coutee?LeagueID=17",
+        "data": "Wide Receiver, Indianapolis Colts\nDraft: 2018 Round 4 (3)\nCollege: Texas Tech\nHt: 5\u201911\u201d  Wt: 180 DOB: 1997-01-14 Age: 25"
+    },
+    "Easop Winston": {
+        "id": 472,
+        "link": "https://fftoday.com/stats/players/17880/Easop_Winston?LeagueID=17",
+        "data": "Wide Receiver, New Orleans Saints\nCollege: Washington State\nDOB: 1996-12-17 Age: 25"
+    },
+    "Malik Taylor": {
+        "id": 473,
+        "link": "https://fftoday.com/stats/players/17307/Malik_Taylor?LeagueID=17",
+        "data": "Wide Receiver, Green Bay Packers\nCollege: Ferris State\nHt: 6\u20191\u201d  Wt: 216 DOB: 1995-12-21 Age: 26"
+    },
+    "Maurice Ffrench": {
+        "id": 474,
+        "link": "https://fftoday.com/stats/players/17895/Maurice_Ffrench?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Chargers\nCollege: Pittsburgh\nHt: 5\u201911\u201d  Wt: 200 DOB: 1998-01-01 Age: 24"
+    },
+    "Rodney Adams": {
+        "id": 475,
+        "link": "https://fftoday.com/stats/players/15803/Rodney_Adams?LeagueID=17",
+        "data": "Wide Receiver\nDraft: 2017 Round 5 (27)\nCollege: South Florida\nHt: 6\u20191\u201d  Wt: 189 DOB: 1994-09-15 Age: 27"
+    },
+    "Geronimo Allison": {
+        "id": 476,
+        "link": "https://fftoday.com/stats/players/14829/Geronimo_Allison?LeagueID=17",
+        "data": "Wide Receiver, Atlanta Falcons\nCollege: Illinois\nHt: 6\u20193\u201d  Wt: 202 DOB: 1994-01-18 Age: 28"
+    },
+    "John Brown": {
+        "id": 477,
+        "link": "https://fftoday.com/stats/players/14137/John_Brown?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2014 Round 3 (27)\nCollege: Pittsburg State\nHt: 5\u201910\u201d  Wt: 179 DOB: 1990-04-03 Age: 32"
+    },
+    "Tyrie Cleveland": {
+        "id": 478,
+        "link": "https://fftoday.com/stats/players/17038/Tyrie_Cleveland?LeagueID=17",
+        "data": "Wide Receiver, Denver Broncos\nDraft: 2020 Round 7 (38)\nCollege: Florida\nHt: 6\u20192\u201d  Wt: 209 DOB: 1997-09-02 Age: 24"
+    },
+    "Isaiah Coulter": {
+        "id": 479,
+        "link": "https://fftoday.com/stats/players/17042/Isaiah_Coulter?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2020 Round 5 (26)\nCollege: Rhode Island\nHt: 6\u20192\u201d  Wt: 198 DOB: 1998-09-18 Age: 23"
+    },
+    "David Moore": {
+        "id": 480,
+        "link": "https://fftoday.com/stats/players/15962/David_Moore?LeagueID=17",
+        "data": "Wide Receiver, Chicago Bears\nDraft: 2017 Round 7 (8)\nCollege: East Central, Okla.\nHt: 6\u20192\u201d  Wt: 225 DOB: 1995-01-15 Age: 27"
+    },
+    "Devin Smith": {
+        "id": 481,
+        "link": "https://fftoday.com/stats/players/15316/Devin_Smith?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2015 Round 2 (5)\nCollege: Ohio State\nDOB: 1992-03-03 Age: 30"
+    },
+    "Vyncint Smith": {
+        "id": 482,
+        "link": "https://fftoday.com/stats/players/16069/Vyncint_Smith?LeagueID=17",
+        "data": "Wide Receiver, Tampa Bay Buccaneers\nCollege: None\nHt: 6\u20193\u201d  Wt: 195 DOB: 1996-06-09 Age: 26"
+    },
+    "Racey McMath": {
+        "id": 483,
+        "link": "https://fftoday.com/stats/players/17639/Racey_McMath?LeagueID=17",
+        "data": "Wide Receiver, Tennessee Titans\nDraft: 2021 Round 6 (21)\nCollege: Louisiana State\nHt: 6\u20193\u201d  Wt: 224 DOB: 1999-06-14 Age: 23"
+    },
+    "Alex Bachman": {
+        "id": 484,
+        "link": "https://fftoday.com/stats/players/17885/Alex_Bachman?LeagueID=17",
+        "data": "Wide Receiver, New York Giants\nCollege: Wake Forest\nDOB: 1996-05-29 Age: 26"
+    },
+    "Travis Benjamin": {
+        "id": 485,
+        "link": "https://fftoday.com/stats/players/12374/Travis_Benjamin?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nDraft: 2012 Round 4 (5)\nCollege: Miami\nHt: 5\u201910\u201d  Wt: 175 DOB: 1989-12-29 Age: 32"
+    },
+    "J.J. Koski": {
+        "id": 486,
+        "link": "https://fftoday.com/stats/players/17864/J.J._Koski?LeagueID=17",
+        "data": "Wide Receiver, Los Angeles Rams\nCollege: Cal Poly\nHt: 6\u20191\u201d  Wt: 195 DOB: 1996-12-27 Age: 25"
+    },
+    "Diontae Spencer": {
+        "id": 487,
+        "link": "https://fftoday.com/stats/players/16821/Diontae_Spencer?LeagueID=17",
+        "data": "Wide Receiver, Free Agent\nCollege: McNeese State\nHt: 5\u20198\u201d  Wt: 170 DOB: 1992-03-19 Age: 30"
+    },
+    "Mark Andrews": {
+        "id": 488,
+        "link": "https://fftoday.com/stats/players/16268/Mark_Andrews?LeagueID=17",
+        "data": "Tight End, Baltimore Ravens\nDraft: 2018 Round 3 (22)\nCollege: Oklahoma\nHt: 6\u20195\u201d  Wt: 256 DOB: 1995-09-06 Age: 26"
+    },
+    "Travis Kelce": {
+        "id": 489,
+        "link": "https://fftoday.com/stats/players/13217/Travis_Kelce?LeagueID=17",
+        "data": "Tight End, Kansas City Chiefs\nDraft: 2013 Round 3 (1)\nCollege: Cincinnati\nHt: 6\u20196\u201d  Wt: 260 DOB: 1989-10-05 Age: 32"
+    },
+    "Dalton Schultz": {
+        "id": 490,
+        "link": "https://fftoday.com/stats/players/16152/Dalton_Schultz?LeagueID=17",
+        "data": "Tight End, Dallas Cowboys\nDraft: 2018 Round 4 (37)\nCollege: Stanford\nHt: 6\u20196\u201d  Wt: 242 DOB: 1996-07-11 Age: 26"
+    },
+    "George Kittle": {
+        "id": 491,
+        "link": "https://fftoday.com/stats/players/15929/George_Kittle?LeagueID=17",
+        "data": "Tight End, San Francisco 49ers\nDraft: 2017 Round 5 (2)\nCollege: Iowa\nHt: 6\u20194\u201d  Wt: 247 DOB: 1993-10-09 Age: 28"
+    },
+    "Zach Ertz": {
+        "id": 492,
+        "link": "https://fftoday.com/stats/players/13104/Zach_Ertz?LeagueID=17",
+        "data": "Tight End, Arizona Cardinals\nDraft: 2013 Round 2 (3)\nCollege: Stanford\nHt: 6\u20196\u201d  Wt: 252 DOB: 1990-12-10 Age: 31"
+    },
+    "Rob Gronkowski": {
+        "id": 493,
+        "link": "https://fftoday.com/stats/players/11452/Rob_Gronkowski?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2010 Round 2 (10)\nCollege: Arizona\nHt: 6\u20196\u201d  Wt: 265 DOB: 1989-05-14 Age: 33"
+    },
+    "Kyle Pitts": {
+        "id": 494,
+        "link": "https://fftoday.com/stats/players/17682/Kyle_Pitts?LeagueID=17",
+        "data": "Tight End, Atlanta Falcons\nDraft: 2021 Round 1 (4)\nCollege: Florida\nHt: 6\u20196\u201d  Wt: 240 DOB: 2000-10-06 Age: 21"
+    },
+    "Hunter Henry": {
+        "id": 495,
+        "link": "https://fftoday.com/stats/players/15603/Hunter_Henry?LeagueID=17",
+        "data": "Tight End, New England Patriots\nDraft: 2016 Round 2 (4)\nCollege: Arkansas\nHt: 6\u20195\u201d  Wt: 250 DOB: 1994-12-07 Age: 27"
+    },
+    "Dawson Knox": {
+        "id": 496,
+        "link": "https://fftoday.com/stats/players/16629/Dawson_Knox?LeagueID=17",
+        "data": "Tight End, Buffalo Bills\nDraft: 2019 Round 3 (33)\nCollege: Mississippi\nHt: 6\u20194\u201d  Wt: 254 DOB: 1996-11-14 Age: 25"
+    },
+    "Dallas Goedert": {
+        "id": 497,
+        "link": "https://fftoday.com/stats/players/16151/Dallas_Goedert?LeagueID=17",
+        "data": "Tight End, Philadelphia Eagles\nDraft: 2018 Round 2 (17)\nCollege: South Dakota State\nHt: 6\u20195\u201d  Wt: 255 DOB: 1995-01-03 Age: 27"
+    },
+    "Mike Gesicki": {
+        "id": 498,
+        "link": "https://fftoday.com/stats/players/16281/Mike_Gesicki?LeagueID=17",
+        "data": "Tight End, Miami Dolphins\nDraft: 2018 Round 2 (10)\nCollege: Penn State\nHt: 6\u20195\u201d  Wt: 247 DOB: 1995-10-03 Age: 26"
+    },
+    "Noah Fant": {
+        "id": 499,
+        "link": "https://fftoday.com/stats/players/16564/Noah_Fant?LeagueID=17",
+        "data": "Tight End, Seattle Seahawks\nDraft: 2019 Round 1 (20)\nCollege: Iowa\nHt: 6\u20194\u201d  Wt: 249 DOB: 1996-00-00 Age: 26"
+    },
+    "Pat Freiermuth": {
+        "id": 500,
+        "link": "https://fftoday.com/stats/players/17574/Pat_Freiermuth?LeagueID=17",
+        "data": "Tight End, Pittsburgh Steelers\nDraft: 2021 Round 2 (23)\nCollege: Penn State\nHt: 6\u20195\u201d  Wt: 260 DOB: 1998-10-25 Age: 23"
+    },
+    "Tyler Higbee": {
+        "id": 501,
+        "link": "https://fftoday.com/stats/players/15605/Tyler_Higbee?LeagueID=17",
+        "data": "Tight End, Los Angeles Rams\nDraft: 2016 Round 4 (12)\nCollege: Western Kentucky\nHt: 6\u20196\u201d  Wt: 249 DOB: 1993-01-01 Age: 29"
+    },
+    "T.J. Hockenson": {
+        "id": 502,
+        "link": "https://fftoday.com/stats/players/16600/T.J._Hockenson?LeagueID=17",
+        "data": "Tight End, Detroit Lions\nDraft: 2019 Round 1 (8)\nCollege: Iowa\nHt: 6\u20195\u201d  Wt: 251 DOB: 1997-07-03 Age: 25"
+    },
+    "Tyler Conklin": {
+        "id": 503,
+        "link": "https://fftoday.com/stats/players/16344/Tyler_Conklin?LeagueID=17",
+        "data": "Tight End, New York Jets\nDraft: 2018 Round 5 (20)\nCollege: Central Michigan\nHt: 6\u20194\u201d  Wt: 240 DOB: 1995-07-30 Age: 26"
+    },
+    "Darren Waller": {
+        "id": 504,
+        "link": "https://fftoday.com/stats/players/15340/Darren_Waller?LeagueID=17",
+        "data": "Tight End, Las Vegas Raiders\nDraft: 2015 Round 6 (28)\nCollege: Georgia Tech\nHt: 6\u20196\u201d  Wt: 238 DOB: 1992-09-13 Age: 29"
+    },
+    "Jared Cook": {
+        "id": 505,
+        "link": "https://fftoday.com/stats/players/11089/Jared_Cook?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2009 Round 3 (25)\nCollege: South Carolina\nHt: 6\u20195\u201d  Wt: 248 DOB: 1987-04-07 Age: 35"
+    },
+    "C.J. Uzomah": {
+        "id": 506,
+        "link": "https://fftoday.com/stats/players/15336/C.J._Uzomah?LeagueID=17",
+        "data": "Tight End, New York Jets\nDraft: 2015 Round 5 (21)\nCollege: Auburn\nHt: 6\u20195\u201d  Wt: 264 DOB: 1993-01-14 Age: 29"
+    },
+    "Gerald Everett": {
+        "id": 507,
+        "link": "https://fftoday.com/stats/players/15865/Gerald_Everett?LeagueID=17",
+        "data": "Tight End, Los Angeles Chargers\nDraft: 2017 Round 2 (12)\nCollege: South Alabama\nHt: 6\u20193\u201d  Wt: 239 DOB: 1994-06-25 Age: 28"
+    },
+    "Cole Kmet": {
+        "id": 508,
+        "link": "https://fftoday.com/stats/players/17140/Cole_Kmet?LeagueID=17",
+        "data": "Tight End, Chicago Bears\nDraft: 2020 Round 2 (11)\nCollege: Notre Dame\nHt: 6\u20196\u201d  Wt: 262 DOB: 1999-03-10 Age: 23"
+    },
+    "David Njoku": {
+        "id": 509,
+        "link": "https://fftoday.com/stats/players/15971/David_Njoku?LeagueID=17",
+        "data": "Tight End, Cleveland Browns\nDraft: 2017 Round 1 (29)\nCollege: Miami\nHt: 6\u20194\u201d  Wt: 246 DOB: 1996-07-10 Age: 26"
+    },
+    "Evan Engram": {
+        "id": 510,
+        "link": "https://fftoday.com/stats/players/15862/Evan_Engram?LeagueID=17",
+        "data": "Tight End, Jacksonville Jaguars\nDraft: 2017 Round 1 (23)\nCollege: Mississippi\nHt: 6\u20193\u201d  Wt: 234 DOB: 1994-09-02 Age: 27"
+    },
+    "Taysom Hill": {
+        "id": 511,
+        "link": "https://fftoday.com/stats/players/15080/Taysom_Hill?LeagueID=17",
+        "data": "Tight End, New Orleans Saints\nCollege: Brigham Young\nHt: 6\u20192\u201d  Wt: 221 DOB: 1990-08-03 Age: 31"
+    },
+    "Austin Hooper": {
+        "id": 512,
+        "link": "https://fftoday.com/stats/players/15610/Austin_Hooper?LeagueID=17",
+        "data": "Tight End, Tennessee Titans\nDraft: 2016 Round 3 (18)\nCollege: Stanford\nHt: 6\u20194\u201d  Wt: 254 DOB: 1994-11-04 Age: 27"
+    },
+    "Foster Moreau": {
+        "id": 513,
+        "link": "https://fftoday.com/stats/players/16659/Foster_Moreau?LeagueID=17",
+        "data": "Tight End, Las Vegas Raiders\nDraft: 2019 Round 4 (35)\nCollege: Louisiana State\nHt: 6\u20194\u201d  Wt: 253 DOB: 1997-05-06 Age: 25"
+    },
+    "Mo Alie-Cox": {
+        "id": 514,
+        "link": "https://fftoday.com/stats/players/16376/Mo_Alie-Cox?LeagueID=17",
+        "data": "Tight End, Indianapolis Colts\nCollege: None\nHt: 6\u20195\u201d  Wt: 267 DOB: 1993-09-19 Age: 28"
+    },
+    "Cameron Brate": {
+        "id": 515,
+        "link": "https://fftoday.com/stats/players/14543/Cameron_Brate?LeagueID=17",
+        "data": "Tight End, Tampa Bay Buccaneers\nCollege: Harvard\nHt: 6\u20195\u201d  Wt: 235 DOB: 1991-07-03 Age: 31"
+    },
+    "Jack Doyle": {
+        "id": 516,
+        "link": "https://fftoday.com/stats/players/13094/Jack_Doyle?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: Western Kentucky\nHt: 6\u20196\u201d  Wt: 253 DOB: 1990-05-05 Age: 32"
+    },
+    "Albert Okwuegbunam": {
+        "id": 517,
+        "link": "https://fftoday.com/stats/players/17170/Albert_Okwuegbunam?LeagueID=17",
+        "data": "Tight End, Denver Broncos\nDraft: 2020 Round 4 (12)\nCollege: Missouri\nHt: 6\u20196\u201d  Wt: 258 DOB: 1998-04-25 Age: 24"
+    },
+    "Dan Arnold": {
+        "id": 518,
+        "link": "https://fftoday.com/stats/players/16420/Dan_Arnold?LeagueID=17",
+        "data": "Tight End, Jacksonville Jaguars\nCollege: None\nHt: 6\u20196\u201d  Wt: 220 DOB: 1995-03-15 Age: 27"
+    },
+    "Anthony Firkser": {
+        "id": 519,
+        "link": "https://fftoday.com/stats/players/16412/Anthony_Firkser?LeagueID=17",
+        "data": "Tight End, Atlanta Falcons\nCollege: Harvard\nHt: 6\u20192\u201d  Wt: 246 DOB: 1995-02-19 Age: 27"
+    },
+    "Geoff Swaim": {
+        "id": 520,
+        "link": "https://fftoday.com/stats/players/15326/Geoff_Swaim?LeagueID=17",
+        "data": "Tight End, Tennessee Titans\nDraft: 2015 Round 7 (29)\nCollege: Texas\nHt: 6\u20194\u201d  Wt: 250 DOB: 1993-09-16 Age: 28"
+    },
+    "Ricky Seals-Jones": {
+        "id": 521,
+        "link": "https://fftoday.com/stats/players/14974/Ricky_Seals-Jones?LeagueID=17",
+        "data": "Tight End, New York Giants\nCollege: Texas A&M\nHt: 6\u20195\u201d  Wt: 243 DOB: 1995-03-15 Age: 27"
+    },
+    "Jonnu Smith": {
+        "id": 522,
+        "link": "https://fftoday.com/stats/players/16003/Jonnu_Smith?LeagueID=17",
+        "data": "Tight End, New England Patriots\nDraft: 2017 Round 3 (36)\nCollege: Florida International\nHt: 6\u20193\u201d  Wt: 248 DOB: 1995-08-22 Age: 26"
+    },
+    "Durham Smythe": {
+        "id": 523,
+        "link": "https://fftoday.com/stats/players/16176/Durham_Smythe?LeagueID=17",
+        "data": "Tight End, Miami Dolphins\nDraft: 2018 Round 4 (23)\nCollege: Notre Dame\nHt: 6\u20195\u201d  Wt: 257 DOB: 1995-08-09 Age: 26"
+    },
+    "Harrison Bryant": {
+        "id": 524,
+        "link": "https://fftoday.com/stats/players/17026/Harrison_Bryant?LeagueID=17",
+        "data": "Tight End, Cleveland Browns\nDraft: 2020 Round 4 (9)\nCollege: Florida Atlantic\nHt: 6\u20195\u201d  Wt: 243 DOB: 1998-04-23 Age: 24"
+    },
+    "Ryan Griffin": {
+        "id": 525,
+        "link": "https://fftoday.com/stats/players/15047/Ryan_Griffin?LeagueID=17",
+        "data": "Tight End, Chicago Bears\nCollege: Connecticut\nHt: 6\u20196\u201d  Wt: 254 DOB: 1990-01-11 Age: 32"
+    },
+    "Hayden Hurst": {
+        "id": 526,
+        "link": "https://fftoday.com/stats/players/16189/Hayden_Hurst?LeagueID=17",
+        "data": "Tight End, Cincinnati Bengals\nDraft: 2018 Round 1 (25)\nCollege: South Carolina\nHt: 6\u20194\u201d  Wt: 250 DOB: 1993-08-24 Age: 28"
+    },
+    "Adam Trautman": {
+        "id": 527,
+        "link": "https://fftoday.com/stats/players/17231/Adam_Trautman?LeagueID=17",
+        "data": "Tight End, New Orleans Saints\nDraft: 2020 Round 3 (41)\nCollege: Dayton\nHt: 6\u20195\u201d  Wt: 255 DOB: 1997-02-05 Age: 25"
+    },
+    "Josiah Deguara": {
+        "id": 528,
+        "link": "https://fftoday.com/stats/players/17057/Josiah_Deguara?LeagueID=17",
+        "data": "Tight End, Green Bay Packers\nDraft: 2020 Round 3 (30)\nCollege: Cincinnati\nHt: 6\u20192\u201d  Wt: 242 DOB: 1997-02-14 Age: 25"
+    },
+    "Donald Parham": {
+        "id": 529,
+        "link": "https://fftoday.com/stats/players/17296/Donald_Parham?LeagueID=17",
+        "data": "Tight End, Los Angeles Chargers\nCollege: Stetson\nHt: 6\u20198\u201d  Wt: 237 DOB: 1997-08-16 Age: 24"
+    },
+    "Juwan Johnson": {
+        "id": 530,
+        "link": "https://fftoday.com/stats/players/17335/Juwan_Johnson?LeagueID=17",
+        "data": "Tight End, New Orleans Saints\nCollege: Oregon\nHt: 6\u20194\u201d  Wt: 231 DOB: 1996-09-13 Age: 25"
+    },
+    "Brevin Jordan": {
+        "id": 531,
+        "link": "https://fftoday.com/stats/players/17619/Brevin_Jordan?LeagueID=17",
+        "data": "Tight End, Houston Texans\nDraft: 2021 Round 5 (3)\nCollege: Miami\nHt: 6\u20193\u201d  Wt: 245 DOB: 2000-07-16 Age: 22"
+    },
+    "Kyle Rudolph": {
+        "id": 532,
+        "link": "https://fftoday.com/stats/players/11897/Kyle_Rudolph?LeagueID=17",
+        "data": "Tight End, Tampa Bay Buccaneers\nDraft: 2011 Round 2 (11)\nCollege: Notre Dame\nHt: 6\u20196\u201d  Wt: 259 DOB: 1989-11-09 Age: 32"
+    },
+    "Logan Thomas": {
+        "id": 533,
+        "link": "https://fftoday.com/stats/players/14335/Logan_Thomas?LeagueID=17",
+        "data": "Tight End, Washington Commanders\nDraft: 2014 Round 4 (20)\nCollege: Virginia Tech\nHt: 6\u20196\u201d  Wt: 248 DOB: 1991-07-01 Age: 31"
+    },
+    "Jimmy Graham": {
+        "id": 534,
+        "link": "https://fftoday.com/stats/players/11505/Jimmy_Graham?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2010 Round 3 (31)\nHt: 6\u20196\u201d  Wt: 260 DOB: 1986-11-24 Age: 35"
+    },
+    "Robert Tonyan": {
+        "id": 535,
+        "link": "https://fftoday.com/stats/players/16425/Robert_Tonyan?LeagueID=17",
+        "data": "Tight End, Green Bay Packers\nCollege: Indiana State\nHt: 6\u20195\u201d  Wt: 237 DOB: 1994-04-30 Age: 28"
+    },
+    "Tommy Tremble": {
+        "id": 536,
+        "link": "https://fftoday.com/stats/players/17731/Tommy_Tremble?LeagueID=17",
+        "data": "Tight End, Carolina Panthers\nDraft: 2021 Round 3 (20)\nCollege: Notre Dame\nHt: 6\u20194\u201d  Wt: 248 DOB: 2000-06-02 Age: 22"
+    },
+    "John Bates": {
+        "id": 537,
+        "link": "https://fftoday.com/stats/players/17510/John_Bates?LeagueID=17",
+        "data": "Tight End, Washington Commanders\nDraft: 2021 Round 4 (19)\nCollege: Boise State\nHt: 6\u20196\u201d  Wt: 256 DOB: 1997-11-06 Age: 24"
+    },
+    "Will Dissly": {
+        "id": 538,
+        "link": "https://fftoday.com/stats/players/16350/Will_Dissly?LeagueID=17",
+        "data": "Tight End, Seattle Seahawks\nDraft: 2018 Round 4 (20)\nCollege: Washington\nHt: 6\u20194\u201d  Wt: 267 DOB: 1996-07-08 Age: 26"
+    },
+    "MyCole Pruitt": {
+        "id": 539,
+        "link": "https://fftoday.com/stats/players/15283/MyCole_Pruitt?LeagueID=17",
+        "data": "Tight End, Tennessee Titans\nDraft: 2015 Round 5 (7)\nCollege: Southern Illinois\nHt: 6\u20192\u201d  Wt: 251 DOB: 1992-03-24 Age: 30"
+    },
+    "James O'Shaughnessy": {
+        "id": 540,
+        "link": "https://fftoday.com/stats/players/15270/James_O'Shaughnessy?LeagueID=17",
+        "data": "Tight End, Chicago Bears\nDraft: 2015 Round 5 (37)\nCollege: Illinois State\nHt: 6\u20194\u201d  Wt: 245 DOB: 1992-01-14 Age: 30"
+    },
+    "Maxx Williams": {
+        "id": 541,
+        "link": "https://fftoday.com/stats/players/15349/Maxx_Williams?LeagueID=17",
+        "data": "Tight End, Arizona Cardinals\nDraft: 2015 Round 2 (23)\nCollege: Minnesota\nHt: 6\u20194\u201d  Wt: 249 DOB: 1994-04-12 Age: 28"
+    },
+    "Marcedes Lewis": {
+        "id": 542,
+        "link": "https://fftoday.com/stats/players/2612/Marcedes_Lewis?LeagueID=17",
+        "data": "Tight End, Green Bay Packers\nDraft: 2006 Round 1 (28)\nCollege: UCLA\nHt: 6\u20196\u201d  Wt: 272 DOB: 1984-05-19 Age: 38"
+    },
+    "Tyler Kroft": {
+        "id": 543,
+        "link": "https://fftoday.com/stats/players/15233/Tyler_Kroft?LeagueID=17",
+        "data": "Tight End, San Francisco 49ers\nDraft: 2015 Round 3 (21)\nCollege: Rutgers\nHt: 6\u20195\u201d  Wt: 246 DOB: 1992-10-15 Age: 29"
+    },
+    "Stephen Anderson": {
+        "id": 544,
+        "link": "https://fftoday.com/stats/players/14757/Stephen_Anderson?LeagueID=17",
+        "data": "Tight End, Arizona Cardinals\nCollege: California\nHt: 6\u20192\u201d  Wt: 230 DOB: 1993-01-30 Age: 29"
+    },
+    "Jordan Akins": {
+        "id": 545,
+        "link": "https://fftoday.com/stats/players/16220/Jordan_Akins?LeagueID=17",
+        "data": "Tight End, New York Giants\nDraft: 2018 Round 3 (34)\nCollege: Central Florida\nHt: 6\u20193\u201d  Wt: 237 DOB: 1992-04-19 Age: 30"
+    },
+    "Brock Wright": {
+        "id": 546,
+        "link": "https://fftoday.com/stats/players/17825/Brock_Wright?LeagueID=17",
+        "data": "Tight End, Detroit Lions\nCollege: Notre Dame\nHt: 6\u20195\u201d  Wt: 259 DOB: 1998-11-27 Age: 23"
+    },
+    "Ian Thomas": {
+        "id": 547,
+        "link": "https://fftoday.com/stats/players/16191/Ian_Thomas?LeagueID=17",
+        "data": "Tight End, Carolina Panthers\nDraft: 2018 Round 4 (1)\nCollege: Indiana\nHt: 6\u20195\u201d  Wt: 248 DOB: 1996-06-06 Age: 26"
+    },
+    "Blake Jarwin": {
+        "id": 548,
+        "link": "https://fftoday.com/stats/players/16053/Blake_Jarwin?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: Oklahoma State\nHt: 6\u20195\u201d  Wt: 260 DOB: 1994-07-16 Age: 28"
+    },
+    "Pharaoh Brown": {
+        "id": 549,
+        "link": "https://fftoday.com/stats/players/16772/Pharaoh_Brown?LeagueID=17",
+        "data": "Tight End, Houston Texans\nCollege: Oregon\nHt: 6\u20196\u201d  Wt: 258 DOB: 1994-05-04 Age: 28"
+    },
+    "Eric Ebron": {
+        "id": 550,
+        "link": "https://fftoday.com/stats/players/14165/Eric_Ebron?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2014 Round 1 (10)\nCollege: North Carolina\nHt: 6\u20194\u201d  Wt: 250 DOB: 1993-04-10 Age: 29"
+    },
+    "O.J. Howard": {
+        "id": 551,
+        "link": "https://fftoday.com/stats/players/15904/O.J._Howard?LeagueID=17",
+        "data": "Tight End, Buffalo Bills\nDraft: 2017 Round 1 (19)\nCollege: Alabama\nHt: 6\u20196\u201d  Wt: 251 DOB: 1994-11-19 Age: 27"
+    },
+    "Zach Gentry": {
+        "id": 552,
+        "link": "https://fftoday.com/stats/players/16579/Zach_Gentry?LeagueID=17",
+        "data": "Tight End, Pittsburgh Steelers\nDraft: 2019 Round 5 (3)\nCollege: Michigan\nHt: 6\u20198\u201d  Wt: 265 DOB: 1996-09-10 Age: 25"
+    },
+    "Nick Vannett": {
+        "id": 553,
+        "link": "https://fftoday.com/stats/players/15730/Nick_Vannett?LeagueID=17",
+        "data": "Tight End, New Orleans Saints\nDraft: 2016 Round 3 (32)\nCollege: Ohio State\nHt: 6\u20196\u201d  Wt: 257 DOB: 1993-03-06 Age: 29"
+    },
+    "Jody Fortson": {
+        "id": 554,
+        "link": "https://fftoday.com/stats/players/17792/Jody_Fortson?LeagueID=17",
+        "data": "Tight End, Kansas City Chiefs\nCollege: Valdosta State\nHt: 6\u20196\u201d  Wt: 230 DOB: 1995-12-07 Age: 26"
+    },
+    "Adam Shaheen": {
+        "id": 555,
+        "link": "https://fftoday.com/stats/players/15999/Adam_Shaheen?LeagueID=17",
+        "data": "Tight End, Miami Dolphins\nDraft: 2017 Round 2 (13)\nCollege: Ashland\nHt: 6\u20196\u201d  Wt: 278 DOB: 1993-10-24 Age: 28"
+    },
+    "Lee Smith": {
+        "id": 556,
+        "link": "https://fftoday.com/stats/players/12013/Lee_Smith?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2011 Round 5 (28)\nCollege: Marshall\nHt: 6\u20196\u201d  Wt: 265 DOB: 1987-11-21 Age: 34"
+    },
+    "Kylen Granson": {
+        "id": 557,
+        "link": "https://fftoday.com/stats/players/17585/Kylen_Granson?LeagueID=17",
+        "data": "Tight End, Indianapolis Colts\nDraft: 2021 Round 4 (22)\nCollege: Southern Methodist\nHt: 6\u20193\u201d  Wt: 235 DOB: 1998-03-27 Age: 24"
+    },
+    "Chris Manhertz": {
+        "id": 558,
+        "link": "https://fftoday.com/stats/players/14877/Chris_Manhertz?LeagueID=17",
+        "data": "Tight End, Jacksonville Jaguars\nCollege: None\nHt: 6\u20196\u201d  Wt: 255 DOB: 1992-04-10 Age: 30"
+    },
+    "Jacob Hollister": {
+        "id": 559,
+        "link": "https://fftoday.com/stats/players/14948/Jacob_Hollister?LeagueID=17",
+        "data": "Tight End, Las Vegas Raiders\nCollege: Wyoming\nHt: 6\u20194\u201d  Wt: 239 DOB: 1993-11-18 Age: 28"
+    },
+    "Jesse James": {
+        "id": 560,
+        "link": "https://fftoday.com/stats/players/15218/Jesse_James?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2015 Round 5 (24)\nCollege: Penn State\nHt: 6\u20197\u201d  Wt: 261 DOB: 1994-06-04 Age: 28"
+    },
+    "Jesper Horsted": {
+        "id": 561,
+        "link": "https://fftoday.com/stats/players/16877/Jesper_Horsted?LeagueID=17",
+        "data": "Tight End, Las Vegas Raiders\nCollege: Princeton\nHt: 6\u20193\u201d  Wt: 237 DOB: 1997-02-27 Age: 25"
+    },
+    "Tommy Sweeney": {
+        "id": 562,
+        "link": "https://fftoday.com/stats/players/16714/Tommy_Sweeney?LeagueID=17",
+        "data": "Tight End, Buffalo Bills\nDraft: 2019 Round 7 (14)\nCollege: Boston College\nHt: 6\u20194\u201d  Wt: 251 DOB: 1996-00-00 Age: 26"
+    },
+    "Eric Saubert": {
+        "id": 563,
+        "link": "https://fftoday.com/stats/players/15995/Eric_Saubert?LeagueID=17",
+        "data": "Tight End, Denver Broncos\nDraft: 2017 Round 5 (31)\nCollege: Drake\nHt: 6\u20195\u201d  Wt: 253 DOB: 1994-05-01 Age: 28"
+    },
+    "Blake Bell": {
+        "id": 564,
+        "link": "https://fftoday.com/stats/players/15116/Blake_Bell?LeagueID=17",
+        "data": "Tight End, Kansas City Chiefs\nDraft: 2015 Round 4 (18)\nCollege: Oklahoma\nHt: 6\u20196\u201d  Wt: 252 DOB: 1991-08-07 Age: 30"
+    },
+    "Drew Sample": {
+        "id": 565,
+        "link": "https://fftoday.com/stats/players/16687/Drew_Sample?LeagueID=17",
+        "data": "Tight End, Cincinnati Bengals\nDraft: 2019 Round 2 (20)\nCollege: Washington\nHt: 6\u20195\u201d  Wt: 255 DOB: 1996-00-00 Age: 26"
+    },
+    "Antony Auclair": {
+        "id": 566,
+        "link": "https://fftoday.com/stats/players/15089/Antony_Auclair?LeagueID=17",
+        "data": "Tight End, Houston Texans\nCollege: None\nHt: 6\u20195\u201d  Wt: 256 DOB: 1993-05-28 Age: 29"
+    },
+    "Ross Dwelley": {
+        "id": 567,
+        "link": "https://fftoday.com/stats/players/16428/Ross_Dwelley?LeagueID=17",
+        "data": "Tight End, San Francisco 49ers\nCollege: San Diego State\nHt: 6\u20195\u201d  Wt: 240 DOB: 1995-01-26 Age: 27"
+    },
+    "Noah Gray": {
+        "id": 568,
+        "link": "https://fftoday.com/stats/players/17587/Noah_Gray?LeagueID=17",
+        "data": "Tight End, Kansas City Chiefs\nDraft: 2021 Round 5 (18)\nCollege: Duke\nHt: 6\u20194\u201d  Wt: 240 DOB: 1999-04-30 Age: 23"
+    },
+    "Chris Herndon": {
+        "id": 569,
+        "link": "https://fftoday.com/stats/players/16138/Chris_Herndon?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2018 Round 4 (7)\nCollege: Miami\nHt: 6\u20194\u201d  Wt: 245 DOB: 1996-02-23 Age: 26"
+    },
+    "Josh Oliver": {
+        "id": 570,
+        "link": "https://fftoday.com/stats/players/16668/Josh_Oliver?LeagueID=17",
+        "data": "Tight End, Baltimore Ravens\nDraft: 2019 Round 3 (5)\nCollege: San Jose State\nHt: 6\u20195\u201d  Wt: 249 DOB: 1996-00-00 Age: 26"
+    },
+    "Sean McKeon": {
+        "id": 571,
+        "link": "https://fftoday.com/stats/players/17834/Sean_McKeon?LeagueID=17",
+        "data": "Tight End, Dallas Cowboys\nCollege: Michigan\nHt: 6\u20195\u201d  Wt: 238 DOB: 1997-12-28 Age: 24"
+    },
+    "Tyree Jackson": {
+        "id": 572,
+        "link": "https://fftoday.com/stats/players/17853/Tyree_Jackson?LeagueID=17",
+        "data": "Tight End, Philadelphia Eagles\nCollege: Buffalo\nHt: 6\u20197\u201d  Wt: 249 DOB: 1997-11-07 Age: 24"
+    },
+    "Chris Myarick": {
+        "id": 573,
+        "link": "https://fftoday.com/stats/players/17849/Chris_Myarick?LeagueID=17",
+        "data": "Tight End, New York Giants\nCollege: Temple\nHt: 6\u20195\u201d  Wt: 255 DOB: 1995-10-06 Age: 26"
+    },
+    "Luke Farrell": {
+        "id": 574,
+        "link": "https://fftoday.com/stats/players/17565/Luke_Farrell?LeagueID=17",
+        "data": "Tight End, Jacksonville Jaguars\nDraft: 2021 Round 5 (1)\nCollege: Ohio State\nHt: 6\u20196\u201d  Wt: 258 DOB: 1997-00-00 Age: 25"
+    },
+    "Charlie Woerner": {
+        "id": 575,
+        "link": "https://fftoday.com/stats/players/17250/Charlie_Woerner?LeagueID=17",
+        "data": "Tight End, San Francisco 49ers\nDraft: 2020 Round 6 (11)\nCollege: Georgia\nHt: 6\u20195\u201d  Wt: 244 DOB: 1997-10-16 Age: 24"
+    },
+    "Tre' McKitty": {
+        "id": 576,
+        "link": "https://fftoday.com/stats/players/17638/Tre'_McKitty?LeagueID=17",
+        "data": "Tight End, Los Angeles Chargers\nDraft: 2021 Round 3 (34)\nCollege: Georgia\nHt: 6\u20195\u201d  Wt: 245 DOB: 1997-00-00 Age: 25"
+    },
+    "Parker Hesse": {
+        "id": 577,
+        "link": "https://fftoday.com/stats/players/17790/Parker_Hesse?LeagueID=17",
+        "data": "Tight End, Atlanta Falcons\nCollege: Iowa\nHt: 6\u20193\u201d  Wt: 261 DOB: 1995-05-26 Age: 27"
+    },
+    "Darren Fells": {
+        "id": 578,
+        "link": "https://fftoday.com/stats/players/14386/Darren_Fells?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: California\nHt: 6\u20197\u201d  Wt: 281 DOB: 1986-02-22 Age: 36"
+    },
+    "Garrett Griffin": {
+        "id": 579,
+        "link": "https://fftoday.com/stats/players/15422/Garrett_Griffin?LeagueID=17",
+        "data": "Tight End, Detroit Lions\nCollege: Air Force\nHt: 6\u20194\u201d  Wt: 240 DOB: 1994-03-04 Age: 28"
+    },
+    "Colby Parkinson": {
+        "id": 580,
+        "link": "https://fftoday.com/stats/players/17173/Colby_Parkinson?LeagueID=17",
+        "data": "Tight End, Seattle Seahawks\nDraft: 2020 Round 4 (27)\nCollege: Stanford\nHt: 6\u20197\u201d  Wt: 252 DOB: 1999-01-08 Age: 23"
+    },
+    "Kendall Blanton": {
+        "id": 581,
+        "link": "https://fftoday.com/stats/players/17846/Kendall_Blanton?LeagueID=17",
+        "data": "Tight End, Los Angeles Rams\nCollege: Missouri\nHt: 6\u20196\u201d  Wt: 262 DOB: 1995-11-10 Age: 26"
+    },
+    "Tyler Davis": {
+        "id": 582,
+        "link": "https://fftoday.com/stats/players/17055/Tyler_Davis?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2020 Round 6 (27)\nCollege: Georgia Tech\nHt: 6\u20194\u201d  Wt: 240 DOB: 1997-04-02 Age: 25"
+    },
+    "Trevon Wesco": {
+        "id": 583,
+        "link": "https://fftoday.com/stats/players/16733/Trevon_Wesco?LeagueID=17",
+        "data": "Tight End, New York Jets\nDraft: 2019 Round 4 (19)\nCollege: West Virginia\nHt: 6\u20193\u201d  Wt: 267 DOB: 1996-00-00 Age: 26"
+    },
+    "Shane Zylstra": {
+        "id": 584,
+        "link": "https://fftoday.com/stats/players/17877/Shane_Zylstra?LeagueID=17",
+        "data": "Tight End, Detroit Lions\nCollege: None\nHt: 6\u20194\u201d  Wt: 237 DOB: 1996-11-16 Age: 25"
+    },
+    "Kaden Smith": {
+        "id": 585,
+        "link": "https://fftoday.com/stats/players/16705/Kaden_Smith?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2019 Round 6 (3)\nCollege: Stanford\nHt: 6\u20195\u201d  Wt: 255 DOB: 1996-00-00 Age: 26"
+    },
+    "Tommy Hudson": {
+        "id": 586,
+        "link": "https://fftoday.com/stats/players/17787/Tommy_Hudson?LeagueID=17",
+        "data": "Tight End, Tennessee Titans\nCollege: Arizona State\nHt: 6\u20195\u201d  Wt: 255 DOB: 1997-02-22 Age: 25"
+    },
+    "Jeremy Sprinkle": {
+        "id": 587,
+        "link": "https://fftoday.com/stats/players/16006/Jeremy_Sprinkle?LeagueID=17",
+        "data": "Tight End, Dallas Cowboys\nDraft: 2017 Round 5 (10)\nCollege: Arkansas\nHt: 6\u20195\u201d  Wt: 252 DOB: 1994-08-10 Age: 27"
+    },
+    "Kenny Yeboah": {
+        "id": 588,
+        "link": "https://fftoday.com/stats/players/17872/Kenny_Yeboah?LeagueID=17",
+        "data": "Tight End, New York Jets\nCollege: Mississippi\nHt: 6\u20193\u201d  Wt: 250 DOB: 1998-10-30 Age: 23"
+    },
+    "Dominique Dafney": {
+        "id": 589,
+        "link": "https://fftoday.com/stats/players/17405/Dominique_Dafney?LeagueID=17",
+        "data": "Tight End, Green Bay Packers\nCollege: Indiana State\nHt: 6\u20193\u201d  Wt: 235 DOB: 1997-06-03 Age: 25"
+    },
+    "Jack Stoll": {
+        "id": 590,
+        "link": "https://fftoday.com/stats/players/17786/Jack_Stoll?LeagueID=17",
+        "data": "Tight End, Philadelphia Eagles\nCollege: Nebraska\nHt: 6\u20194\u201d  Wt: 247 DOB: 1998-01-28 Age: 24"
+    },
+    "Reggie Gilliam": {
+        "id": 591,
+        "link": "https://fftoday.com/stats/players/17276/Reggie_Gilliam?LeagueID=17",
+        "data": "Tight End, Buffalo Bills\nCollege: Toledo\nDOB: 1997-08-20 Age: 24"
+    },
+    "Daniel Brown": {
+        "id": 592,
+        "link": "https://fftoday.com/stats/players/14695/Daniel_Brown?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: James Madison\nHt: 6\u20195\u201d  Wt: 225 DOB: 1992-05-26 Age: 30"
+    },
+    "Mitchell Wilcox": {
+        "id": 593,
+        "link": "https://fftoday.com/stats/players/17882/Mitchell_Wilcox?LeagueID=17",
+        "data": "Tight End, Cincinnati Bengals\nCollege: South Florida\nHt: 6\u20194\u201d  Wt: 247 DOB: 1996-11-07 Age: 25"
+    },
+    "Cethan Carter": {
+        "id": 594,
+        "link": "https://fftoday.com/stats/players/14975/Cethan_Carter?LeagueID=17",
+        "data": "Tight End, Miami Dolphins\nCollege: Nebraska\nHt: 6\u20193\u201d  Wt: 245 DOB: 1995-09-05 Age: 26"
+    },
+    "Demetrius Harris": {
+        "id": 595,
+        "link": "https://fftoday.com/stats/players/13149/Demetrius_Harris?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: Wisconsin-Milwaukee\nHt: 6\u20197\u201d  Wt: 230 DOB: 1991-07-29 Age: 30"
+    },
+    "Derek Carrier": {
+        "id": 596,
+        "link": "https://fftoday.com/stats/players/14438/Derek_Carrier?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: None\nHt: 6\u20194\u201d  Wt: 241 DOB: 1990-07-25 Age: 32"
+    },
+    "Luke Stocker": {
+        "id": 597,
+        "link": "https://fftoday.com/stats/players/11958/Luke_Stocker?LeagueID=17",
+        "data": "Tight End, Free Agent\nDraft: 2011 Round 4 (7)\nCollege: Tennessee\nHt: 6\u20196\u201d  Wt: 253 DOB: 1988-07-17 Age: 34"
+    },
+    "Richard Rodgers": {
+        "id": 598,
+        "link": "https://fftoday.com/stats/players/14302/Richard_Rodgers?LeagueID=17",
+        "data": "Tight End, Philadelphia Eagles\nDraft: 2014 Round 3 (34)\nCollege: California\nHt: 6\u20194\u201d  Wt: 245 DOB: 1992-01-22 Age: 30"
+    },
+    "Kevin Rader": {
+        "id": 599,
+        "link": "https://fftoday.com/stats/players/17416/Kevin_Rader?LeagueID=17",
+        "data": "Tight End, Pittsburgh Steelers\nCollege: Youngstown State\nHt: 6\u20194\u201d  Wt: 250 DOB: 1995-04-26 Age: 27"
+    },
+    "Ethan Wolf": {
+        "id": 600,
+        "link": "https://fftoday.com/stats/players/17901/Ethan_Wolf?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: Tennessee\nHt: 6\u20196\u201d  Wt: 252 DOB: 1995-11-07 Age: 26"
+    },
+    "Brycen Hopkins": {
+        "id": 601,
+        "link": "https://fftoday.com/stats/players/17112/Brycen_Hopkins?LeagueID=17",
+        "data": "Tight End, Los Angeles Rams\nDraft: 2020 Round 4 (30)\nCollege: Purdue\nHt: 6\u20194\u201d  Wt: 245 DOB: 1997-03-27 Age: 25"
+    },
+    "Johnny Mundt": {
+        "id": 602,
+        "link": "https://fftoday.com/stats/players/16485/Johnny_Mundt?LeagueID=17",
+        "data": "Tight End, Minnesota Vikings\nCollege: Oregon\nHt: 6\u20194\u201d  Wt: 233 DOB: 1994-11-23 Age: 27"
+    },
+    "Hunter Long": {
+        "id": 603,
+        "link": "https://fftoday.com/stats/players/17629/Hunter_Long?LeagueID=17",
+        "data": "Tight End, Miami Dolphins\nDraft: 2021 Round 3 (18)\nCollege: Boston College\nHt: 6\u20195\u201d  Wt: 253 DOB: 1998-08-19 Age: 23"
+    },
+    "Eric Tomlinson": {
+        "id": 604,
+        "link": "https://fftoday.com/stats/players/14921/Eric_Tomlinson?LeagueID=17",
+        "data": "Tight End, Denver Broncos\nCollege: Texas-El Paso\nHt: 6\u20196\u201d  Wt: 263 DOB: 1992-04-22 Age: 30"
+    },
+    "Nick Boyle": {
+        "id": 605,
+        "link": "https://fftoday.com/stats/players/15120/Nick_Boyle?LeagueID=17",
+        "data": "Tight End, Baltimore Ravens\nDraft: 2015 Round 5 (35)\nCollege: Delaware\nHt: 6\u20194\u201d  Wt: 268 DOB: 1993-02-17 Age: 29"
+    },
+    "Darrell Daniels": {
+        "id": 606,
+        "link": "https://fftoday.com/stats/players/14941/Darrell_Daniels?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: Washington\nHt: 6\u20193\u201d  Wt: 246 DOB: 1994-11-22 Age: 27"
+    },
+    "Deon Yelder": {
+        "id": 607,
+        "link": "https://fftoday.com/stats/players/16766/Deon_Yelder?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: Western Kentucky\nHt: 6\u20194\u201d  Wt: 255 DOB: 1995-03-06 Age: 27"
+    },
+    "Daniel Helm": {
+        "id": 608,
+        "link": "https://fftoday.com/stats/players/17843/Daniel_Helm?LeagueID=17",
+        "data": "Tight End, Free Agent\nCollege: Duke\nHt: 6\u20194\u201d  Wt: 251 DOB: 1995-04-20 Age: 27"
+    },
+    "Ben Ellefson": {
+        "id": 609,
+        "link": "https://fftoday.com/stats/players/17356/Ben_Ellefson?LeagueID=17",
+        "data": "Tight End, Minnesota Vikings\nCollege: North Dakota State\nHt: 6\u20193\u201d  Wt: 250 DOB: 1996-09-01 Age: 25"
+    },
+    "Codey McElroy": {
+        "id": 610,
+        "link": "https://fftoday.com/stats/players/16909/Codey_McElroy?LeagueID=17",
+        "data": "Tight End, Tampa Bay Buccaneers\nCollege: Oklahoma State\nHt: 6\u20196\u201d  Wt: 255 DOB: 1992-12-13 Age: 29"
+    },
+    "Stephen Sullivan": {
+        "id": 611,
+        "link": "https://fftoday.com/stats/players/17218/Stephen_Sullivan?LeagueID=17",
+        "data": "Tight End, Carolina Panthers\nDraft: 2020 Round 7 (37)\nCollege: Louisiana State\nHt: 6\u20195\u201d  Wt: 248 DOB: 1996-11-28 Age: 25"
+    },
+    "Colin Thompson": {
+        "id": 612,
+        "link": "https://fftoday.com/stats/players/17330/Colin_Thompson?LeagueID=17",
+        "data": "Tight End, Carolina Panthers\nCollege: Temple\nHt: 6\u20194\u201d  Wt: 255 DOB: 1993-12-15 Age: 28"
+    },
+    "Daniel Carlson": {
+        "id": 613,
+        "link": "https://fftoday.com/stats/players/16155/Daniel_Carlson?LeagueID=17",
+        "data": "Kicker, Las Vegas Raiders\nDraft: 2018 Round 5 (30)\nCollege: Auburn\nHt: 6\u20195\u201d  Wt: 213 DOB: 1995-01-23 Age: 27"
+    },
+    "Nick Folk": {
+        "id": 614,
+        "link": "https://fftoday.com/stats/players/3188/Nick_Folk?LeagueID=17",
+        "data": "Kicker, New England Patriots\nDraft: 2007 Round 6 (4)\nCollege: Arizona\nHt: 6\u20191\u201d  Wt: 222 DOB: 1984-11-05 Age: 37"
+    },
+    "Matt Gay": {
+        "id": 615,
+        "link": "https://fftoday.com/stats/players/16578/Matt_Gay?LeagueID=17",
+        "data": "Kicker, Los Angeles Rams\nDraft: 2019 Round 5 (7)\nCollege: Utah\nDOB: 1996-00-00 Age: 26"
+    },
+    "Matt Prater": {
+        "id": 616,
+        "link": "https://fftoday.com/stats/players/3192/Matt_Prater?LeagueID=17",
+        "data": "Kicker, Arizona Cardinals\nHt: 5\u201910\u201d  Wt: 195 DOB: 1984-08-10 Age: 37"
+    },
+    "Justin Tucker": {
+        "id": 617,
+        "link": "https://fftoday.com/stats/players/12674/Justin_Tucker?LeagueID=17",
+        "data": "Kicker, Baltimore Ravens\nCollege: Texas\nDOB: 1989-11-21 Age: 32"
+    },
+    "Tyler Bass": {
+        "id": 618,
+        "link": "https://fftoday.com/stats/players/17010/Tyler_Bass?LeagueID=17",
+        "data": "Kicker, Buffalo Bills\nDraft: 2020 Round 6 (9)\nCollege: Georgia Southern\nHt: 5\u201911\u201d  Wt: 185 DOB: 1997-02-14 Age: 25"
+    },
+    "Chris Boswell": {
+        "id": 619,
+        "link": "https://fftoday.com/stats/players/14644/Chris_Boswell?LeagueID=17",
+        "data": "Kicker, Pittsburgh Steelers\nCollege: Rice\nHt: 6\u20192\u201d  Wt: 185 DOB: 1991-03-16 Age: 31"
+    },
+    "Greg Joseph": {
+        "id": 620,
+        "link": "https://fftoday.com/stats/players/16084/Greg_Joseph?LeagueID=17",
+        "data": "Kicker, Minnesota Vikings\nCollege: Florida Atlantic\nHt: 6\u20191\u201d  Wt: 214 DOB: 1994-08-04 Age: 27"
+    },
+    "Jake Elliott": {
+        "id": 621,
+        "link": "https://fftoday.com/stats/players/15860/Jake_Elliott?LeagueID=17",
+        "data": "Kicker, Philadelphia Eagles\nDraft: 2017 Round 5 (9)\nCollege: Memphis\nHt: 5\u20199\u201d  Wt: 167 DOB: 1995-01-21 Age: 27"
+    },
+    "Ryan Succop": {
+        "id": 622,
+        "link": "https://fftoday.com/stats/players/11256/Ryan_Succop?LeagueID=17",
+        "data": "Kicker, Tampa Bay Buccaneers\nDraft: 2009 Round 7 (47)\nCollege: South Carolina\nHt: 6\u20192\u201d  Wt: 218 DOB: 1986-09-19 Age: 35"
+    },
+    "Dustin Hopkins": {
+        "id": 623,
+        "link": "https://fftoday.com/stats/players/13168/Dustin_Hopkins?LeagueID=17",
+        "data": "Kicker, Los Angeles Chargers\nDraft: 2013 Round 6 (9)\nCollege: Florida State\nHt: 6\u20192\u201d  Wt: 193 DOB: 1990-10-01 Age: 31"
+    },
+    "Evan McPherson": {
+        "id": 624,
+        "link": "https://fftoday.com/stats/players/17642/Evan_McPherson?LeagueID=17",
+        "data": "Kicker, Cincinnati Bengals\nDraft: 2021 Round 5 (5)\nCollege: Florida\nHt: 5\u201911\u201d  Wt: 185 DOB: 1997-00-00 Age: 25"
+    },
+    "Greg Zuerlein": {
+        "id": 625,
+        "link": "https://fftoday.com/stats/players/12445/Greg_Zuerlein?LeagueID=17",
+        "data": "Kicker, New York Jets\nDraft: 2012 Round 6 (1)\nCollege: Missouri Western\nDOB: 1987-12-27 Age: 34"
+    },
+    "Mason Crosby": {
+        "id": 626,
+        "link": "https://fftoday.com/stats/players/3189/Mason_Crosby?LeagueID=17",
+        "data": "Kicker, Green Bay Packers\nDraft: 2007 Round 6 (19)\nCollege: Colorado\nHt: 6\u20191\u201d  Wt: 207 DOB: 1984-09-03 Age: 37"
+    },
+    "Harrison Butker": {
+        "id": 627,
+        "link": "https://fftoday.com/stats/players/15827/Harrison_Butker?LeagueID=17",
+        "data": "Kicker, Kansas City Chiefs\nDraft: 2017 Round 7 (15)\nCollege: Georgia Tech\nHt: 6\u20194\u201d  Wt: 199 DOB: 1995-07-14 Age: 27"
+    },
+    "Randy Bullock": {
+        "id": 628,
+        "link": "https://fftoday.com/stats/players/12435/Randy_Bullock?LeagueID=17",
+        "data": "Kicker, Tennessee Titans\nDraft: 2012 Round 5 (26)\nCollege: Texas A&M\nHt: 5\u20199\u201d  Wt: 208 DOB: 1989-12-16 Age: 32"
+    },
+    "Younghoe Koo": {
+        "id": 629,
+        "link": "https://fftoday.com/stats/players/14905/Younghoe_Koo?LeagueID=17",
+        "data": "Kicker, Atlanta Falcons\nCollege: Georgia Southern\nHt: 5\u20199\u201d  Wt: 195 DOB: 1994-08-03 Age: 27"
+    },
+    "Brandon McManus": {
+        "id": 630,
+        "link": "https://fftoday.com/stats/players/14391/Brandon_McManus?LeagueID=17",
+        "data": "Kicker, Denver Broncos\nCollege: Temple\nHt: 6\u20193\u201d  Wt: 201 DOB: 1991-07-25 Age: 31"
+    },
+    "Cairo Santos": {
+        "id": 631,
+        "link": "https://fftoday.com/stats/players/14392/Cairo_Santos?LeagueID=17",
+        "data": "Kicker, Chicago Bears\nCollege: Tulane\nHt: 5\u20198\u201d  Wt: 160 DOB: 1991-11-12 Age: 30"
+    },
+    "Graham Gano": {
+        "id": 632,
+        "link": "https://fftoday.com/stats/players/11369/Graham_Gano?LeagueID=17",
+        "data": "Kicker, New York Giants\nCollege: Florida State\nHt: 6\u20192\u201d  Wt: 196 DOB: 1987-04-09 Age: 35"
+    },
+    "Jason Sanders": {
+        "id": 633,
+        "link": "https://fftoday.com/stats/players/16208/Jason_Sanders?LeagueID=17",
+        "data": "Kicker, Miami Dolphins\nDraft: 2018 Round 7 (11)\nCollege: New Mexico\nHt: 5\u201911\u201d  Wt: 190 DOB: 1995-11-16 Age: 26"
+    },
+    "Robbie Gould": {
+        "id": 634,
+        "link": "https://fftoday.com/stats/players/3177/Robbie_Gould?LeagueID=17",
+        "data": "Kicker, San Francisco 49ers\nCollege: Penn State\nDOB: 1981-12-30 Age: 40"
+    },
+    "Jason Myers": {
+        "id": 635,
+        "link": "https://fftoday.com/stats/players/14584/Jason_Myers?LeagueID=17",
+        "data": "Kicker, Seattle Seahawks\nCollege: None\nHt: 5\u201910\u201d  Wt: 180 DOB: 1991-05-12 Age: 31"
+    },
+    "Mike Badgley": {
+        "id": 636,
+        "link": "https://fftoday.com/stats/players/16407/Mike_Badgley?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Miami\nHt: 5\u201910\u201d  Wt: 183 DOB: 1995-07-28 Age: 26"
+    },
+    "Joey Slye": {
+        "id": 637,
+        "link": "https://fftoday.com/stats/players/16763/Joey_Slye?LeagueID=17",
+        "data": "Kicker, Washington Commanders\nCollege: Virginia Tech\nHt: 5\u201911\u201d  Wt: 213 DOB: 1996-04-10 Age: 26"
+    },
+    "Zane Gonzalez": {
+        "id": 638,
+        "link": "https://fftoday.com/stats/players/15883/Zane_Gonzalez?LeagueID=17",
+        "data": "Kicker, Carolina Panthers\nDraft: 2017 Round 7 (6)\nCollege: Arizona State\nDOB: 1995-05-07 Age: 27"
+    },
+    "Chase McLaughlin": {
+        "id": 639,
+        "link": "https://fftoday.com/stats/players/16824/Chase_McLaughlin?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Illinois\nHt: 6\u20191\u201d  Wt: 180 DOB: 1996-04-09 Age: 26"
+    },
+    "Matthew Wright": {
+        "id": 640,
+        "link": "https://fftoday.com/stats/players/17379/Matthew_Wright?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Central Florida\nDOB: 1996-03-22 Age: 26"
+    },
+    "Ka'imi Fairbairn": {
+        "id": 641,
+        "link": "https://fftoday.com/stats/players/14904/Ka'imi_Fairbairn?LeagueID=17",
+        "data": "Kicker, Houston Texans\nCollege: UCLA\nHt: 5\u201911\u201d  Wt: 183 DOB: 1994-01-29 Age: 28"
+    },
+    "Brett Maher": {
+        "id": 642,
+        "link": "https://fftoday.com/stats/players/13253/Brett_Maher?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Nebraska\nDOB: 1989-11-21 Age: 32"
+    },
+    "Riley Patterson": {
+        "id": 643,
+        "link": "https://fftoday.com/stats/players/17860/Riley_Patterson?LeagueID=17",
+        "data": "Kicker, Detroit Lions\nCollege: Memphis\nDOB: 1999-09-07 Age: 22"
+    },
+    "Matt Ammendola": {
+        "id": 644,
+        "link": "https://fftoday.com/stats/players/17767/Matt_Ammendola?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Oklahoma State\nHt: 5\u20199\u201d  Wt: 195 DOB: 1996-12-11 Age: 25"
+    },
+    "Rodrigo Blankenship": {
+        "id": 645,
+        "link": "https://fftoday.com/stats/players/17258/Rodrigo_Blankenship?LeagueID=17",
+        "data": "Kicker, Indianapolis Colts\nCollege: Georgia\nHt: 6\u20191\u201d  Wt: 184 DOB: 1997-01-29 Age: 25"
+    },
+    "Brian Johnson": {
+        "id": 646,
+        "link": "https://fftoday.com/stats/players/17829/Brian_Johnson?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Virginia Tech\nHt: 6\u20191\u201d  Wt: 185 DOB: 1999-03-05 Age: 23"
+    },
+    "Austin Seibert": {
+        "id": 647,
+        "link": "https://fftoday.com/stats/players/16695/Austin_Seibert?LeagueID=17",
+        "data": "Kicker, Detroit Lions\nDraft: 2019 Round 5 (32)\nCollege: Oklahoma\nHt: 5\u20199\u201d  Wt: 213 DOB: 1996-00-00 Age: 26"
+    },
+    "Eddy Pineiro": {
+        "id": 648,
+        "link": "https://fftoday.com/stats/players/16055/Eddy_Pineiro?LeagueID=17",
+        "data": "Kicker, New York Jets\nCollege: Florida\nDOB: 1995-09-13 Age: 26"
+    },
+    "Tristan Vizcaino": {
+        "id": 649,
+        "link": "https://fftoday.com/stats/players/17417/Tristan_Vizcaino?LeagueID=17",
+        "data": "Kicker, New England Patriots\nCollege: Washington\nHt: 6\u20192\u201d  Wt: 203 DOB: 1996-07-31 Age: 25"
+    },
+    "Lirim Hajrullahu": {
+        "id": 650,
+        "link": "https://fftoday.com/stats/players/17840/Lirim_Hajrullahu?LeagueID=17",
+        "data": "Kicker, Dallas Cowboys\nCollege: Western, Canada\nHt: 5\u201911\u201d  Wt: 205 DOB: 1990-04-24 Age: 32"
+    },
+    "Aldrick Rosas": {
+        "id": 651,
+        "link": "https://fftoday.com/stats/players/14902/Aldrick_Rosas?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Southern Oregon\nHt: 6\u20192\u201d  Wt: 195 DOB: 1994-12-30 Age: 27"
+    },
+    "Ryan Santoso": {
+        "id": 652,
+        "link": "https://fftoday.com/stats/players/17768/Ryan_Santoso?LeagueID=17",
+        "data": "Kicker, Jacksonville Jaguars\nCollege: Minnesota\nHt: 6\u20195\u201d  Wt: 260 DOB: 1995-08-26 Age: 26"
+    },
+    "Elliott Fry": {
+        "id": 653,
+        "link": "https://fftoday.com/stats/players/17292/Elliott_Fry?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: South Carolina\nDOB: 1994-12-12 Age: 27"
+    },
+    "Dominik Eberle": {
+        "id": 654,
+        "link": "https://fftoday.com/stats/players/17891/Dominik_Eberle?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Utah State\nHt: 6\u20192\u201d  Wt: 190 DOB: 1996-07-04 Age: 26"
+    },
+    "Chris Blewitt": {
+        "id": 655,
+        "link": "https://fftoday.com/stats/players/17821/Chris_Blewitt?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Pittsburgh\nHt: 5\u20199\u201d  Wt: 195 DOB: 1995-05-02 Age: 27"
+    },
+    "Josh Lambo": {
+        "id": 656,
+        "link": "https://fftoday.com/stats/players/14585/Josh_Lambo?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Texas A&M\nDOB: 1990-11-19 Age: 31"
+    },
+    "Chris Naggar": {
+        "id": 657,
+        "link": "https://fftoday.com/stats/players/17890/Chris_Naggar?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Southern Methodist\nHt: 5\u201911\u201d  Wt: 193 DOB: 1997-12-09 Age: 24"
+    },
+    "Cody Parkey": {
+        "id": 658,
+        "link": "https://fftoday.com/stats/players/14394/Cody_Parkey?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Auburn\nDOB: 1992-02-19 Age: 30"
+    },
+    "Mitch Wishnowsky": {
+        "id": 659,
+        "link": "https://fftoday.com/stats/players/16750/Mitch_Wishnowsky?LeagueID=17",
+        "data": "Kicker, San Francisco 49ers\nDraft: 2019 Round 4 (8)\nCollege: Utah\nHt: 6\u20192\u201d  Wt: 218 DOB: 1992-03-02 Age: 30"
+    },
+    "Alex Kessman": {
+        "id": 660,
+        "link": "https://fftoday.com/stats/players/17869/Alex_Kessman?LeagueID=17",
+        "data": "Kicker, Free Agent\nCollege: Pittsburgh\nHt: 6\u20193\u201d  Wt: 190 DOB: 1998-01-02 Age: 24"
+    }
+}
