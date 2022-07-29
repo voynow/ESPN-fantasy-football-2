@@ -1,4 +1,5 @@
 import json
+from turtle import position
 
 raw_loc = 'data/raw.json'
 semistructured_loc = 'data/semistructured.json'
@@ -11,11 +12,7 @@ structure_strings = [
 ]
 
 
-def exe():
-        
-    master_raw_data = json.load(open(raw_loc, 'rb'))
-
-    raw_data = {k: v['data'] for k, v in master_raw_data.items()}
+def split_on_newline(raw_data):
 
     for key in raw_data:
         raw_data[key] = raw_data[key].split("\n\n")
@@ -26,20 +23,40 @@ def exe():
             data_split.append(item.split("\n"))
         raw_data[key] = data_split
 
-    for key, value in raw_data.items():        
-        player_dict = {}
-        player_dict['pos_team'] = value[0][-1].split(", ")
-        player_dict['general'] = value[2]
-
-        for item in value:
-            for string in structure_strings:
-                if item[0] == string:
-                    string_key = string.replace(" ", "_").lower()
-                    player_dict[string_key] = item
-
-        raw_data[key] = player_dict
+    return raw_data
 
 
+def group(data):
+    
+    player_dict = {}
+    
+    player_dict['header'] = data[0] + data[2]
+
+    for row in data:
+        for string in structure_strings:
+            if row[0] == string:
+                string_key = string.replace(" ", "_").lower()
+                player_dict[string_key] = row
+    
+    return player_dict
+
+
+def exe():
+        
+    # preparation
+    master_raw_data = json.load(open(raw_loc, 'rb'))
+    raw_data = {k: v['data'] for k, v in master_raw_data.items()}
+    
+    # transformation
+    raw_data = split_on_newline(raw_data)
+    for k, data in raw_data.items():  
+        raw_data[k] = group(data)
+
+    # restructure
+    for k, data in raw_data.items():
+        master_raw_data[k]['data'] = data
+
+    # save
     with open(semistructured_loc, "w") as f:
-        json.dump(raw_data, f, indent=4)
+        json.dump(master_raw_data, f, indent=4)
         
