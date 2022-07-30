@@ -12,6 +12,69 @@ structure_strings = [
     'Season Stats'
 ]
 
+    
+season_stats_col_names = {
+    'base': [        
+        'season', 
+        'team', 
+        'games_played', 
+        'FPts',
+        'FPts/G'
+    ],
+    'quarterback': [
+        'cmp', 
+        'passing_att', 
+        'cmp%', 
+        'passing_Yard', 
+        'passing_td', 
+        'int',
+        'rushing_att', 
+        'rushing_yard', 
+        'rushing_avg', 
+        'rushing_td',
+    ],
+    'running': [
+        'rushing_att',
+        'rushing_yard',
+        'rushing_avg',
+        'rushing_td',
+        'receiving_target',
+        'receiving_rec',
+        'receiving_yard',
+        'receiving_avg',
+        'receiving_td',
+    ],
+    'wide': [
+        'receiving_target',
+        'receiving_rec',
+        'receiving_yard',
+        'receiving_avg',
+        'receiving_td',
+        'rushing_att',
+        'rushing_yard',
+        'rushing_avg',
+        'rushing_td',
+    ],
+    'tight': [
+        'receiving_target',
+        'receiving_rec',
+        'receiving_yard',
+        'receiving_avg',
+        'receiving_td',
+        'rushing_att',
+        'rushing_yard',
+        'rushing_avg',
+        'rushing_td',
+    ],
+    'kicker': [
+        'fgm', 
+        'fga', 
+        'fg%', 
+        'epm', 
+        'epa'
+    ]
+}
+
 
 def split_on_newline(raw_data):
 
@@ -71,6 +134,30 @@ def header_fn(header):
     return header_dict_collection
 
 
+def season_stats_fn(season_stats_raw, pos):
+
+    season_stats = []
+    while season_stats_raw[-1].split(" ")[0].isnumeric():
+        season_stats.append(season_stats_raw.pop())
+
+    season_stats.reverse()
+
+    season_stats[-1] = season_stats[-1].replace("2022 (Projected)", "2022(Projected)")
+
+    for i in range(len(season_stats)):
+        season_stats[i] = [item for item in season_stats[i].split(" ") if item]
+
+    season_stats[-1] = season_stats[-1][:2] + [None] + season_stats[-1][2:]
+
+    columns = season_stats_col_names['base'] + season_stats_col_names[pos]
+    season_stats_json = {col: [] for col in columns}
+    for row in season_stats:
+        for col, item in zip(season_stats_json, row):
+            season_stats_json[col].append(item)
+    
+    return season_stats_json
+
+
 def exe():
         
     # preparation
@@ -80,14 +167,19 @@ def exe():
     
     # transformation
     transformation_functions = {
-        'header': header_fn
+        'header': header_fn,
+        'season_stats': season_stats_fn,
     }
     for k, data in raw_data.items():
         grouped_data = group(data)
         for group_name in grouped_data:
             if group_name in transformation_functions:
                 tarnsformation = transformation_functions[group_name]
-                grouped_data[group_name] = tarnsformation(grouped_data[group_name])
+                if group_name == 'season_stats':
+                    pos = grouped_data['header']['pos']
+                    grouped_data[group_name] = tarnsformation(grouped_data[group_name], pos)
+                else:
+                    grouped_data[group_name] = tarnsformation(grouped_data[group_name])
                 raw_data[k] = grouped_data
 
     # restructure
