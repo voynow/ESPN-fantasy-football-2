@@ -13,14 +13,18 @@ structure_strings = [
 ]
 
     
-season_stats_col_names = {
-    'base': [        
+season_stats_map = {
+    'base_prefix': [        
         'season', 
         'team', 
-        'games_played', 
-        'FPts',
-        'FPts/G'
+        'games_played',
     ],
+
+    'base_suffix': [ 
+        'FPts',
+        'FPts/G',
+    ],
+
     'quarterback': [
         'cmp', 
         'passing_att', 
@@ -33,6 +37,7 @@ season_stats_col_names = {
         'rushing_avg', 
         'rushing_td',
     ],
+
     'running': [
         'rushing_att',
         'rushing_yard',
@@ -44,6 +49,7 @@ season_stats_col_names = {
         'receiving_avg',
         'receiving_td',
     ],
+
     'wide': [
         'receiving_target',
         'receiving_rec',
@@ -55,6 +61,7 @@ season_stats_col_names = {
         'rushing_avg',
         'rushing_td',
     ],
+
     'tight': [
         'receiving_target',
         'receiving_rec',
@@ -66,6 +73,7 @@ season_stats_col_names = {
         'rushing_avg',
         'rushing_td',
     ],
+
     'kicker': [
         'fgm', 
         'fga', 
@@ -105,23 +113,25 @@ def group(data):
     return player_dict
 
 
-def header_fn(header):
-    
-    header = header[2:]
+def header_fn(data):
 
-    position_team = header.pop(0).split(", ")
+    header_raw = data['header']
+    
+    header_raw = header_raw[2:]
+
+    position_team = header_raw.pop(0).split(", ")
     position_team.append("")
     (pos, team) = position_team[:2]
 
     draft_class_replace_tuples = (" ", "_"), (":_",": "), ("(", ""), (")", "")
     for t in draft_class_replace_tuples:
-        header[0] = header[0].replace(*t)
-    header.append(header.pop().replace("  ", " "))
+        header_raw[0] = header_raw[0].replace(*t)
+    header_raw.append(header_raw.pop().replace("  ", " "))
 
-    header.append(f'pos: {pos.lower()}')
-    header.append(f'team: {team.lower()}')
+    header_raw.append(f'pos: {pos.lower()}')
+    header_raw.append(f'team: {team.lower()}')
 
-    header_key_values = [item.replace(": ", " ").split(" ") for item in header]
+    header_key_values = [item.replace(": ", " ").split(" ") for item in header_raw]
 
     header_dict_collection = {}
     for row in header_key_values:
@@ -131,10 +141,14 @@ def header_fn(header):
             else:
                 key = item.lower()
 
-    return header_dict_collection
+    data['header'] = header_dict_collection
+    return data
 
 
-def season_stats_fn(season_stats_raw, pos):
+def season_stats_fn(data):
+
+    season_stats_raw = data['season_stats']
+    pos = data['header']['pos']
 
     season_stats = []
     while season_stats_raw[-1].split(" ")[0].isnumeric():
@@ -149,13 +163,14 @@ def season_stats_fn(season_stats_raw, pos):
 
     season_stats[-1] = season_stats[-1][:2] + [None] + season_stats[-1][2:]
 
-    columns = season_stats_col_names['base'] + season_stats_col_names[pos]
+    columns = season_stats_map['base_prefix'] + season_stats_map[pos] + season_stats_map['base_suffix']
     season_stats_json = {col: [] for col in columns}
     for row in season_stats:
         for col, item in zip(season_stats_json, row):
             season_stats_json[col].append(item)
     
-    return season_stats_json
+    data['season_stats'] = season_stats_json
+    return data
 
 
 def exe():
@@ -175,11 +190,7 @@ def exe():
         for group_name in grouped_data:
             if group_name in transformation_functions:
                 tarnsformation = transformation_functions[group_name]
-                if group_name == 'season_stats':
-                    pos = grouped_data['header']['pos']
-                    grouped_data[group_name] = tarnsformation(grouped_data[group_name], pos)
-                else:
-                    grouped_data[group_name] = tarnsformation(grouped_data[group_name])
+                grouped_data = tarnsformation(grouped_data)
                 raw_data[k] = grouped_data
 
     # restructure
