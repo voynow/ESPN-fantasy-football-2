@@ -1,159 +1,12 @@
-from curses import raw
 import json
-from turtle import position
-
-raw_loc = 'data/raw.json'
-semistructured_loc = 'data/semistructured.json'
-
-
-structure_strings = [
-    '2021 Gamelog Stats', 
-    '2020 Gamelog Stats', 
-    '2019 Gamelog Stats', 
-    'Season Stats'
-]
-
-    
-season_stats_map = {
-    'base_prefix': [        
-        'season', 
-        'team', 
-        'games_played',
-    ],
-
-    'base_suffix': [ 
-        'fpts',
-        'fpts/G',
-    ],
-
-    'quarterback': [
-        'cmp', 
-        'passing_att', 
-        'cmp%', 
-        'passing_Yard', 
-        'passing_td', 
-        'int',
-        'rushing_att', 
-        'rushing_yard', 
-        'rushing_avg', 
-        'rushing_td',
-    ],
-
-    'running': [
-        'rushing_att',
-        'rushing_yard',
-        'rushing_avg',
-        'rushing_td',
-        'receiving_target',
-        'receiving_rec',
-        'receiving_yard',
-        'receiving_avg',
-        'receiving_td',
-    ],
-
-    'wide': [
-        'receiving_target',
-        'receiving_rec',
-        'receiving_yard',
-        'receiving_avg',
-        'receiving_td',
-        'rushing_att',
-        'rushing_yard',
-        'rushing_avg',
-        'rushing_td',
-    ],
-
-    'tight': [
-        'receiving_target',
-        'receiving_rec',
-        'receiving_yard',
-        'receiving_avg',
-        'receiving_td',
-        'rushing_att',
-        'rushing_yard',
-        'rushing_avg',
-        'rushing_td',
-    ],
-
-    'kicker': [
-        'fgm', 
-        'fga', 
-        'fg%', 
-        'epm', 
-        'epa'
-    ]
-}
-
-
-gamelog_stats_map = {
-    'base_prefix': [        
-        'week', 
-        'opp', 
-        'result',
-        'score'
-    ],
-
-    'base_suffix': [ 
-        'FPts',
-    ],
-
-    'quarterback': [
-        'cmp', 
-        'passing_att', 
-        'cmp%', 
-        'passing_yard', 
-        'passing_td', 
-        'int'
-        'rushing_att', 
-        'rushing_yard', 
-        'rushing_avg', 
-        'rushing_td',
-    ],
-
-    'running': [
-        'rushing_att',
-        'rushing_yard',
-        'rushing_avg',
-        'rushing_td',
-        'receiving_target',
-        'receiving_rec',
-        'receiving_yard',
-        'receiving_avg',
-        'receiving_td',
-    ],
-
-    'wide': [
-        'receiving_target',
-        'receiving_rec',
-        'receiving_yard',
-        'receiving_avg',
-        'receiving_td',
-        'rushing_att',
-        'rushing_yard',
-        'rushing_avg',
-        'rushing_td',
-    ],
-
-    'tight': [
-        'receiving_target',
-        'receiving_rec',
-        'receiving_yard',
-        'receiving_avg',
-        'receiving_td',
-    ],
-
-    'kicker': [
-        'fgm', 
-        'fga', 
-        'fg%', 
-        'epm', 
-        'epa'
-    ]
-}
+from os import stat
+from utils import configs
 
 
 def split_on_newline(raw_data):
-
+    """
+    
+    """
     for key in raw_data:
         raw_data[key] = raw_data[key].split("\n\n")
 
@@ -167,13 +20,14 @@ def split_on_newline(raw_data):
 
 
 def group(data):
+    """
     
+    """
     player_dict = {}
-
-    player_dict['header'] = data[0] + data[2]
+    player_dict[configs.table_names[0]] = data[0] + data[2]
 
     for row in data:
-        for string in structure_strings:
+        for string in configs.table_names:
             if row[0] == string:
                 string_key = string.replace(" ", "_").lower()
                 player_dict[string_key] = row
@@ -182,7 +36,9 @@ def group(data):
 
 
 def header_fn(data):
-
+    """
+    
+    """
     header_raw = data['header']
     
     header_raw = header_raw[2:]
@@ -213,8 +69,22 @@ def header_fn(data):
     return data
 
 
-def season_stats_fn(data):
+def stats_to_json(stats, pos, prefix, suffix):
+    """
+    
+    """
+    columns = prefix + configs.col_names[pos] + suffix
+    stats_json = {col: [] for col in columns}
+    for row in stats:
+        for col, item in zip(stats_json, row):
+            stats_json[col].append(item)
+    return stats_json
 
+
+def season_stats_fn(data):
+    """
+    
+    """
     season_stats_raw = data['season_stats']
     pos = data['header']['pos']
 
@@ -226,37 +96,32 @@ def season_stats_fn(data):
 
     season_stats[-1] = season_stats[-1].replace("2022 (Projected)", "2022(Projected)")
 
-    for i in range(len(season_stats)):
-        season_stats[i] = [item for item in season_stats[i].split(" ") if item]
+    for i, data in enumerate(season_stats):
+        season_stats[i] = [item for item in data.split(" ") if item]
 
     season_stats[-1] = season_stats[-1][:2] + [None] + season_stats[-1][2:]
 
-    columns = season_stats_map['base_prefix'] + season_stats_map[pos] + season_stats_map['base_suffix']
-    season_stats_json = {col: [] for col in columns}
-    for row in season_stats:
-        for col, item in zip(season_stats_json, row):
-            season_stats_json[col].append(item)
+    prefix = configs.season_stats['prefix_cols']
+    suffix = configs.season_stats['suffix_cols']
     
-    data['season_stats'] = season_stats_json
+    data['season_stats'] = stats_to_json(season_stats, pos, prefix, suffix)
     return data
 
 
 def gamelog_stats_fn(data, table_name):
-
+    """
+    
+    """
     gamelog_raw = data[table_name]
     pos = data['header']['pos']
 
-    gamelog = [row.replace('at ', '@').split(" ") for row in gamelog_raw[4:]]
-    if "=" in gamelog[-1]:
-        gamelog.pop()
+    gamelog_stats = [row.replace('at ', '@').split(" ") for row in gamelog_raw[4:]]
+    if "=" in gamelog_stats[-1]:
+        gamelog_stats.pop()
 
-    columns = gamelog_stats_map['base_prefix'] + gamelog_stats_map[pos] + gamelog_stats_map['base_suffix']
-    gamelog_json = {col: [] for col in columns}
-    for row in gamelog:
-        for col, item in zip(gamelog_json, row):
-            gamelog_json[col].append(item)
-    
-    data[table_name] = gamelog_json
+    prefix = configs.gamelog_stats['prefix_cols']
+    suffix = configs.gamelog_stats['suffix_cols']
+    data[table_name] = stats_to_json(gamelog_stats, pos, prefix, suffix)
     return data
 
 
@@ -266,33 +131,33 @@ def gamelog_stats_2019_fn(data): return gamelog_stats_fn(data, '2019_gamelog_sta
 
 
 def exe():
-        
-    # preparation
-    master_raw_data = json.load(open(raw_loc, 'rb'))
-    raw_data = {k: v['data'] for k, v in master_raw_data.items()}
-    raw_data = split_on_newline(raw_data)
-    
-    # transformation
-    transformation_functions = {
+
+    function_map = {
         'header': header_fn,
         'season_stats': season_stats_fn,
         '2021_gamelog_stats': gamelog_stats_2021_fn,
         '2020_gamelog_stats': gamelog_stats_2020_fn,
         '2019_gamelog_stats': gamelog_stats_2019_fn,
     }
+        
+    # preparation
+    master_raw_data = json.load(open(configs.raw_loc, 'rb'))
+    raw_data = {k: v['data'] for k, v in master_raw_data.items()}
+    raw_data = split_on_newline(raw_data)
+    
+    # transformation
     for k, data in raw_data.items():
         grouped_data = group(data)
         for group_name in grouped_data:
-            if group_name in transformation_functions:
-                tarnsformation = transformation_functions[group_name]
-                grouped_data = tarnsformation(grouped_data)
-                raw_data[k] = grouped_data
+            tarnsformation = function_map[group_name]
+            grouped_data = tarnsformation(grouped_data)
+            raw_data[k] = grouped_data
 
     # restructure
     for k, data in raw_data.items():
         master_raw_data[k]['data'] = data
 
     # save
-    with open(semistructured_loc, "w") as f:
+    with open(configs.structured_loc, "w") as f:
         json.dump(master_raw_data, f, indent=4)
         
