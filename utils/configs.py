@@ -1,3 +1,14 @@
+from utils import functions
+
+
+function_map = {
+    'header': functions.header_fn,
+    'season_stats': functions.season_stats_fn,
+    '2021_gamelog_stats': functions.gamelog_stats_2021_fn,
+    '2020_gamelog_stats': functions.gamelog_stats_2020_fn,
+    '2019_gamelog_stats': functions.gamelog_stats_2019_fn,
+}
+
 
 raw_loc = 'data/raw.json'
 structured_loc = 'data/structured.json'
@@ -24,6 +35,7 @@ season_stats = {
         'fpts/G',
     ],
 }
+
 
 gamelog_stats = {
     'prefix_cols': [        
