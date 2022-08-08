@@ -29,6 +29,7 @@ def collect_data(driver, links):
 
         data_collection[name] = {
             "id": i,
+            "timestamp": time.strftime("%m/%d/%Y, %H:%M:%S"),
             "link": link,
             "data": page_element.text,
         }
