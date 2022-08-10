@@ -9,6 +9,7 @@ def split_on_newline(raw_data):
     split raw text on newline characters - semistructuring the text objects
     """
     for key in raw_data:
+        raw_data[key] = raw_data[key].replace("\n\n\n", "\n\n")
         raw_data[key] = raw_data[key].split("\n\n")
 
     for key in raw_data:
