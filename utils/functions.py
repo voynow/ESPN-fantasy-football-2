@@ -65,8 +65,8 @@ def season_stats_fn(data):
     season_stats[-1] = season_stats[-1].replace("2022 (Projected)", "2022(Projected)")
 
     # split data within each row
-    for i, data in enumerate(season_stats):
-        season_stats[i] = [item for item in data.split(" ") if item]
+    for i, row in enumerate(season_stats):
+        season_stats[i] = [item for item in row.split(" ") if item]
 
     # edit projected row to match columns
     season_stats[-1] = season_stats[-1][:2] + [None] + season_stats[-1][2:]
