@@ -4,15 +4,19 @@ from selenium.common.exceptions import NoSuchElementException
 
 from webdriver_manager.chrome import ChromeDriverManager
 
+from utils import configs
+
 import json
+import time
 
 
-def create_driver(link):
+def create_driver(link=None):
     """
-    Create chrome driver given web link
+    Create chrome driver, get link if available
     """
     driver = webdriver.Chrome(ChromeDriverManager().install())
-    driver.get(link)
+    if link:
+        driver.get(link)
 
     return driver
 
@@ -42,12 +46,11 @@ def collect_player_links(position_link):
 
     # iterate over players
     player_links = {}
-    fftoday = "https://fftoday.com"
     for element in elements_html:
 
         # access player name and link to player data within HTML
         player_name = element.replace("</a>", "").split(">")[-1]
-        player_link = fftoday + element.split("\"")[1]
+        player_link = configs.fftoday + element.split("\"")[1]
 
         # collect data in dictionary
         player_links[player_name] = player_link
@@ -55,13 +58,15 @@ def collect_player_links(position_link):
     return player_links
 
 
-def exe(output_loc="data/player_links.json"):
-
-    
-    link = "https://fftoday.com/stats/playerstats.php?Season=2021&GameWeek=&PosID="
-    link_suffix = "&LeagueID=17"
+def get_links():
+    """
+    Get web link for all players
+    """
     position_ids = [10, 20, 30, 40, 80]
-    position_links = [link + str(position_id) + link_suffix for position_id in position_ids]
+    link = configs.link
+    suffix = configs.link_suffix
+
+    position_links = [link + str(position_id) + suffix for position_id in position_ids]
 
     player_links = {}
     for position_link in position_links:
@@ -70,6 +75,44 @@ def exe(output_loc="data/player_links.json"):
         for name, player_link in player_links_subset.items():
             player_links[name] = player_link 
 
-    with open(output_loc, "w") as f:
+    with open(configs.links_loc, "w") as f:
         json.dump(player_links, f, indent=4)
+
+
+def collect_data(driver, links):
+    """
+    access raw data from each plauer link and collect metadata
+    """
+    data_collection = {}
+    for i, (name, link) in enumerate(links.items()):
+        
+        driver.get(link)
+        page_element = driver.find_element(By.CLASS_NAME, "bodycontent")
+
+        strfrmt = "%m/%d/%Y, %H:%M:%S"
+        data_collection[name] = {
+            "id": i,
+            "timestamp": time.strftime(strfrmt),
+            "link": link,
+            "data": page_element.text,
+        }
     
+    return data_collection
+
+
+def get_raw():
+    """
+    facilitation of data collection from player_links
+    """
+    links = json.load(open(configs.links_loc, 'rb'))
+    driver = create_driver()
+    data_collection = collect_data(driver, links)
+
+    with open(configs.raw_loc, "w") as f:
+        json.dump(data_collection, f, indent=4)
+
+
+def extract():
+    
+    get_links()
+    get_raw()
