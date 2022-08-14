@@ -49,7 +49,7 @@ def group(data):
     return player_dict
 
 
-def exe():
+def transform():
     """
     Pipeline for facilitating data tranformation of raw text/json data into 
     a structured josn format, where table-like structures begin to emerge

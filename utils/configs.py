@@ -9,10 +9,13 @@ function_map = {
     '2019_gamelog_stats': functions.gamelog_stats_2019_fn,
 }
 
+fftoday = "https://fftoday.com"
+link = f"{fftoday}/stats/playerstats.php?Season=2021&GameWeek=&PosID="
+link_suffix = "&LeagueID=17"
 
+links_loc="data/player_links.json"
 raw_loc = 'data/raw.json'
 structured_loc = 'data/structured.json'
-
 
 table_names = [
     'header',
