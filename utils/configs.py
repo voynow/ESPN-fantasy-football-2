@@ -35,7 +35,7 @@ season_stats = {
 
     'suffix_cols': [ 
         'fpts',
-        'fpts/G',
+        'fpts/g',
     ],
 }
 
@@ -49,7 +49,7 @@ gamelog_stats = {
     ],
 
     'suffix_cols': [ 
-        'FPts',
+        'fpts',
     ],
 }
 
@@ -108,3 +108,30 @@ col_names = {
         'epa'
     ]
 }
+
+float_cols = [
+    'games_played',
+    'fpts',
+    'fpts/g',
+    'week'
+    'cmp', 
+    'passing_att', 
+    'cmp%', 
+    'passing_Yard', 
+    'passing_td', 
+    'int',
+    'rushing_att', 
+    'rushing_yard', 
+    'rushing_avg', 
+    'rushing_td',
+    'receiving_target',
+    'receiving_rec',
+    'receiving_yard',
+    'receiving_avg',
+    'receiving_td',
+    'fgm', 
+    'fga', 
+    'fg%', 
+    'epm', 
+    'epa'
+]
