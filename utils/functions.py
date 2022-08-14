@@ -1,6 +1,5 @@
 from utils import configs
 
-
 def stats_to_json(stats, columns):
     """
     Helper function to convert 2D list into JSON with columns names
@@ -9,6 +8,19 @@ def stats_to_json(stats, columns):
     for row in stats:
         for col, item in zip(stats_json, row):
             stats_json[col].append(item)
+
+
+    fns = [
+        lambda x: None if x == "-" else x,
+        lambda x: x.replace(",", "") if x else None,
+        lambda x: x.replace("%", "") if x else None,
+        lambda x: float(x) if x else None
+    ]
+    for col in stats_json:
+        if col in configs.float_cols:
+            for fn in fns:
+                stats_json[col] = list(map(fn, stats_json[col]))
+
     return stats_json
     
 
@@ -55,6 +67,9 @@ def season_stats_fn(data):
     season_stats_raw = data['season_stats']
     pos = data['header']['pos']
 
+    # edge case for mid-season trades
+    season_stats_raw = [item.replace(" | ", "_") for item in season_stats_raw]
+
     # Collect numeric data
     season_stats = []
     while season_stats_raw[-1].split(" ")[0].isnumeric():
@@ -82,7 +97,7 @@ def season_stats_fn(data):
 
 def gamelog_stats_fn(data, table_name):
     """
-     Extract data pertaining to players game level stats
+    Extract data pertaining to players game level stats
     """
     gamelog_raw = data[table_name]
     pos = data['header']['pos']

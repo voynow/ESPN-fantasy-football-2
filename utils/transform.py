@@ -63,8 +63,8 @@ def transform():
     for k, data in raw_data.items():
         grouped_data = group(data)
         for group_name in grouped_data:
-            tarnsformation = function_map[group_name]
-            grouped_data = tarnsformation(grouped_data)
+            transformation = function_map[group_name]
+            grouped_data = transformation(grouped_data)
             raw_data[k] = grouped_data
 
     # restructuring
